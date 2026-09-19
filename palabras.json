@@ -1,0 +1,252 @@
+[
+  {
+    "word": "efímero",
+    "synonyms": ["pasajero", "breve", "fugaz", "transitorio", "perecedero"],
+    "hint": "Comienza por P... algo que dura muy poco tiempo."
+  },
+  {
+    "word": "inane",
+    "synonyms": ["fútil", "insignificante", "vacío", "inútil", "vano"],
+    "hint": "Sin importancia o sin sustancia."
+  },
+  {
+    "word": "azuzar",
+    "synonyms": ["incitar", "estimular", "provocar", "excitar", "instigar"],
+    "hint": "Animar o incitar a una persona o animal a atacar o pelear."
+  },
+  {
+    "word": "cadalso",
+    "synonyms": ["patíbulo", "tablado", "guillotina", "horca"],
+    "hint": "Estructura levantada para una ejecución pública."
+  },
+  {
+    "word": "remanente",
+    "synonyms": ["sobrante", "resto", "residuo", "remanencia"],
+    "hint": "Aquello que queda o sobra de algo."
+  },
+  {
+    "word": "ubicuidad",
+    "synonyms": ["omnipresencia", "ubicuas", "omnipresente"],
+    "hint": "Capacidad de estar presente en todas partes al mismo tiempo."
+  },
+  {
+    "word": "melancolía",
+    "synonyms": ["tristeza", "morriña", "nostalgia", "penuria", "desaliento"],
+    "hint": "Estado de tristeza vaga, profunda y soslayada."
+  },
+  {
+    "word": "diáfano",
+    "synonyms": ["transparente", "claro", "cristalino", "luminoso"],
+    "hint": "Que deja pasar la luz a través de sí casi totalmente."
+  },
+  {
+    "word": "sagaz",
+    "synonyms": ["astuto", "perspicaz", "inteligente", "agudo", "sutil"],
+    "hint": "Que tiene facilidad para comprender las cosas con agudeza."
+  },
+  {
+    "word": "altruista",
+    "synonyms": ["generoso", "desinteresado", "filántropo", "caritativo"],
+    "hint": "Persona que procura el bien de los demás aun a costa del propio."
+  },
+  {
+    "word": "abrumar",
+    "synonyms": ["agobiar", "atribular", "agotar", "oprimir", "saturar"],
+    "hint": "Causar gran molestia, peso o fatiga emocional o mental."
+  },
+  {
+    "word": "adular",
+    "synonyms": ["halagar", "lisonjear", "alabar", "cortejar"],
+    "hint": "Alabar excesivamente a alguien para ganar su favor."
+  },
+  {
+    "word": "Afligido",
+    "synonyms": ["apesadumbrado", "triste", "apenado", "desconsolado", "afligida"],
+    "hint": "Que siente o muestra aflicción, tristeza o sufrimiento."
+  },
+  {
+    "word": "Aletargado",
+    "synonyms": ["adormecido", "letárgico", "somnoliento", "inactivo", "pasivo"],
+    "hint": "Estado de cansancio o inactividad profunda."
+  },
+  {
+    "word": "Anhelar",
+    "synonyms": ["desear", "ambicionar", "ansiar", "codiciar", "aspirar"],
+    "hint": "Tener un deseo vehemente o intenso de conseguir algo."
+  },
+  {
+    "word": "Apatía",
+    "synonyms": ["indiferencia", "desinterés", "desgana", "desidia", "desánimo"],
+    "hint": "Falta de emoción, interés o entusiasmo por las cosas."
+  },
+  {
+    "word": "Averso",
+    "synonyms": ["reacio", "contrario", "opuesto", "restringido", "desfavorable"],
+    "hint": "Que muestra inclinación opuesta o rechazo hacia algo."
+  },
+  {
+    "word": "Bélico",
+    "synonyms": ["guerrero", "marcial", "combativo", "belicoso"],
+    "hint": "Relacionado directamente con la guerra o el combate."
+  },
+  {
+    "word": "Cándido",
+    "synonyms": ["ingenuo", "inocente", "bonachón", "ingenuidad", "crédulo"],
+    "hint": "Sin malicia, muy confiado o fácil de engañar."
+  },
+  {
+    "word": "Celeridad",
+    "synonyms": ["rapidez", "prontitud", "velocidad", "agilidad", "presteza"],
+    "hint": "Prontitud y rapidez en el movimiento o la ejecución de algo."
+  },
+  {
+    "word": "Censurar",
+    "synonyms": ["reprobar", "criticar", "condenar", "juzgar", "reprochar"],
+    "hint": "Formar juicio negativo sobre algo o prohibir su difusión."
+  },
+  {
+    "word": "Certeza",
+    "synonyms": ["seguridad", "convicción", "certezas", "claridad", "evidencia"],
+    "hint": "Conocimiento seguro y claro de que algo es cierto."
+  },
+  {
+    "word": "Codicia",
+    "synonyms": ["avaricia", "ambición", "ansia", "avidez"],
+    "hint": "Deseo excesivo de riquezas u otros bienes."
+  },
+  {
+    "word": "Concidiar",
+    "synonyms": ["pacificar", "reconciliar", "armonizar", "acordar"],
+    "hint": "Poner de acuerdo a dos partes en desacuerdo."
+  },
+  {
+    "word": "Consternación",
+    "synonyms": ["abatimiento", "desolación", "pesadumbre", "sorpresa", "pánico"],
+    "hint": "Sentimiento de gran abatimiento o estupefacción."
+  },
+  {
+    "word": "Cordura",
+    "synonyms": ["juicio", "sensatez", "prudencia", "razón", "equidad"],
+    "hint": "Buen juicio y capacidad de actuar reflexivamente."
+  },
+  {
+    "word": "Debilitar",
+    "synonyms": ["atenuar", "mermar", "desgastar", "minar", "disminuir"],
+    "hint": "Quitar la fuerza o vigor a algo o alguien."
+  },
+  {
+    "word": "Decadencia",
+    "synonyms": ["declive", "degradación", "deterioro", "caída", "ruina"],
+    "hint": "Pérdida paulatina de la fuerza, valor o importancia."
+  },
+  {
+    "word": "Desdén",
+    "synonyms": ["desprecio", "indiferencia", "menosprecio", "desatención"],
+    "hint": "Actitud de indiferencia o desprecio hacia una persona o cosa."
+  },
+  {
+    "word": "Diligente",
+    "synonyms": ["trabajador", "eficiente", "solícito", "atento", "activo"],
+    "hint": "Que hace las cosas con prisa, cuidado y eficiencia."
+  },
+  {
+    "word": "Dogmático",
+    "synonyms": ["intransigente", "autoritario", "inflexible", "categórico"],
+    "hint": "Que afirma sus opiniones como verdades irrefutables."
+  },
+  {
+    "word": "Elocuente",
+    "synonyms": ["expresivo", "persuasivo", "convincente", "expresiva"],
+    "hint": "Que habla o se expresa de forma eficaz para persuadir."
+  },
+  {
+    "word": "Emular",
+    "synonyms": ["imitar", "igualar", "copiar", "seguir", "reproducir"],
+    "hint": "Imitar las acciones de alguien intentando igualarlo o superarlo."
+  },
+  {
+    "word": "Enigma",
+    "synonyms": ["misterio", "incógnita", "secreto", "acertijo", "rompecabezas"],
+    "hint": "Cosa o declaración que resulta difícil de entender o interpretar."
+  },
+  {
+    "word": "Equitativo",
+    "synonyms": ["justo", "imparcial", "neutral", "equilibrado"],
+    "hint": "Que actúa con justicia e imparcialidad."
+  },
+  {
+    "word": "Esmagado",
+    "synonyms": ["aplastado", "magullado", "comprimido", "destrozado"],
+    "hint": "Cosa o elemento que ha sufrido una compresión violenta."
+  },
+  {
+    "word": "Esporádico",
+    "synonyms": ["ocasional", "discontinuo", "aislado", "intermitente"],
+    "hint": "Que ocurre con poca frecuencia o sin regularidad."
+  },
+  {
+    "word": "Fervor",
+    "synonyms": ["entusiasmo", "pasión", "devoción", "ardor", "vehemencia"],
+    "hint": "Sentimiento intenso de entusiasmo o devoción hacia algo."
+  },
+  {
+    "word": "Furtivo",
+    "synonyms": ["secreto", "oculto", "clandestino", "sigiloso", "discreto"],
+    "hint": "Que se hace a escondidas o tratando de no ser visto."
+  },
+  {
+    "word": "Hostil",
+    "synonyms": ["enemigo", "desfavorable", "agresivo", "antagónico", "adverso"],
+    "hint": "Que muestra enemistad, rechazo o agresión."
+  },
+  {
+    "word": "Ilícito",
+    "synonyms": ["ilegal", "prohibido", "indebido", "ilegítimo", "fraudulento"],
+    "hint": "Que no está permitido por la ley o la moral."
+  },
+  {
+    "word": "Impetuoso",
+    "synonyms": ["impulsivo", "vehemente", "violento", "precipitado", "ardiente"],
+    "hint": "Que actúa de forma violenta, rápida o sin pensar."
+  },
+  {
+    "word": "Indulgente",
+    "synonyms": ["tolerante", "comprensivo", "clemente", "benevolente", "perdonador"],
+    "hint": "Inclinado a perdonar o conceder gracia con facilidad."
+  },
+  {
+    "word": "Insolente",
+    "synonyms": ["descarado", "irrespetuoso", "malhablado", "atrevido", "soberbio"],
+    "hint": "Que falta al respeto a los demás con arrogancia."
+  },
+  {
+    "word": "Lúcido",
+    "synonyms": ["claro", "despierto", "perspicaz", "razonable", "coherente"],
+    "hint": "Que mantiene la claridad mental y el buen juicio."
+  },
+  {
+    "word": "Magnánimo",
+    "synonyms": ["generoso", "noble", "altruista", "desinteresado", "clemente"],
+    "hint": "Persona de gran corazón, benévola y dada al perdón."
+  },
+  {
+    "word": "Nocivo",
+    "synonyms": ["dañino", "perjudicial", "perjudicial", "tóxico", "nicioso"],
+    "hint": "Que causa daño, perjuicio o deterioro a la salud o a las cosas."
+  },
+  {
+    "word": "Plausible",
+    "synonyms": ["creíble", "admisible", "razonable", "posible", "probable"],
+    "hint": "Que merece ser aplaudido o que parece razonable y creíble."
+  },
+  {
+    "word": "Sosegado",
+    "synonyms": ["tranquilo", "calmado", "pacífico", "reposado", "sereno"],
+    "hint": "Que se encuentra libre de turbación o alteración."
+  },
+  {
+    "word": "Tácito",
+    "synonyms": ["implícito", "sobreentendido", "callado", "silencioso"],
+    "hint": "Que no se expresa formalmente pero se da por entendido."
+  }
+]
