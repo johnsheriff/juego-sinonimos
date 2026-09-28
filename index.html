@@ -3,8 +3,25 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- Derechos de Autor / Copyright © Juan Manuel Corregidor -->
   <title>El Desafío de los Sinónimos</title>
+  
+  <!-- Configuración PWA / Aplicación Móvil -->
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#6366f1">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="apple-touch-icon" href="icon-192.png">
+
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js')
+          .then(reg => console.log('Service Worker registrado:', reg.scope))
+          .catch(err => console.error('Error Service Worker:', err));
+      });
+    }
+  </script>
+
   <style>
     :root {
       --bg: #0f172a;
@@ -40,7 +57,7 @@
     .game-container {
       background-color: var(--card-bg);
       border-radius: 1rem;
-      box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5), 0 8px 10px -6px rgba(0, 0, 0, 0.5);
+      box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5);
       border: 1px solid var(--border);
       width: 100%;
       max-width: 600px;
@@ -87,7 +104,6 @@
       font-size: 0.75rem;
       color: var(--text-muted);
       text-transform: uppercase;
-      letter-spacing: 0.05em;
     }
 
     .stat-value {
@@ -111,10 +127,8 @@
     .target-word {
       font-size: 2.2rem;
       font-weight: 800;
-      letter-spacing: 0.05em;
       color: #fff;
       text-transform: uppercase;
-      word-break: break-word;
     }
 
     .input-section {
@@ -137,7 +151,6 @@
       border-radius: 0.5rem;
       font-size: 1rem;
       outline: none;
-      transition: border-color 0.2s;
     }
 
     input[type="text"]:focus {
@@ -152,22 +165,16 @@
       border-radius: 0.5rem;
       font-weight: 600;
       cursor: pointer;
-      transition: background-color 0.2s, transform 0.1s;
     }
 
     button:hover {
       background-color: var(--accent-hover);
     }
 
-    button:active {
-      transform: scale(0.98);
-    }
-
     button:disabled {
       background-color: var(--border);
       color: var(--text-muted);
       cursor: not-allowed;
-      transform: none;
     }
 
     .action-buttons {
@@ -182,11 +189,6 @@
       color: var(--text-muted);
     }
 
-    .btn-secondary:hover:not(:disabled) {
-      background-color: rgba(255, 255, 255, 0.05);
-      color: var(--text);
-    }
-
     .feedback-area {
       min-height: 2.5rem;
       display: flex;
@@ -197,7 +199,6 @@
       font-size: 0.95rem;
       border-radius: 0.5rem;
       padding: 0.5rem;
-      transition: all 0.2s;
     }
 
     .feedback-area.correct {
@@ -234,10 +235,11 @@
 
     .synonyms-reveal {
       color: var(--text-muted);
+      line-height: 1.4;
     }
 
     .synonyms-reveal strong {
-      color: var(--text);
+      color: var(--accent);
     }
 
     .screen-overlay {
@@ -272,7 +274,7 @@
 
     <!-- Pantalla de Inicio -->
     <div id="start-screen" class="screen-overlay">
-      <p>Adivina los sinónimos de las palabras propuestas. Puedes pedir pistas si te atascas o rendirte para ver las soluciones.</p>
+      <p>Escribe sinónimos para las palabras seleccionadas al azar. Puedes pedir pistas o rendirte para consultar todos sus sinónimos.</p>
       <button id="start-btn" style="font-size: 1.1rem; padding: 0.8rem 2rem;">¡Empezar a Jugar!</button>
     </div>
 
@@ -335,7 +337,6 @@
     (function() {
       let WORD_DATA = [];
 
-      // Elementos del DOM
       const startScreen = document.getElementById('start-screen');
       const gameContent = document.getElementById('game-content');
       const endScreen = document.getElementById('end-screen');
@@ -355,7 +356,6 @@
       const hintText = document.getElementById('hint-text');
       const synonymsReveal = document.getElementById('synonyms-reveal');
 
-      // Estado del Juego
       let currentIndex = 0;
       let score = 0;
       let streak = 0;
@@ -366,17 +366,17 @@
 
       async function loadWordsFromJSON() {
         try {
-          const response = await fetch('palabras.json');
+          const response = await fetch('./palabras.json');
           if (!response.ok) throw new Error('No se pudo cargar palabras.json');
           WORD_DATA = await response.json();
         } catch (error) {
           console.error(error);
-          alert('Error: Asegúrate de ejecutar esto a través de un servidor local (p. ej. Live Server en VS Code) para permitir la lectura del archivo palabras.json.');
+          alert('Error al cargar el banco de palabras.');
         }
       }
 
       function shuffle(array) {
-        return array.sort(() => Math.random() - 0.5);
+        return [...array].sort(() => Math.random() - 0.5);
       }
 
       async function startGame() {
@@ -387,7 +387,7 @@
         if (WORD_DATA.length === 0) return;
 
         const totalWords = Math.min(10, WORD_DATA.length);
-        gameWords = shuffle([...WORD_DATA]).slice(0, totalWords);
+        gameWords = shuffle(WORD_DATA).slice(0, totalWords);
         
         currentIndex = 0;
         score = 0;
@@ -434,6 +434,13 @@
         return text.trim().toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
       }
 
+      function showAllSynonyms() {
+        const currentData = gameWords[currentIndex];
+        hintsPanel.classList.remove('hidden');
+        synonymsReveal.classList.remove('hidden');
+        synonymsReveal.innerHTML = `Todos los sinónimos registrados: <strong>${currentData.synonyms.join(', ')}</strong>`;
+      }
+
       function checkAnswer() {
         if (answered || surrendered) return;
 
@@ -455,6 +462,7 @@
 
           feedbackEl.className = 'feedback-area correct';
           feedbackEl.textContent = `¡Correcto! (+${earned} pts)`;
+          showAllSynonyms();
           finishTurn();
         } else {
           streak = 0;
@@ -485,10 +493,7 @@
         streak = 0;
         updateStats();
 
-        const currentData = gameWords[currentIndex];
-        hintsPanel.classList.remove('hidden');
-        synonymsReveal.classList.remove('hidden');
-        synonymsReveal.innerHTML = `Sinónimos válidos: <strong>${currentData.synonyms.join(', ')}</strong>`;
+        showAllSynonyms();
 
         feedbackEl.className = 'feedback-area incorrect';
         feedbackEl.textContent = 'Te has rendido con esta palabra.';
@@ -518,15 +523,10 @@
         finalScore.textContent = score;
       }
 
-      function resetGame() {
-        startGame();
-      }
-
-      // Event Listeners
       startBtn.addEventListener('click', startGame);
       submitBtn.addEventListener('click', checkAnswer);
       helpBtn.addEventListener('click', helpMe);
-      resetBtn.addEventListener('click', resetGame);
+      resetBtn.addEventListener('click', startGame);
 
       surrenderBtn.addEventListener('click', () => {
         if (surrendered || answered) {
