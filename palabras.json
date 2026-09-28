@@ -1,252 +1,7783 @@
 [
   {
-    "word": "efímero",
-    "synonyms": ["pasajero", "breve", "fugaz", "transitorio", "perecedero"],
-    "hint": "Comienza por P... algo que dura muy poco tiempo."
+    "word": "abanderado",
+    "synonyms": [
+      "defensor",
+      "paladín",
+      "portador",
+      "líder",
+      "cabecilla"
+    ],
+    "hint": "Persona que encabeza o defiende una causa o movimiento."
   },
   {
-    "word": "inane",
-    "synonyms": ["fútil", "insignificante", "vacío", "inútil", "vano"],
-    "hint": "Sin importancia o sin sustancia."
+    "word": "abducción",
+    "synonyms": [
+      "secuestro",
+      "rapto",
+      "separación",
+      "retirada"
+    ],
+    "hint": "Acción de alejar o secuestrar."
+  },
+  {
+    "word": "abjurar",
+    "synonyms": [
+      "retractarse",
+      "renegar",
+      "apostatar",
+      "desdecirse",
+      "renunciar"
+    ],
+    "hint": "Renunciar solemnemente a una creencia o doctrina."
+  },
+  {
+    "word": "abotargado",
+    "synonyms": [
+      "hinchado",
+      "inflamado",
+      "embotado",
+      "rechoncho",
+      "abotagado"
+    ],
+    "hint": "Que presenta inflamación o abultamiento en el cuerpo o rostro."
+  },
+  {
+    "word": "abroncar",
+    "synonyms": [
+      "reprender",
+      "amonestar",
+      "abuchear",
+      "reprochar",
+      "bronquear"
+    ],
+    "hint": "Regañar fuertemente o manifestar desaprobación en público."
+  },
+  {
+    "word": "abrupto",
+    "synonyms": [
+      "escarpado",
+      "áspero",
+      "accidentado",
+      "repentino",
+      "violento"
+    ],
+    "hint": "Terreno de difícil acceso o comportamiento violento e imprevisto."
+  },
+  {
+    "word": "absorto",
+    "synonyms": [
+      "ensimismado",
+      "pasmado",
+      "atónito",
+      "concentrado",
+      "cautivado"
+    ],
+    "hint": "Que tiene la atención totalmente entregada a un pensamiento o estímulo."
+  },
+  {
+    "word": "abyecto",
+    "synonyms": [
+      "despreciable",
+      "vil",
+      "bajo",
+      "infame",
+      "ruin"
+    ],
+    "hint": "Que comete actos sumamente viles o despreciables."
+  },
+  {
+    "word": "acefalia",
+    "synonyms": [
+      "desgobierno",
+      "anarquía",
+      "falta de líder"
+    ],
+    "hint": "Falta de dirección, gobierno o cabeza en una organización."
+  },
+  {
+    "word": "acendrado",
+    "synonyms": [
+      "puro",
+      "impecable",
+      "depurado",
+      "acrisolado",
+      "limpio"
+    ],
+    "hint": "Que carece de defectos, purificado al máximo."
+  },
+  {
+    "word": "aciago",
+    "synonyms": [
+      "desgraciado",
+      "infausto",
+      "funesto",
+      "fatídico",
+      "nefasto"
+    ],
+    "hint": "Día o suceso cargado de desgracia o mala suerte."
+  },
+  {
+    "word": "acuciante",
+    "synonyms": [
+      "apremiante",
+      "urgente",
+      "perentorio",
+      "insistente"
+    ],
+    "hint": "Que exige una solución o atención inmediata."
+  },
+  {
+    "word": "adalid",
+    "synonyms": [
+      "líder",
+      "cabecilla",
+      "guía",
+      "defensor",
+      "paladín"
+    ],
+    "hint": "Guía, cabeza o líder destacado de una causa."
+  },
+  {
+    "word": "adefesio",
+    "synonyms": [
+      "bodrio",
+      "mamarracho",
+      "espantajo",
+      "extravagancia"
+    ],
+    "hint": "Persona o cosa ridícula, fea o extravagante."
+  },
+  {
+    "word": "aducir",
+    "synonyms": [
+      "alegar",
+      "argumentar",
+      "exponer",
+      "presentar",
+      "esgrimir"
+    ],
+    "hint": "Presentar pruebas o razones para justificar algo."
+  },
+  {
+    "word": "adyacente",
+    "synonyms": [
+      "contiguo",
+      "alindado",
+      "vecino",
+      "cercano",
+      "próximo"
+    ],
+    "hint": "Que está situado justo al lado o contiguo a otra cosa."
+  },
+  {
+    "word": "aedo",
+    "synonyms": [
+      "bardo",
+      "poeta",
+      "trovador",
+      "cantor"
+    ],
+    "hint": "Poeta cantor de la antigua Grecia."
+  },
+  {
+    "word": "afabilidad",
+    "synonyms": [
+      "amabilidad",
+      "cordialidad",
+      "gentileza"
+    ],
+    "hint": "Cualidad de ser amable, accesible y afectuoso en el trato."
+  },
+  {
+    "word": "afanoso",
+    "synonyms": [
+      "trabajoso",
+      "fatigoso",
+      "laborioso",
+      "diligente",
+      "solícito"
+    ],
+    "hint": "Que pone mucho esfuerzo o que cuesta gran trabajo."
+  },
+  {
+    "word": "aferrarse",
+    "synonyms": [
+      "agarrarse",
+      "asirse",
+      "obstinarse",
+      "empeñarse",
+      "atarse"
+    ],
+    "hint": "Agarrarse fuertemente a algo físico o a una idea."
+  },
+  {
+    "word": "afluencia",
+    "synonyms": [
+      "concurrencia",
+      "abundancia",
+      "aglomeración"
+    ],
+    "hint": "Llegada masiva de personas o abundancia de cosas."
+  },
+  {
+    "word": "aforismo",
+    "synonyms": [
+      "máxima",
+      "sentencia",
+      "proverbio",
+      "refrán",
+      "dicho"
+    ],
+    "hint": "Sentencia breve y doctrinal que propone una regla."
+  },
+  {
+    "word": "agasajo",
+    "synonyms": [
+      "homenaje",
+      "atención",
+      "obsequio",
+      "regalo",
+      "banquete"
+    ],
+    "hint": "Muestra de afecto o consideración mediante un regalo o fiesta."
+  },
+  {
+    "word": "agitador",
+    "synonyms": [
+      "instigador",
+      "provocador",
+      "revolucionario",
+      "perturbador"
+    ],
+    "hint": "Persona que incita a la rebelión o a la protesta."
+  },
+  {
+    "word": "agonizante",
+    "synonyms": [
+      "moribundo",
+      "falleciente",
+      "terminal"
+    ],
+    "hint": "Que está en las últimas etapas de la vida."
+  },
+  {
+    "word": "agraviante",
+    "synonyms": [
+      "ofensivo",
+      "injurioso",
+      "insultante",
+      "humillante"
+    ],
+    "hint": "Que constituye un ultraje u ofensa hacia alguien."
+  },
+  {
+    "word": "agreste",
+    "synonyms": [
+      "campestre",
+      "rústico",
+      "salvaje",
+      "tosco",
+      "rural"
+    ],
+    "hint": "Relativo al campo, silvestre o sin cultivar."
+  },
+  {
+    "word": "aherrojar",
+    "synonyms": [
+      "encadenar",
+      "oprimir",
+      "aprisionar",
+      "esclavizar"
+    ],
+    "hint": "Poner grilletes o privar de libertad severamente."
+  },
+  {
+    "word": "ahíto",
+    "synonyms": [
+      "saciado",
+      "harto",
+      "lleno",
+      "repleto",
+      "empachado"
+    ],
+    "hint": "Que ha comido hasta estar totalmente lleno o cansado de algo."
+  },
+  {
+    "word": "alarife",
+    "synonyms": [
+      "arquitecto",
+      "constructor",
+      "albañil",
+      "maestro de obras"
+    ],
+    "hint": "Constructor o maestro de obras antiguo."
+  },
+  {
+    "word": "alegoría",
+    "synonyms": [
+      "símbolo",
+      "metáfora",
+      "representación",
+      "figuración"
+    ],
+    "hint": "Representación simbólica de ideas abstractas."
+  },
+  {
+    "word": "alfeñique",
+    "synonyms": [
+      "endeble",
+      "enclenque",
+      "débil",
+      "delicado"
+    ],
+    "hint": "Persona de complexión débil, delgada y delicada."
+  },
+  {
+    "word": "algarabía",
+    "synonyms": [
+      "alboroto",
+      "griterío",
+      "vocerío",
+      "confusión",
+      "bullicio"
+    ],
+    "hint": "Ruido producido por varias voces hablando al mismo tiempo."
+  },
+  {
+    "word": "alharaca",
+    "synonyms": [
+      "aspaviento",
+      "exageración",
+      "bulla"
+    ],
+    "hint": "Demostración exagerada de alegría, admiración o dolor."
+  },
+  {
+    "word": "alienación",
+    "synonyms": [
+      "enajenación",
+      "distanciamiento",
+      "despersonalización",
+      "locura"
+    ],
+    "hint": "Pérdida de la identidad o del conocimiento de uno mismo."
+  },
+  {
+    "word": "aluvión",
+    "synonyms": [
+      "inundación",
+      "crecida",
+      "avalancha",
+      "tromba",
+      "afluencia"
+    ],
+    "hint": "Crecida repentina de agua o multitud masiva de cosas."
+  },
+  {
+    "word": "amanuense",
+    "synonyms": [
+      "escribiente",
+      "copista",
+      "secretario",
+      "redactor"
+    ],
+    "hint": "Persona que escribe a mano lo que otra le dicta."
+  },
+  {
+    "word": "ambages",
+    "synonyms": [
+      "rodeos",
+      "circunloquios",
+      "evasivas",
+      "indirectas"
+    ],
+    "hint": "Rodeos de palabras para no decir algo directamente."
+  },
+  {
+    "word": "ambrosía",
+    "synonyms": [
+      "manjar",
+      "delicia",
+      "néctar",
+      "alimento divino"
+    ],
+    "hint": "Comida de los dioses o alimento de gusto exquisito."
+  },
+  {
+    "word": "amonestar",
+    "synonyms": [
+      "reprender",
+      "advertir",
+      "reprochar",
+      "exhortar"
+    ],
+    "hint": "Hacer una llamada de atención para corregir una conducta."
+  },
+  {
+    "word": "ampulosidad",
+    "synonyms": [
+      "pomposidad",
+      "redundancia",
+      "retórica",
+      "afectación"
+    ],
+    "hint": "Exceso de adorno o lenguaje pretencioso."
+  },
+  {
+    "word": "ampuloso",
+    "synonyms": [
+      "pomposo",
+      "redundante",
+      "recargado",
+      "retórico"
+    ],
+    "hint": "Lenguaje o estilo demasiado adornado y pretencioso."
+  },
+  {
+    "word": "anacrónico",
+    "synonyms": [
+      "obsoleto",
+      "extemporáneo",
+      "anticuado",
+      "desfasado"
+    ],
+    "hint": "Que no corresponde a la época en la que se sitúa."
+  },
+  {
+    "word": "anatema",
+    "synonyms": [
+      "excomunión",
+      "maldición",
+      "condena",
+      "reprobación"
+    ],
+    "hint": "Condena o repulsa pública severa."
+  },
+  {
+    "word": "anfibología",
+    "synonyms": [
+      "ambigüedad",
+      "doble sentido",
+      "equívoco"
+    ],
+    "hint": "Doble sentido o ambigüedad en una expresión."
+  },
+  {
+    "word": "animadversión",
+    "synonyms": [
+      "antipatía",
+      "hostilidad",
+      "rencor",
+      "aversión",
+      "odio"
+    ],
+    "hint": "Sentimiento de enemistad o rechazo hacia alguien."
+  },
+  {
+    "word": "anodino",
+    "synonyms": [
+      "insignificante",
+      "insípido",
+      "irrelevante",
+      "común"
+    ],
+    "hint": "Que carece de interés o de características destacables."
+  },
+  {
+    "word": "anonadar",
+    "synonyms": [
+      "desconcertar",
+      "abrumar",
+      "pasmados",
+      "sorprender",
+      "conmocionar"
+    ],
+    "hint": "Dejar a alguien desconcertado o impresionado."
+  },
+  {
+    "word": "anquilosado",
+    "synonyms": [
+      "paralizado",
+      "estancado",
+      "inmóvil",
+      "rígido",
+      "atrofiado"
+    ],
+    "hint": "Que ha perdido la movilidad o la flexibilidad."
+  },
+  {
+    "word": "antonomasia",
+    "synonyms": [
+      "excelencia",
+      "prototipo"
+    ],
+    "hint": "Uso de un nombre propio por uno común o por excelencia."
+  },
+  {
+    "word": "anécdota",
+    "synonyms": [
+      "relato",
+      "suceso",
+      "historieta",
+      "vivencia",
+      "curiosidad"
+    ],
+    "hint": "Relato breve de un suceso curioso o divertido."
+  },
+  {
+    "word": "apearse",
+    "synonyms": [
+      "desmontar",
+      "descender",
+      "bajar",
+      "ceder"
+    ],
+    "hint": "Descender de un vehículo, caballo o posición."
+  },
+  {
+    "word": "apologizar",
+    "synonyms": [
+      "defender",
+      "alabar",
+      "elogiar",
+      "justificar"
+    ],
+    "hint": "Hacer un discurso o defensa a favor de algo o alguien."
+  },
+  {
+    "word": "aprensión",
+    "synonyms": [
+      "temor",
+      "reparo",
+      "desconfianza",
+      "escrúpulo",
+      "recelo"
+    ],
+    "hint": "Temor infundado o escrúpulo a que algo dañe."
+  },
+  {
+    "word": "aprisco",
+    "synonyms": [
+      "redil",
+      "majada",
+      "establo",
+      "corral"
+    ],
+    "hint": "Lugar cercado para recoger y guardar el ganado."
+  },
+  {
+    "word": "aquilatado",
+    "synonyms": [
+      "valorado",
+      "examinado",
+      "ponderado",
+      "comprobado"
+    ],
+    "hint": "Analizado con detenimiento o ajustado en su valor."
+  },
+  {
+    "word": "arborecer",
+    "synonyms": [
+      "florecer",
+      "crecer",
+      "desarrollarse"
+    ],
+    "hint": "Tomar forma de árbol o crecer progresivamente."
+  },
+  {
+    "word": "arenga",
+    "synonyms": [
+      "discurso",
+      "proclama",
+      "exhortación",
+      "sermón"
+    ],
+    "hint": "Discurso pronunciado para enardecer los ánimos."
+  },
+  {
+    "word": "argucia",
+    "synonyms": [
+      "artimaña",
+      "sutileza",
+      "treta",
+      "ardid",
+      "truco"
+    ],
+    "hint": "Sutileza o argumento falso presentado con astucia."
+  },
+  {
+    "word": "arisco",
+    "synonyms": [
+      "huraño",
+      "intratable",
+      "esquivo",
+      "brusco"
+    ],
+    "hint": "Que evita el trato con los demás o es áspero."
+  },
+  {
+    "word": "aristas",
+    "synonyms": [
+      "bordes",
+      "cantos",
+      "esquinas",
+      "ángulos"
+    ],
+    "hint": "Líneas de intersección de dos planos o aspectos."
+  },
+  {
+    "word": "armisticio",
+    "synonyms": [
+      "tregua",
+      "pacto",
+      "alto el fuego"
+    ],
+    "hint": "Acuerdo temporal para suspender las hostilidades."
+  },
+  {
+    "word": "arrebatar",
+    "synonyms": [
+      "quitar",
+      "despojar",
+      "sustraer",
+      "entusiasmar"
+    ],
+    "hint": "Quitar algo con violencia o provocar gran admiración."
+  },
+  {
+    "word": "arrogante",
+    "synonyms": [
+      "altanero",
+      "soberbio",
+      "orgulloso",
+      "presuntuoso",
+      "engreído"
+    ],
+    "hint": "Que muestra una altivez excesiva frente a los demás."
+  },
+  {
+    "word": "arrogar",
+    "synonyms": [
+      "atribuirse",
+      "adjudicarse",
+      "apropiarse",
+      "asumir"
+    ],
+    "hint": "Atribuirse facultades o derechos sin corresponderle."
+  },
+  {
+    "word": "artero",
+    "synonyms": [
+      "astuto",
+      "mañoso",
+      "solapado",
+      "falso",
+      "traidor"
+    ],
+    "hint": "Que actúa con maña, astucia o intencion disimulada."
+  },
+  {
+    "word": "asaz",
+    "synonyms": [
+      "bastante",
+      "harto",
+      "suficiente",
+      "muy"
+    ],
+    "hint": "Adverbio antiguo que significa bastante o muy."
+  },
+  {
+    "word": "asertivo",
+    "synonyms": [
+      "afirmativo",
+      "seguro",
+      "expresivo",
+      "categórico"
+    ],
+    "hint": "Que expresa sus opiniones con firmeza y respeto."
+  },
+  {
+    "word": "aspavientos",
+    "synonyms": [
+      "alharaca",
+      "gesticulación",
+      "exageración"
+    ],
+    "hint": "Demostraciones excesivas o gestos exagerados."
+  },
+  {
+    "word": "astracanada",
+    "synonyms": [
+      "farsa",
+      "disparate",
+      "burla"
+    ],
+    "hint": "Obra cómica o situación caracterizada por el disparate."
+  },
+  {
+    "word": "astuto",
+    "synonyms": [
+      "sagaz",
+      "perspicaz",
+      "pillo",
+      "ladino",
+      "hábil"
+    ],
+    "hint": "Habilidoso para engañar o evitar el engaño."
+  },
+  {
+    "word": "atributo",
+    "synonyms": [
+      "cualidad",
+      "característica",
+      "propiedad",
+      "rasgo"
+    ],
+    "hint": "Cualidad propia de un ser o cosa."
+  },
+  {
+    "word": "atrofiado",
+    "synonyms": [
+      "debilitado",
+      "mutilado",
+      "degenerado",
+      "inactivo"
+    ],
+    "hint": "Órgano o habilidad reducida por falta de uso."
+  },
+  {
+    "word": "atroz",
+    "synonyms": [
+      "cruel",
+      "inhumano",
+      "feroz",
+      "terrible",
+      "despiadado"
+    ],
+    "hint": "Sumamente cruel o doloroso."
+  },
+  {
+    "word": "atuendo",
+    "synonyms": [
+      "vestimenta",
+      "traje",
+      "indumentaria",
+      "atavío"
+    ],
+    "hint": "Conjunto de ropa y accesorios que viste una persona."
+  },
+  {
+    "word": "atávico",
+    "synonyms": [
+      "ancestral",
+      "hereditario",
+      "tradicional",
+      "primitivo"
+    ],
+    "hint": "Perteneciente a los antepasados."
+  },
+  {
+    "word": "atónito",
+    "synonyms": [
+      "pasmado",
+      "estupefacto",
+      "sorprendido",
+      "asombrado"
+    ],
+    "hint": "Extremadamente sorprendido o espantado."
+  },
+  {
+    "word": "audacia",
+    "synonyms": [
+      "valentía",
+      "intrepidez",
+      "osadía",
+      "coraje",
+      "atrevimiento"
+    ],
+    "hint": "Capacidad para emprender acciones arriesgadas."
+  },
+  {
+    "word": "audaz",
+    "synonyms": [
+      "valiente",
+      "intrépido",
+      "osado",
+      "atrevido",
+      "resuelto"
+    ],
+    "hint": "Persona dispuesta a afrontar riesgos con valor."
+  },
+  {
+    "word": "augurio",
+    "synonyms": [
+      "presagio",
+      "profecía",
+      "pronóstico",
+      "presentimiento"
+    ],
+    "hint": "Señal o indicio que anuncia un hecho futuro."
+  },
+  {
+    "word": "aura",
+    "synonyms": [
+      "hálito",
+      "brisa",
+      "atmósfera",
+      "ambiente"
+    ],
+    "hint": "Atmósfera o vibración especial que rodea a alguien."
+  },
+  {
+    "word": "austero",
+    "synonyms": [
+      "sobrio",
+      "severo",
+      "frugal",
+      "sencillo",
+      "riguroso"
+    ],
+    "hint": "Sin adornos superfluos, severo o moderado."
+  },
+  {
+    "word": "averno",
+    "synonyms": [
+      "infierno",
+      "báratro",
+      "orco",
+      "abismo"
+    ],
+    "hint": "Lugar o estado de castigo supremo tras la muerte."
+  },
+  {
+    "word": "ayo",
+    "synonyms": [
+      "preceptor",
+      "tutor",
+      "instructor",
+      "educador"
+    ],
+    "hint": "Persona encargada del cuidado y educación de niños."
+  },
+  {
+    "word": "azar",
+    "synonyms": [
+      "casualidad",
+      "fortuna",
+      "destino",
+      "suerte",
+      "imprevisto"
+    ],
+    "hint": "Causa de los sucesos no calculados o imprevisibles."
+  },
+  {
+    "word": "azorado",
+    "synonyms": [
+      "turbado",
+      "confuso",
+      "desconcertado",
+      "asustado"
+    ],
+    "hint": "Que muestra turbación o inquietud repentina."
   },
   {
     "word": "azuzar",
-    "synonyms": ["incitar", "estimular", "provocar", "excitar", "instigar"],
-    "hint": "Animar o incitar a una persona o animal a atacar o pelear."
+    "synonyms": [
+      "incitar",
+      "estimular",
+      "instigar",
+      "provocar"
+    ],
+    "hint": "Incitación a un animal o persona a atacar o actuar."
+  },
+  {
+    "word": "baladre",
+    "synonyms": [
+      "adelfa",
+      "arbusto"
+    ],
+    "hint": "Planta arbustiva de flores vistosas pero tóxicas."
+  },
+  {
+    "word": "baldragas",
+    "synonyms": [
+      "flojo",
+      "apático",
+      "debilucho",
+      "calzonazos"
+    ],
+    "hint": "Persona floja, apática y sin carácter."
+  },
+  {
+    "word": "baldío",
+    "synonyms": [
+      "inútil",
+      "vano",
+      "infructuoso",
+      "improductivo",
+      "desierto"
+    ],
+    "hint": "Terreno no cultivado o esfuerzo sin fruto."
+  },
+  {
+    "word": "barbarie",
+    "synonyms": [
+      "crueldad",
+      "salvajismo",
+      "incultura",
+      "atrocidad"
+    ],
+    "hint": "Falta de cultura o estado de extrema crueldad."
+  },
+  {
+    "word": "bardo",
+    "synonyms": [
+      "poeta",
+      "aedo",
+      "trovador",
+      "juglar"
+    ],
+    "hint": "Poeta heroico o cantor lírico."
+  },
+  {
+    "word": "baremo",
+    "synonyms": [
+      "escala",
+      "tabla",
+      "norma",
+      "criterio",
+      "patrón"
+    ],
+    "hint": "Conjunto de normas o escala para evaluar algo."
+  },
+  {
+    "word": "batacazo",
+    "synonyms": [
+      "golpe",
+      "fracaso",
+      "caída",
+      "revés"
+    ],
+    "hint": "Golpe fuerte o fracaso estruendoso e imprevisto."
+  },
+  {
+    "word": "batiburrillo",
+    "synonyms": [
+      "mezcolanza",
+      "pastiche",
+      "desorden",
+      "manga por hombro"
+    ],
+    "hint": "Mezcla desordenada de cosas heterogéneas."
+  },
+  {
+    "word": "bellaco",
+    "synonyms": [
+      "ruin",
+      "vil",
+      "malvado",
+      "astuto",
+      "granuja"
+    ],
+    "hint": "Persona vil, perversa o astuta para el mal."
+  },
+  {
+    "word": "berbiquí",
+    "synonyms": [
+      "taladro",
+      "barrena",
+      "herramienta"
+    ],
+    "hint": "Herramienta manual para taladrar o hacer agujeros."
+  },
+  {
+    "word": "bisoño",
+    "synonyms": [
+      "novato",
+      "inexperto",
+      "principiante",
+      "neófito",
+      "primerizo"
+    ],
+    "hint": "Persona nueva o inexperta en un oficio o arte."
+  },
+  {
+    "word": "blasfemia",
+    "synonyms": [
+      "injuria",
+      "irreverencia",
+      "imprecación",
+      "agravio"
+    ],
+    "hint": "Palabra o expresión injuriosa contra lo sagrado."
+  },
+  {
+    "word": "bodrio",
+    "synonyms": [
+      "adefesio",
+      "caldo",
+      "truño",
+      "cosa mal hecha"
+    ],
+    "hint": "Cosa muy mal elaborada, fea o de pésima calidad."
+  },
+  {
+    "word": "bondadoso",
+    "synonyms": [
+      "benévolo",
+      "afable",
+      "caritativo",
+      "bueno",
+      "magnánimo"
+    ],
+    "hint": "Lleno de bondad y buenas intenciones hacia otros."
+  },
+  {
+    "word": "botarate",
+    "synonyms": [
+      "atolondrado",
+      "alocado",
+      "insensato",
+      "despilfarrador"
+    ],
+    "hint": "Persona alocada, de poco juicio o despilfarradora."
+  },
+  {
+    "word": "brizna",
+    "synonyms": [
+      "fragmento",
+      "partícula",
+      "filamento",
+      "pizca",
+      "brote"
+    ],
+    "hint": "Parte delgadísima de la hierba o porción diminuta de algo."
+  },
+  {
+    "word": "bruma",
+    "synonyms": [
+      "niebla",
+      "neblina",
+      "calima",
+      "oscuridad"
+    ],
+    "hint": "Niebla de menor densidad o turbiedad del aire."
+  },
+  {
+    "word": "brusco",
+    "synonyms": [
+      "repentino",
+      "áspero",
+      "violento",
+      "seco",
+      "inopinado"
+    ],
+    "hint": "Rápido y repentino o áspero en el trato."
+  },
+  {
+    "word": "bruñido",
+    "synonyms": [
+      "pulido",
+      "brillante",
+      "lustrado",
+      "reluciente"
+    ],
+    "hint": "Superficie sacada a brillo o muy pulida."
+  },
+  {
+    "word": "bucólico",
+    "synonyms": [
+      "pastoril",
+      "campestre",
+      "idílico",
+      "rural"
+    ],
+    "hint": "Relativo a la vida del campo y de los pastores."
+  },
+  {
+    "word": "bufonada",
+    "synonyms": [
+      "payasada",
+      "chanza",
+      "burla",
+      "mueca",
+      "farsa"
+    ],
+    "hint": "Dicho o hecho propio de un bufón para hacer reír."
+  },
+  {
+    "word": "bula",
+    "synonyms": [
+      "decreto",
+      "privilegio",
+      "documento",
+      "edicto"
+    ],
+    "hint": "Documento o concesión papal o autoridad oficial."
+  },
+  {
+    "word": "burdo",
+    "synonyms": [
+      "groscero",
+      "tosco",
+      "basto",
+      "ordinario",
+      "chabacano"
+    ],
+    "hint": "Hecho con poco cuidado, tosco o de baja calidad."
+  },
+  {
+    "word": "báratro",
+    "synonyms": [
+      "averno",
+      "infierno",
+      "abismo",
+      "orco"
+    ],
+    "hint": "Infierno o abismo de gran profundidad."
+  },
+  {
+    "word": "cacofonía",
+    "synonyms": [
+      "disonancia",
+      "aspereza",
+      "ruido desagradable"
+    ],
+    "hint": "Combinación de sonidos malsonantes o desagradables."
   },
   {
     "word": "cadalso",
-    "synonyms": ["patíbulo", "tablado", "guillotina", "horca"],
-    "hint": "Estructura levantada para una ejecución pública."
+    "synonyms": [
+      "patíbulo",
+      "guillotina",
+      "horca",
+      "estrado"
+    ],
+    "hint": "Tablado levantado para la ejecución de ajusticiados."
   },
   {
-    "word": "remanente",
-    "synonyms": ["sobrante", "resto", "residuo", "remanencia"],
-    "hint": "Aquello que queda o sobra de algo."
+    "word": "calumnia",
+    "synonyms": [
+      "difamación",
+      "infundio",
+      "falsedad",
+      "agravio",
+      "imputación"
+    ],
+    "hint": "Acusación falsa hecha a sabiendas para dañar a alguien."
   },
   {
-    "word": "ubicuidad",
-    "synonyms": ["omnipresencia", "ubicuas", "omnipresente"],
-    "hint": "Capacidad de estar presente en todas partes al mismo tiempo."
+    "word": "canicular",
+    "synonyms": [
+      "abrasador",
+      "caluroso",
+      "estival",
+      "tórrido"
+    ],
+    "hint": "Perteneciente al periodo del año de mayor calor."
   },
   {
-    "word": "melancolía",
-    "synonyms": ["tristeza", "morriña", "nostalgia", "penuria", "desaliento"],
-    "hint": "Estado de tristeza vaga, profunda y soslayada."
+    "word": "capcioso",
+    "synonyms": [
+      "engañoso",
+      "falaz",
+      "artificioso",
+      "solapado"
+    ],
+    "hint": "Dicho o pregunta hecha para comprometer o engañar."
   },
   {
-    "word": "diáfano",
-    "synonyms": ["transparente", "claro", "cristalino", "luminoso"],
-    "hint": "Que deja pasar la luz a través de sí casi totalmente."
+    "word": "caradura",
+    "synonyms": [
+      "desvergonzado",
+      "fresco",
+      "cinico",
+      "caradura"
+    ],
+    "hint": "Persona descarada que actúa sin vergüenza."
+  },
+  {
+    "word": "carisma",
+    "synonyms": [
+      "atractivo",
+      "encanto",
+      "magnetismo",
+      "liderazgo"
+    ],
+    "hint": "Capacidad especial para atraer o fascinar a los demás."
+  },
+  {
+    "word": "carrusel",
+    "synonyms": [
+      "tiovivo",
+      "giratoria",
+      "rotación"
+    ],
+    "hint": "Atracción giratoria o sucesión veloz de cosas."
+  },
+  {
+    "word": "cataclismo",
+    "synonyms": [
+      "catástrofe",
+      "desastre",
+      "hecatombe",
+      "conmoción"
+    ],
+    "hint": "Desastre enorme en la naturaleza o en la sociedad."
+  },
+  {
+    "word": "catadura",
+    "synonyms": [
+      "aspecto",
+      "traza",
+      "semblante",
+      "apariencia",
+      "pinta"
+    ],
+    "hint": "Aspecto físico o cualidad moral de una persona."
+  },
+  {
+    "word": "cauterizar",
+    "synonyms": [
+      "cicatrizar",
+      "quemar",
+      "curar",
+      "sellar"
+    ],
+    "hint": "Destruir un tejido mediante calor o sustancia química."
+  },
+  {
+    "word": "cavidad",
+    "synonyms": [
+      "hueco",
+      "fosa",
+      "agujero",
+      "depresión",
+      "concavidad"
+    ],
+    "hint": "Espacio hueco dentro de un cuerpo sólido."
+  },
+  {
+    "word": "cerril",
+    "synonyms": [
+      "indómito",
+      "salvaje",
+      "terco",
+      "tosco",
+      "obstinado"
+    ],
+    "hint": "Terreno o animal indomable o persona tozuda."
+  },
+  {
+    "word": "certero",
+    "synonyms": [
+      "atinado",
+      "seguro",
+      "preciso",
+      "fiel",
+      "acertado"
+    ],
+    "hint": "Que da en el blanco o en lo correcto sin fallar."
+  },
+  {
+    "word": "cerúleo",
+    "synonyms": [
+      "azulado",
+      "celeste",
+      "azul",
+      "marino"
+    ],
+    "hint": "De color azul diáfano o similar al del cielo."
+  },
+  {
+    "word": "cetrina",
+    "synonyms": [
+      "amarillenta",
+      "pálida",
+      "verdosa",
+      "melancólica"
+    ],
+    "hint": "De color amarillo verdoso o de aspecto melancólico."
+  },
+  {
+    "word": "chanchullo",
+    "synonyms": [
+      "trapicheo",
+      "enredo",
+      "fraude",
+      "negocio turbio"
+    ],
+    "hint": "Manejo ilícito o tramposo para conseguir un beneficio."
+  },
+  {
+    "word": "chantaje",
+    "synonyms": [
+      "extorsión",
+      "coacción",
+      "presión",
+      "amenaza"
+    ],
+    "hint": "Presión o amenaza para obligar a actuar de un modo."
+  },
+  {
+    "word": "chufla",
+    "synonyms": [
+      "burla",
+      "chanza",
+      "befa",
+      "mofa",
+      "coña"
+    ],
+    "hint": "Dicho o hecho con la intención de burlarse."
+  },
+  {
+    "word": "cicatero",
+    "synonyms": [
+      "mezquino",
+      "tacaño",
+      "roñoso",
+      "amarrado",
+      "miserable"
+    ],
+    "hint": "Que escatima excesivamente en el gasto o entrega."
+  },
+  {
+    "word": "circunloquio",
+    "synonyms": [
+      "rodeo",
+      "ambages",
+      "perífrasis",
+      "evasiva"
+    ],
+    "hint": "Rodeo de palabras para expresar algo sin nombrarlo."
+  },
+  {
+    "word": "ciscar",
+    "synonyms": [
+      "manchar",
+      "ensuciar",
+      "estropear",
+      "pifiar"
+    ],
+    "hint": "Ensuciar algo o arruinar un asunto por torpeza."
+  },
+  {
+    "word": "ciénaga",
+    "synonyms": [
+      "pantanar",
+      "pantano",
+      "lodazal",
+      "marisma",
+      "tremedal"
+    ],
+    "hint": "Lugar lleno de cieno, lodo o agua estancada."
+  },
+  {
+    "word": "clamar",
+    "synonyms": [
+      "implorar",
+      "suplicar",
+      "exigir",
+      "gritar",
+      "vociferar"
+    ],
+    "hint": "Exclamar o pedir algo con desesperación o vehemencia."
+  },
+  {
+    "word": "clarividencia",
+    "synonyms": [
+      "perspicacia",
+      "lucidez",
+      "visión",
+      "sagacidad"
+    ],
+    "hint": "Capacidad de comprender las cosas claramente."
+  },
+  {
+    "word": "clarividente",
+    "synonyms": [
+      "perspicaz",
+      "lucido",
+      "sagaz",
+      "vidente",
+      "intuitivo"
+    ],
+    "hint": "Persona que comprende las cosas con gran lucidez."
+  },
+  {
+    "word": "cliché",
+    "synonyms": [
+      "tópico",
+      "estereotipo",
+      "lugar común",
+      "muletiña"
+    ],
+    "hint": "Idea o frase repetida con frecuencia hasta perder originalidad."
+  },
+  {
+    "word": "coaccionar",
+    "synonyms": [
+      "intimidar",
+      "obligar",
+      "forzar",
+      "extorsionar",
+      "presionar"
+    ],
+    "hint": "Ejercer violencia o fuerza para obligar a hacer algo."
+  },
+  {
+    "word": "coacción",
+    "synonyms": [
+      "presión",
+      "fuerza",
+      "intimidación",
+      "imposición"
+    ],
+    "hint": "Fuerza o violencia ejercida contra alguien."
+  },
+  {
+    "word": "cohorte",
+    "synonyms": [
+      "grupo",
+      "banda",
+      "comitiva",
+      "séquito",
+      "legión"
+    ],
+    "hint": "Grupo de personas o unidad militar en la antigua Roma."
+  },
+  {
+    "word": "comezón",
+    "synonyms": [
+      "picazón",
+      "pico",
+      "inquietud",
+      "desazón",
+      "afán"
+    ],
+    "hint": "Sensación picante en la piel o inquietud del ánimo."
+  },
+  {
+    "word": "comistrajo",
+    "synonyms": [
+      "bodrio",
+      "comida mala",
+      "potingue",
+      "menudencia"
+    ],
+    "hint": "Comida mal hecha o de aspecto desagradable."
+  },
+  {
+    "word": "compeler",
+    "synonyms": [
+      "obligar",
+      "forzar",
+      "impulsar",
+      "constreñir"
+    ],
+    "hint": "Obligar a alguien a hacer algo por la fuerza o autoridad."
+  },
+  {
+    "word": "conchabanza",
+    "synonyms": [
+      "complicidad",
+      "confabulación",
+      "compadrazgo",
+      "pacto"
+    ],
+    "hint": "Confabulación o acuerdo secreto entre varias personas."
+  },
+  {
+    "word": "concomitante",
+    "synonyms": [
+      "simultáneo",
+      "acompañante",
+      "paralelo",
+      "asociado"
+    ],
+    "hint": "Que actúa o acontece junto a otra cosa."
+  },
+  {
+    "word": "condescendencia",
+    "synonyms": [
+      "amabilidad",
+      "tolerancia",
+      "acomodo",
+      "benevolencia"
+    ],
+    "hint": "Aceptación o adaptación a la voluntad de otros."
+  },
+  {
+    "word": "condicionar",
+    "synonyms": [
+      "limitar",
+      "determinar",
+      "supeditar",
+      "restringir"
+    ],
+    "hint": "Hacer depender una cosa de otra o fijar condiciones."
+  },
+  {
+    "word": "confinar",
+    "synonyms": [
+      "recluir",
+      "aislar",
+      "encarcelar",
+      "desterrar",
+      "limitar"
+    ],
+    "hint": "Recluir a alguien en un lugar determinado."
+  },
+  {
+    "word": "confuso",
+    "synonyms": [
+      "borroso",
+      "dudoso",
+      "perplejo",
+      "embrollado",
+      "oscuro"
+    ],
+    "hint": "Que carece de claridad o resulta difícil de entender."
+  },
+  {
+    "word": "congraciarse",
+    "synonyms": [
+      "ganarse",
+      "agradar",
+      "adular",
+      "simpatizar"
+    ],
+    "hint": "Ganarse el afecto o benevolencia de alguien."
+  },
+  {
+    "word": "conjetura",
+    "synonyms": [
+      "hipótesis",
+      "suposición",
+      "presunción",
+      "sospecha"
+    ],
+    "hint": "Juicio formado a partir de indicios o datos incompletos."
+  },
+  {
+    "word": "conjunción",
+    "synonyms": [
+      "unión",
+      "enlace",
+      "coincidencia",
+      "combinación"
+    ],
+    "hint": "Unión o concurrencia de varios elementos o sucesos."
+  },
+  {
+    "word": "conjuntar",
+    "synonyms": [
+      "coordinar",
+      "unir",
+      "armonizar",
+      "combinar"
+    ],
+    "hint": "Unir o poner en consonancia varias cosas."
+  },
+  {
+    "word": "consigna",
+    "synonyms": [
+      "lema",
+      "orden",
+      "instrucción",
+      "mandato"
+    ],
+    "hint": "Orden o lema dictado por una dirección política o grupo."
+  },
+  {
+    "word": "conspicuo",
+    "synonyms": [
+      "ilustre",
+      "insigne",
+      "notable",
+      "sobresaliente"
+    ],
+    "hint": "Que es ilustre, visible o muy destacado."
+  },
+  {
+    "word": "constreñir",
+    "synonyms": [
+      "oprimir",
+      "forzar",
+      "obligar",
+      "apretar",
+      "restringir"
+    ],
+    "hint": "Obligar con fuerza o reducir a estrechez."
+  },
+  {
+    "word": "consustancial",
+    "synonyms": [
+      "inherente",
+      "propio",
+      "inseparable",
+      "esencial"
+    ],
+    "hint": "Que es de la misma sustancia o naturaleza inalienable."
+  },
+  {
+    "word": "contradicción",
+    "synonyms": [
+      "incongruencia",
+      "oposición",
+      "desmentido",
+      "desacuerdo"
+    ],
+    "hint": "Afirmación opuesta a otra expresada con anterioridad."
+  },
+  {
+    "word": "contubernio",
+    "synonyms": [
+      "complot",
+      "confabulación",
+      "alianza",
+      "complicidad"
+    ],
+    "hint": "Alianza o convivencia ilícita o reprensible."
+  },
+  {
+    "word": "convergencia",
+    "synonyms": [
+      "coincidencia",
+      "unión",
+      "confluencia",
+      "encuentro"
+    ],
+    "hint": "Confluencia de varias líneas, ideas o intereses hacia un punto."
+  },
+  {
+    "word": "convicción",
+    "synonyms": [
+      "certeza",
+      "persuasión",
+      "creencia",
+      "seguridad"
+    ],
+    "hint": "Convencimiento profundo sobre una idea o principio."
+  },
+  {
+    "word": "convincente",
+    "synonyms": [
+      "persuasivo",
+      "concluyente",
+      "irrefutable",
+      "sólido"
+    ],
+    "hint": "Que logra convencer o persuadir claramente."
+  },
+  {
+    "word": "corajudo",
+    "synonyms": [
+      "valiente",
+      "irascible",
+      "fogoso",
+      "impetuoso"
+    ],
+    "hint": "Persona apasionada, valiente o fácil de enfadar."
+  },
+  {
+    "word": "coral",
+    "synonyms": [
+      "colectivo",
+      "común",
+      "músico",
+      "marino"
+    ],
+    "hint": "Perteneciente a un coro o al celentéreo marino."
+  },
+  {
+    "word": "corcel",
+    "synonyms": [
+      "caballo",
+      "corredor",
+      "repostero",
+      "potro"
+    ],
+    "hint": "Caballo ligero y veloz para el combate o paseo."
+  },
+  {
+    "word": "corifeo",
+    "synonyms": [
+      "portavoz",
+      "líder",
+      "cabecilla",
+      "director"
+    ],
+    "hint": "Persona que dirige un grupo o actúa como portavoz."
+  },
+  {
+    "word": "cortejar",
+    "synonyms": [
+      "galantear",
+      "pretender",
+      "enamorar",
+      "agasajar"
+    ],
+    "hint": "Procurar la simpatía o amor de alguien."
+  },
+  {
+    "word": "coyunda",
+    "synonyms": [
+      "yugo",
+      "atadura",
+      "subyugación",
+      "matrimonio"
+    ],
+    "hint": "Correa con que se uncen los bueyes o lazo matrimonial."
+  },
+  {
+    "word": "craso",
+    "synonyms": [
+      "grave",
+      "grueso",
+      "grande",
+      "inculpable",
+      "rotundo"
+    ],
+    "hint": "Error o falta de enorme magnitud e inexcusable."
+  },
+  {
+    "word": "crematístico",
+    "synonyms": [
+      "económico",
+      "financiero",
+      "monetario",
+      "lucrativo"
+    ],
+    "hint": "Relativo al dinero o al interés monetario."
+  },
+  {
+    "word": "cretino",
+    "synonyms": [
+      "estúpido",
+      "necio",
+      "tonto",
+      "idiota",
+      "zoquete"
+    ],
+    "hint": "Persona necia, de poco entendimiento o molesta."
+  },
+  {
+    "word": "crispamiento",
+    "synonyms": [
+      "tensión",
+      "contracción",
+      "irritación",
+      "nerviosismo"
+    ],
+    "hint": "Contracción repentina o estado de gran tensión."
+  },
+  {
+    "word": "cruel",
+    "synonyms": [
+      "despiadado",
+      "inhumano",
+      "atroz",
+      "inclemente"
+    ],
+    "hint": "Que disfruta o causa sufrimiento a otros."
+  },
+  {
+    "word": "crápula",
+    "synonyms": [
+      "libertino",
+      "vicioso",
+      "juerguista",
+      "golfante"
+    ],
+    "hint": "Persona entregada a los vicios y a la vida disipada."
+  },
+  {
+    "word": "cuitado",
+    "synonyms": [
+      "afligido",
+      "desdichado",
+      "triste",
+      "temoroso",
+      "apocado"
+    ],
+    "hint": "Que está lleno de penas o es de carácter apocado."
+  },
+  {
+    "word": "cutre",
+    "synonyms": [
+      "miserable",
+      "tacaño",
+      "cutre",
+      "vulgar",
+      "pobretón"
+    ],
+    "hint": "Tacaño o de mala calidad, sucio o descuidadamente hecho."
+  },
+  {
+    "word": "cáustico",
+    "synonyms": [
+      "mordaz",
+      "incisivo",
+      "corrosivo",
+      "sarcástico"
+    ],
+    "hint": "Que quema los tejidos o persona que usa un sarcasmo mordaz."
+  },
+  {
+    "word": "céfiro",
+    "synonyms": [
+      "brisa",
+      "viento suave",
+      "airecillo"
+    ],
+    "hint": "Viento apacible y suave de poniente."
+  },
+  {
+    "word": "cíngaro",
+    "synonyms": [
+      "gitano",
+      "nómada",
+      "bohemio"
+    ],
+    "hint": "Relativo a la comunidad gitana o de vida errante."
+  },
+  {
+    "word": "decadente",
+    "synonyms": [
+      "declinante",
+      "decrépito",
+      "caduco",
+      "en ruinas"
+    ],
+    "hint": "Que va a menos o está en proceso de deterioro."
+  },
+  {
+    "word": "decaer",
+    "synonyms": [
+      "debilitarse",
+      "disminuir",
+      "declinar",
+      "empeorar"
+    ],
+    "hint": "Perder fuerza, valor o energía paulatinamente."
+  },
+  {
+    "word": "declamación",
+    "synonyms": [
+      "recitación",
+      "oratoria",
+      "discurso",
+      "retórica"
+    ],
+    "hint": "Acción de recitar en voz alta con la entonación adecuada."
+  },
+  {
+    "word": "declive",
+    "synonyms": [
+      "pendiente",
+      "declinación",
+      "cuesta",
+      "deterioro"
+    ],
+    "hint": "Inclinación del terreno o decadencia continua."
+  },
+  {
+    "word": "decrépito",
+    "synonyms": [
+      "senil",
+      "viejo",
+      "caduco",
+      "desvencijado"
+    ],
+    "hint": "Muy disminuido en facultades por la vejez."
+  },
+  {
+    "word": "deficiente",
+    "synonyms": [
+      "imperfecto",
+      "incompleto",
+      "escaso",
+      "defectuoso"
+    ],
+    "hint": "Que carece de algo o no alcanza el nivel requerido."
+  },
+  {
+    "word": "deglutir",
+    "synonyms": [
+      "tragar",
+      "ingerir",
+      "devorar",
+      "engullir"
+    ],
+    "hint": "Hacer pasar los alimentos de la boca al estómago."
+  },
+  {
+    "word": "delación",
+    "synonyms": [
+      "denuncia",
+      "soplo",
+      "acusación",
+      "traición"
+    ],
+    "hint": "Revelación secreta de un delito o sospecha."
+  },
+  {
+    "word": "delirante",
+    "synonyms": [
+      "alucinante",
+      "frenético",
+      "disparatado",
+      "desvariado"
+    ],
+    "hint": "Que causa o padece delirio, o es disparatado."
+  },
+  {
+    "word": "denodado",
+    "synonyms": [
+      "intrépido",
+      "esforzado",
+      "decidido",
+      "valeroso"
+    ],
+    "hint": "Que realiza acciones con intrepidez y valor."
+  },
+  {
+    "word": "denostado",
+    "synonyms": [
+      "insultado",
+      "infamado",
+      "difamado",
+      "vilipendiado"
+    ],
+    "hint": "Ofendido o criticado de forma muy severa."
+  },
+  {
+    "word": "denuesto",
+    "synonyms": [
+      "agravio",
+      "insulto",
+      "injuria",
+      "ofensa",
+      "reproche"
+    ],
+    "hint": "Palabra o dicho ofensivo que denigra a alguien."
+  },
+  {
+    "word": "depauperar",
+    "synonyms": [
+      "empobrecer",
+      "debilitar",
+      "arruinar",
+      "agotar"
+    ],
+    "hint": "Empobrecer o reducir drásticamente los recursos de algo."
+  },
+  {
+    "word": "deplorable",
+    "synonyms": [
+      "lamentable",
+      "pésimo",
+      "triste",
+      "funesto",
+      "nefasto"
+    ],
+    "hint": "Digno de ser lamentado o de muy mala calidad."
+  },
+  {
+    "word": "deprecación",
+    "synonyms": [
+      "súplica",
+      "ruego",
+      "petición",
+      "imploración"
+    ],
+    "hint": "Ruego constante e ferviente para conseguir algo."
+  },
+  {
+    "word": "desalmado",
+    "synonyms": [
+      "cruel",
+      "inviolable",
+      "inhumano",
+      "despiadado",
+      "perverso"
+    ],
+    "hint": "Persona de sentimientos crueles y sin piedad."
+  },
+  {
+    "word": "desaprensivo",
+    "synonyms": [
+      "irresponsable",
+      "indiferente",
+      "sin escrúpulos",
+      "descarado"
+    ],
+    "hint": "Que actúa sin miramientos ni consideración por otros."
+  },
+  {
+    "word": "desazón",
+    "synonyms": [
+      "intranquilidad",
+      "disgusto",
+      "desasosiego",
+      "amargura"
+    ],
+    "hint": "Estado de ánimo caracterizado por la inquietud."
+  },
+  {
+    "word": "desbarrar",
+    "synonyms": [
+      "desvariar",
+      "disparatar",
+      "descarriarse",
+      "equivocarse"
+    ],
+    "hint": "Decir o hacer cosas fuera de sentido o razón."
+  },
+  {
+    "word": "desbordante",
+    "synonyms": [
+      "exuberante",
+      "abundante",
+      "desbordado",
+      "rebosante"
+    ],
+    "hint": "Que supera los límites o se muestra con gran ímpetu."
+  },
+  {
+    "word": "descabalar",
+    "synonyms": [
+      "descompletar",
+      "desordenar",
+      "alterar",
+      "desunir"
+    ],
+    "hint": "Quitar piezas de un conjunto dejando incompleto algo."
+  },
+  {
+    "word": "descomponer",
+    "synonyms": [
+      "desordenar",
+      "pudrir",
+      "alterar",
+      "desarmar"
+    ],
+    "hint": "Desorganizar o degradar la materia o estado."
+  },
+  {
+    "word": "desdén",
+    "synonyms": [
+      "desprecio",
+      "desestimación",
+      "menosprecio",
+      "desapego"
+    ],
+    "hint": "Actitud de indiferencia que denota desprecio."
+  },
+  {
+    "word": "desgarrador",
+    "synonyms": [
+      "conmovedor",
+      "doloroso",
+      "patético",
+      "impresionante"
+    ],
+    "hint": "Que despierta una piedad o sufrimiento intenso."
+  },
+  {
+    "word": "desgreñado",
+    "synonyms": [
+      "despeinado",
+      "desaliñado",
+      "revuelto",
+      "harapiento"
+    ],
+    "hint": "Con el cabello desordenado o en mal estado."
+  },
+  {
+    "word": "desidia",
+    "synonyms": [
+      "dejadez",
+      "negligencia",
+      "apatía",
+      "abandono"
+    ],
+    "hint": "Falta de ganas o cuidado en el cumplimiento de tareas."
+  },
+  {
+    "word": "designio",
+    "synonyms": [
+      "propósito",
+      "intención",
+      "plan",
+      "meta",
+      "proyecto"
+    ],
+    "hint": "Plan o propósito pensado por una persona o el destino."
+  },
+  {
+    "word": "desmán",
+    "synonyms": [
+      "exceso",
+      "atropello",
+      "desmán",
+      "desman"
+    ],
+    "hint": "Acción que viola las normas o causa un grave daño."
+  },
+  {
+    "word": "desordenar",
+    "synonyms": [
+      "trastornar",
+      "desorganizar",
+      "embrollar",
+      "alterar"
+    ],
+    "hint": "Quitar el orden de los elementos."
+  },
+  {
+    "word": "despechado",
+    "synonyms": [
+      "resentido",
+      "indignado",
+      "dolido",
+      "amargado"
+    ],
+    "hint": "Que muestra resentimiento por un desengaño."
+  },
+  {
+    "word": "despiadado",
+    "synonyms": [
+      "cruel",
+      "inhumano",
+      "inclemente",
+      "implacable"
+    ],
+    "hint": "Que carece por completo de piedad o compasión."
+  },
+  {
+    "word": "despojar",
+    "synonyms": [
+      "quitar",
+      "desposeer",
+      "desnudar",
+      "privar"
+    ],
+    "hint": "Privar a alguien de sus pertenencias o derechos."
+  },
+  {
+    "word": "desquiciado",
+    "synonyms": [
+      "trastornado",
+      "loco",
+      "frenético",
+      "fuera de sí"
+    ],
+    "hint": "Persona fuera de sí o muy trastornada."
+  },
+  {
+    "word": "desquite",
+    "synonyms": [
+      "venganza",
+      "compensación",
+      "reparto",
+      "represalia"
+    ],
+    "hint": "Acción con que se recobra lo perdido o se toma venganza."
+  },
+  {
+    "word": "destripaterrones",
+    "synonyms": [
+      "gañán",
+      "labriego",
+      "paleto",
+      "tosco"
+    ],
+    "hint": "Persona rústica del campo de poca formación."
+  },
+  {
+    "word": "desvalimiento",
+    "synonyms": [
+      "desamparo",
+      "orfandad",
+      "abandono",
+      "desprotección"
+    ],
+    "hint": "Estado de quien carece de la ayuda necesaria."
+  },
+  {
+    "word": "desvergonzado",
+    "synonyms": [
+      "descarado",
+      "sinvergüenza",
+      "atrevido",
+      "insolente"
+    ],
+    "hint": "Que actúa sin pudor ni respeto."
+  },
+  {
+    "word": "devaneo",
+    "synonyms": [
+      "Devaneo",
+      "devaneo"
+    ],
+    "hint": "Pensamiento caprichoso o amorío pasajero."
+  },
+  {
+    "word": "devenir",
+    "synonyms": [
+      "evolución",
+      "sucesión",
+      "acontecer",
+      "cambio"
+    ],
+    "hint": "Proceso mediante el cual algo llega a ser o evoluciona."
+  },
+  {
+    "word": "diatriba",
+    "synonyms": [
+      "invectiva",
+      "sermón",
+      "crítica",
+      "reproche"
+    ],
+    "hint": "Discurso violento e injurioso contra alguien."
+  },
+  {
+    "word": "dicharacher",
+    "synonyms": [
+      "conversador",
+      "simpático",
+      "comunicativo",
+      "gracioso"
+    ],
+    "hint": "Persona alegre que dice cosas ocurrentes."
+  },
+  {
+    "word": "dicotomía",
+    "synonyms": [
+      "división",
+      "bipartición",
+      "separación",
+      "dualidad"
+    ],
+    "hint": "División de un concepto en dos elementos opuestos."
+  },
+  {
+    "word": "diferir",
+    "synonyms": [
+      "aplazar",
+      "posponer",
+      "discrepar",
+      "distinguirse"
+    ],
+    "hint": "Retrasar un evento o tener un desacuerdo de opinión."
+  },
+  {
+    "word": "digresión",
+    "synonyms": [
+      "desviación",
+      "parentesis",
+      "excursus",
+      "rodeo"
+    ],
+    "hint": "Efecto de romperse el hilo del discurso para tratar otro tema."
+  },
+  {
+    "word": "dilema",
+    "synonyms": [
+      "disyuntiva",
+      "duda",
+      "encrucijada",
+      "problema"
+    ],
+    "hint": "Situación de duda entre dos opciones difíciles."
+  },
+  {
+    "word": "dimanar",
+    "synonyms": [
+      "proceder",
+      "derivar",
+      "provenir",
+      "emanar"
+    ],
+    "hint": "Salir algo de un origen o proceder de él."
+  },
+  {
+    "word": "discrecional",
+    "synonyms": [
+      "arbitrario",
+      "libre",
+      "opcional",
+      "voluntario"
+    ],
+    "hint": "Que depende del criterio o arbitrio de una autoridad."
+  },
+  {
+    "word": "discutir",
+    "synonyms": [
+      "debatir",
+      "polemizar",
+      "disputar",
+      "contraponer"
+    ],
+    "hint": "Sostener opiniones opuestas sobre un tema."
+  },
+  {
+    "word": "disgregar",
+    "synonyms": [
+      "separar",
+      "dispersar",
+      "desunir",
+      "disolver"
+    ],
+    "hint": "Separar los elementos de un todo."
+  },
+  {
+    "word": "dislate",
+    "synonyms": [
+      "disparate",
+      "locura",
+      "despropósito",
+      "insensatez"
+    ],
+    "hint": "Dicho o hecho completamente absurdo o fuera de razón."
+  },
+  {
+    "word": "disloque",
+    "synonyms": [
+      "luxación",
+      "desbarajuste",
+      "disparate"
+    ],
+    "hint": "Desplazamiento articular o situación caótica."
+  },
+  {
+    "word": "disoluto",
+    "synonyms": [
+      "libertino",
+      "licencioso",
+      "depravado",
+      "vicioso"
+    ],
+    "hint": "Entregado a los vicios y desórdenes morales."
+  },
+  {
+    "word": "disolver",
+    "synonyms": [
+      "deshacer",
+      "desintegrar",
+      "anular",
+      "dispersar"
+    ],
+    "hint": "Mezclar una sustancia hasta deshacerla o extinguir un grupo."
+  },
+  {
+    "word": "dispendio",
+    "synonyms": [
+      "despilfarro",
+      "gasto",
+      "derroche",
+      "exceso"
+    ],
+    "hint": "Gasto excesivo e innecesario de dinero o energía."
+  },
+  {
+    "word": "displicente",
+    "synonyms": [
+      "indiferente",
+      "desagradable",
+      "desamoroso",
+      "fresco"
+    ],
+    "hint": "Que muestra desinterés o falta de entusiasmo."
+  },
+  {
+    "word": "distorsión",
+    "synonyms": [
+      "deformación",
+      "alteración",
+      "tergiversación"
+    ],
+    "hint": "Deformación del sentido verdadero o apariencia de algo."
+  },
+  {
+    "word": "divagar",
+    "synonyms": [
+      "vagabundear",
+      "desviarse",
+      "divagar",
+      "fantasiear"
+    ],
+    "hint": "Hablar o pensar sin un objetivo o tema fijo."
+  },
+  {
+    "word": "diácono",
+    "synonyms": [
+      "clérigo",
+      "ministro",
+      "asistente"
+    ],
+    "hint": "Religioso que ha recibido la orden del diaconado."
+  },
+  {
+    "word": "diáspora",
+    "synonyms": [
+      "dispersión",
+      "éxodo",
+      "emigración"
+    ],
+    "hint": "Dispersión de un pueblo o comunidad humana."
+  },
+  {
+    "word": "drenar",
+    "synonyms": [
+      "canalizar",
+      "viciar",
+      "vaciar",
+      "secar"
+    ],
+    "hint": "Extraer el exceso de líquido de un lugar."
+  },
+  {
+    "word": "déspota",
+    "synonyms": [
+      "tirano",
+      "autócrata",
+      "dictador",
+      "opresor"
+    ],
+    "hint": "Gobernante que abusa de su autoridad y poder."
+  },
+  {
+    "word": "díscolo",
+    "synonyms": [
+      "rebelde",
+      "indócil",
+      "desobediente",
+      "recalcitrante"
+    ],
+    "hint": "Que se opone a la disciplina o a las normas."
+  },
+  {
+    "word": "eclipsar",
+    "synonyms": [
+      "oscurecer",
+      "superar",
+      "ocultar",
+      "opacar"
+    ],
+    "hint": "Ocultar la luz de otro cuerpo o destacar sobre alguien."
+  },
+  {
+    "word": "ecléctico",
+    "synonyms": [
+      "conciliador",
+      "diverso",
+      "plural",
+      "mixto"
+    ],
+    "hint": "Que selecciona y combina lo mejor de diversos estilos."
+  },
+  {
+    "word": "ecuménico",
+    "synonyms": [
+      "universal",
+      "global",
+      "general",
+      "internacional"
+    ],
+    "hint": "Perteneciente a todo el mundo o a la iglesia universal."
+  },
+  {
+    "word": "efímero",
+    "synonyms": [
+      "pasajero",
+      "breve",
+      "fugaz",
+      "transitorio"
+    ],
+    "hint": "Que dura muy poco tiempo."
+  },
+  {
+    "word": "egregio",
+    "synonyms": [
+      "ilustre",
+      "insigne",
+      "excelente",
+      "afamado"
+    ],
+    "hint": "Que destaca por sus méritos sobresalientes."
+  },
+  {
+    "word": "elidir",
+    "synonyms": [
+      "omitir",
+      "suprimir",
+      "eliminar",
+      "obviar"
+    ],
+    "hint": "Suprimir una vocal o elemento en la escritura o habla."
+  },
+  {
+    "word": "elipsis",
+    "synonyms": [
+      "omisión",
+      "supresión",
+      "corte"
+    ],
+    "hint": "Figura retórica que omite elementos en una oración."
+  },
+  {
+    "word": "elisión",
+    "synonyms": [
+      "supresión",
+      "omisión",
+      "elisión"
+    ],
+    "hint": "Supresión de una vocal o consonante final."
+  },
+  {
+    "word": "elocuencia",
+    "synonyms": [
+      "oratoria",
+      "facundia",
+      "persuasión",
+      "fluidez"
+    ],
+    "hint": "Facultad de hablar de forma elegante y convincente."
+  },
+  {
+    "word": "elocuente",
+    "synonyms": [
+      "persuasivo",
+      "expresivo",
+      "orador",
+      "convincente"
+    ],
+    "hint": "Que habla de manera persuasiva y convincente."
+  },
+  {
+    "word": "eludir",
+    "synonyms": [
+      "esquivar",
+      "evitar",
+      "esquivar",
+      "sortear"
+    ],
+    "hint": "Evitar con astucia una dificultad o compromiso."
+  },
+  {
+    "word": "emanar",
+    "synonyms": [
+      "provenir",
+      "brotar",
+      "proceder",
+      "dimanar"
+    ],
+    "hint": "Desprenderse o brotar algo de un cuerpo u origen."
+  },
+  {
+    "word": "embarullar",
+    "synonyms": [
+      "confundir",
+      "embrollar",
+      "desordenar",
+      "liar"
+    ],
+    "hint": "Desordenar o hacer algo con prisa y confusión."
+  },
+  {
+    "word": "embaucador",
+    "synonyms": [
+      "engañador",
+      "estafador",
+      "impostor",
+      "tramposo"
+    ],
+    "hint": "Que engaña aprovechándose de la buena fe de otros."
+  },
+  {
+    "word": "eminencia",
+    "synonyms": [
+      "notabilidad",
+      "distinción",
+      "altura",
+      "prestigio"
+    ],
+    "hint": "Tratamiento u honor concedido a personas destacadas."
+  },
+  {
+    "word": "eminente",
+    "synonyms": [
+      "destacado",
+      "insigne",
+      "brillante",
+      "ilustre"
+    ],
+    "hint": "Que sobresale por sus grandes virtudes o logros."
+  },
+  {
+    "word": "empedernido",
+    "synonyms": [
+      "obstinado",
+      "recalcitrante",
+      "incorregible",
+      "tenaz"
+    ],
+    "hint": "Que tiene un hábito muy arraigado difícil de cambiar."
+  },
+  {
+    "word": "empréstito",
+    "synonyms": [
+      "préstamo",
+      "crédito",
+      "financiamiento"
+    ],
+    "hint": "Préstamo concedido a una empresa u organismo público."
+  },
+  {
+    "word": "encarrilar",
+    "synonyms": [
+      "encauzar",
+      "dirigir",
+      "guiar",
+      "encaminar"
+    ],
+    "hint": "Poner algo por el camino o cauce adecuado."
+  },
+  {
+    "word": "encauzar",
+    "synonyms": [
+      "dirigir",
+      "encarrilar",
+      "guiar",
+      "canalizar"
+    ],
+    "hint": "Abrir cauce o dar dirección a un asunto o corriente."
+  },
+  {
+    "word": "enclenque",
+    "synonyms": [
+      "débil",
+      "endeble",
+      "delicado",
+      "alfeñique"
+    ],
+    "hint": "Persona de constitución débil o enfermiza."
+  },
+  {
+    "word": "encomiable",
+    "synonyms": [
+      "laudable",
+      "elogioso",
+      "digno de alabanza",
+      "meritorio"
+    ],
+    "hint": "Meritorio y digno de ser alabado."
+  },
+  {
+    "word": "encíclica",
+    "synonyms": [
+      "carta papal",
+      "comunicado",
+      "documento"
+    ],
+    "hint": "Carta solemne que dirige el Papa a los obispos."
+  },
+  {
+    "word": "enfatizar",
+    "synonyms": [
+      "acentuar",
+      "destacar",
+      "resaltar",
+      "subrayar"
+    ],
+    "hint": "Dar particular importancia o relieve a algo."
+  },
+  {
+    "word": "enfático",
+    "synonyms": [
+      "categórico",
+      "expresivo",
+      "vehemente",
+      "conclusivo"
+    ],
+    "hint": "Dicho o hecho con énfasis o firmeza."
+  },
+  {
+    "word": "engreído",
+    "synonyms": [
+      "vanidoso",
+      "presuntuoso",
+      "orgulloso",
+      "pedante"
+    ],
+    "hint": "Que muestra una convicción exagerada sobre sus cualidades."
+  },
+  {
+    "word": "engrudo",
+    "synonyms": [
+      "pegamento",
+      "pasta",
+      "mezcla"
+    ],
+    "hint": "Masa de harina y agua usada para pegar."
+  },
+  {
+    "word": "enhiesta",
+    "synonyms": [
+      "erguida",
+      "levantada",
+      "derecha",
+      "vertical"
+    ],
+    "hint": "Levantada y puesta en posición vertical."
+  },
+  {
+    "word": "enjaezar",
+    "synonyms": [
+      "adornar",
+      "equipar",
+      "ataviar",
+      "engalanar"
+    ],
+    "hint": "Poner los arneses a las caballerías o adornar."
+  },
+  {
+    "word": "enjugar",
+    "synonyms": [
+      "secar",
+      "limpiar",
+      "saldar",
+      "cancelar"
+    ],
+    "hint": "Limpiar la humedad o saldar una deuda o pérdida."
+  },
+  {
+    "word": "enrarecido",
+    "synonyms": [
+      "viciado",
+      "tenso",
+      "escaso",
+      "alterado"
+    ],
+    "hint": "Ambiente cargado de mala calidad o alta tensión."
+  },
+  {
+    "word": "ensambladura",
+    "synonyms": [
+      "unión",
+      "junta",
+      "ensamblaje",
+      "acoplamiento"
+    ],
+    "hint": "Unión encajada de dos piezas."
+  },
+  {
+    "word": "ensamblaje",
+    "synonyms": [
+      "montaje",
+      "unión",
+      "acoplamiento",
+      "agrupación"
+    ],
+    "hint": "Proceso de encajar las piezas de una estructura."
+  },
+  {
+    "word": "ensenada",
+    "synonyms": [
+      "bahía",
+      "cala",
+      "rada",
+      "golfete"
+    ],
+    "hint": "Entrada de mar en la tierra de menor extensión."
+  },
+  {
+    "word": "ensimismarse",
+    "synonyms": [
+      "abstraerse",
+      "concentrarse",
+      "recogerse",
+      "absorberse"
+    ],
+    "hint": "Sumirse en los propios pensamientos aislándose."
+  },
+  {
+    "word": "ensombrecer",
+    "synonyms": [
+      "oscurecer",
+      "nublar",
+      "entristecer",
+      "opacar"
+    ],
+    "hint": "Cubrir de sombra o provocar tristeza en el ánimo."
+  },
+  {
+    "word": "entelequia",
+    "synonyms": [
+      "irrealidad",
+      "fantasía",
+      "quimera",
+      "ilusión"
+    ],
+    "hint": "Cosa irreal o producto de la imaginación sin base."
+  },
+  {
+    "word": "entente",
+    "synonyms": [
+      "pacto",
+      "acuerdo",
+      "alianza",
+      "entendimiento"
+    ],
+    "hint": "Acuerdo o entendimiento entre naciones o partidos."
+  },
+  {
+    "word": "entremetido",
+    "synonyms": [
+      "entrometido",
+      "fisgón",
+      "metomentodo",
+      "impertinente"
+    ],
+    "hint": "Persona que se mete donde no la llaman."
+  },
+  {
+    "word": "envainar",
+    "synonyms": [
+      "enfunda",
+      "guardar",
+      "tolerar",
+      "aguantar"
+    ],
+    "hint": "Meter la espada en su vaina o retirarse sin discutir."
+  },
+  {
+    "word": "envarado",
+    "synonyms": [
+      "tieso",
+      "rígido",
+      "entumecido",
+      "engreído"
+    ],
+    "hint": "Tieso o entumecido en los movimientos."
+  },
+  {
+    "word": "epifanía",
+    "synonyms": [
+      "revelación",
+      "manifestación",
+      "aparición"
+    ],
+    "hint": "Manifestación o revelación trascendental."
+  },
+  {
+    "word": "epopeya",
+    "synonyms": [
+      "poema épico",
+      "gesta",
+      "hazaña",
+      "heroicidad"
+    ],
+    "hint": "Poema narrativo de grandes hazañas o proeza memoriable."
+  },
+  {
+    "word": "epístola",
+    "synonyms": [
+      "carta",
+      "misiva",
+      "mensaje"
+    ],
+    "hint": "Carta formal dirigida a una persona o colectivo."
+  },
+  {
+    "word": "epítome",
+    "synonyms": [
+      "resumen",
+      "compendio",
+      "síntesis",
+      "extracto"
+    ],
+    "hint": "Resumen o representación ideal de algo."
+  },
+  {
+    "word": "erguir",
+    "synonyms": [
+      "levantar",
+      "enderezar",
+      "alzarse",
+      "elevar"
+    ],
+    "hint": "Poner derecha o en posición vertical una cosa."
+  },
+  {
+    "word": "erigir",
+    "synonyms": [
+      "construir",
+      "fundar",
+      "establecer",
+      "alzar"
+    ],
+    "hint": "Construir una edificación o instituir un organismo."
+  },
+  {
+    "word": "esbirro",
+    "synonyms": [
+      "secuaz",
+      "esbirro",
+      "matón",
+      "sirviente"
+    ],
+    "hint": "Persona contratada para ejecutar órdenes violentas de otro."
+  },
+  {
+    "word": "escarceo",
+    "synonyms": [
+      "coqueteo",
+      "tentativa",
+      "prueba",
+      "ensayo"
+    ],
+    "hint": "Intento superficial o coqueteo antes de profundizar."
+  },
+  {
+    "word": "escudriñar",
+    "synonyms": [
+      "examinar",
+      "investigar",
+      "inspeccionar",
+      "indagar"
+    ],
+    "hint": "Examinar minuciosamente para averiguar algo oculto."
+  },
+  {
+    "word": "escéptico",
+    "synonyms": [
+      "desconfiado",
+      "incredulo",
+      "dudoso",
+      "receloso"
+    ],
+    "hint": "Persona que duda o no cree en las verdades comúnmente aceptadas."
+  },
+  {
+    "word": "esotérico",
+    "synonyms": [
+      "oculto",
+      "misterioso",
+      "recondito",
+      "secreto"
+    ],
+    "hint": "Conocimiento reservado a unos pocos iniciados."
+  },
+  {
+    "word": "espaldarazo",
+    "synonyms": [
+      "apoyo",
+      "respaldo",
+      "reconocimiento",
+      "aval"
+    ],
+    "hint": "Muestra decisiva de apoyo o reconocimiento a alguien."
+  },
+  {
+    "word": "espantajo",
+    "synonyms": [
+      "espantapájaros",
+      "bodrio",
+      "adefesio",
+      "mamarracho"
+    ],
+    "hint": "Muñeco para ahuyentar o persona de mala presencia."
+  },
+  {
+    "word": "esparcimiento",
+    "synonyms": [
+      "recreo",
+      "diversión",
+      "ocio",
+      "entretenimiento"
+    ],
+    "hint": "Actividad para distraerse o descansar."
+  },
+  {
+    "word": "espejismo",
+    "synonyms": [
+      "ilusión",
+      "fantasía",
+      "quimera",
+      "alucinación"
+    ],
+    "hint": "Ilusión óptica o falsa apariencia de la realidad."
+  },
+  {
+    "word": "espeluznante",
+    "synonyms": [
+      "escalofriante",
+      "terrorífico",
+      "horrendo",
+      "pavoroso"
+    ],
+    "hint": "Que causa gran terror o eriza los cabellos."
+  },
+  {
+    "word": "esperpento",
+    "synonyms": [
+      "adefesio",
+      "bodrio",
+      "mamarracho",
+      "absurdo"
+    ],
+    "hint": "Persona o situación absurda, fea y grotesca."
+  },
+  {
+    "word": "espiar",
+    "synonyms": [
+      "vigilar",
+      "fisgar",
+      "acechar",
+      "observar"
+    ],
+    "hint": "Observar disimuladamente a alguien sin ser visto."
+  },
+  {
+    "word": "espita",
+    "synonyms": [
+      "grifo",
+      "válvula",
+      "llave",
+      "tapón"
+    ],
+    "hint": "Tubo o canuto para dar salida a líquidos de un tonel."
+  },
+  {
+    "word": "espolear",
+    "synonyms": [
+      "estimular",
+      "incitar",
+      "animar",
+      "puyar"
+    ],
+    "hint": "Picar con la espuela o incitar a actuar rápidamente."
+  },
+  {
+    "word": "espontáneo",
+    "synonyms": [
+      "voluntario",
+      "imprevisto",
+      "natural",
+      "fresco"
+    ],
+    "hint": "Que surge por impulso propio sin ser forzado."
+  },
+  {
+    "word": "esquema",
+    "synonyms": [
+      "boceto",
+      "diagrama",
+      "guía",
+      "resumen"
+    ],
+    "hint": "Representación simplificada de las partes de un todo."
+  },
+  {
+    "word": "esquilmar",
+    "synonyms": [
+      "agotar",
+      "explotar",
+      "depredar",
+      "consumir"
+    ],
+    "hint": "Agotar una fuente de riqueza sacando el máximo provecho."
+  },
+  {
+    "word": "esquirla",
+    "synonyms": [
+      "fragmento",
+      "astilla",
+      "lasca",
+      "trozo"
+    ],
+    "hint": "Astilla o pedazo desprendido de un hueso o metal."
+  },
+  {
+    "word": "estacionario",
+    "synonyms": [
+      "estancado",
+      "inmóvil",
+      "fijo",
+      "constante"
+    ],
+    "hint": "Que se mantiene en el mismo lugar o estado sin variar."
+  },
+  {
+    "word": "estelar",
+    "synonyms": [
+      "brillante",
+      "principal",
+      "astral",
+      "destacado"
+    ],
+    "hint": "Relativo a las estrellas o a un papel principal muy destacado."
+  },
+  {
+    "word": "estereotipo",
+    "synonyms": [
+      "cliché",
+      "patrón",
+      "molde",
+      "preconcepto"
+    ],
+    "hint": "Idea simplificada y comúnmente aceptada sobre un grupo."
+  },
+  {
+    "word": "estrambótico",
+    "synonyms": [
+      "extravagante",
+      "estrafalario",
+      "estrafalario",
+      "raro"
+    ],
+    "hint": "Excéntrico en el modo de vestir o comportarse."
+  },
+  {
+    "word": "estólido",
+    "synonyms": [
+      "insensible",
+      "impasible",
+      "apático",
+      "torpe"
+    ],
+    "hint": "Falta de sensibilidad o agilidad mental."
+  },
+  {
+    "word": "eterno",
+    "synonyms": [
+      "infinito",
+      "imperecedero",
+      "perpetuo",
+      "inmortal"
+    ],
+    "hint": "Que no tiene principio ni fin o dura siempre."
+  },
+  {
+    "word": "eventual",
+    "synonyms": [
+      "ocasional",
+      "fortuito",
+      "provisional",
+      "incierto"
+    ],
+    "hint": "Que sucede por accidente o de forma no permanente."
+  },
+  {
+    "word": "evicción",
+    "synonyms": [
+      "pérdida",
+      "despojo",
+      "privación judicial"
+    ],
+    "hint": "Pérdida de un derecho sobre un bien por sentencia firme."
+  },
+  {
+    "word": "evidente",
+    "synonyms": [
+      "claro",
+      "manifiesto",
+      "obvio",
+      "patente",
+      "palpable"
+    ],
+    "hint": "Tan claro que resulta innegable."
+  },
+  {
+    "word": "evitar",
+    "synonyms": [
+      "eludir",
+      "esquivar",
+      "prevenir",
+      "evitar"
+    ],
+    "hint": "Impedir que ocurra algo insatisfactorio."
+  },
+  {
+    "word": "evocar",
+    "synonyms": [
+      "recordar",
+      "rememorar",
+      "traer a la memoria",
+      "invocar"
+    ],
+    "hint": "Traer un recuerdo a la mente o hacer presente algo."
+  },
+  {
+    "word": "exabrupto",
+    "synonyms": [
+      "salida de tono",
+      "insulto",
+      "impertinencia",
+      "desmán"
+    ],
+    "hint": "Dicho inesperado, fuera de lugar o violento."
+  },
+  {
+    "word": "exangüe",
+    "synonyms": [
+      "desangrado",
+      "exhausto",
+      "debilitado",
+      "pálido"
+    ],
+    "hint": "Sin sangre, completamente agotado o sin fuerzas."
+  },
+  {
+    "word": "exasperado",
+    "synonyms": [
+      "irritado",
+      "enfurecido",
+      "impaciente",
+      "colérico"
+    ],
+    "hint": "Que ha perdido la paciencia hasta la ira."
+  },
+  {
+    "word": "excelso",
+    "synonyms": [
+      "sublime",
+      "eminente",
+      "excelente",
+      "grandioso"
+    ],
+    "hint": "Muy elevado o de máxima calidad moral o artística."
+  },
+  {
+    "word": "excitación",
+    "synonyms": [
+      "agitación",
+      "entusiasmo",
+      "frenesí",
+      "nerviosismo"
+    ],
+    "hint": "Estado de dinamismo o agitación del ánimo."
+  },
+  {
+    "word": "execrable",
+    "synonyms": [
+      "detestable",
+      "abominable",
+      "odioso",
+      "vil"
+    ],
+    "hint": "Que merece ser condenado o detestado severamente."
+  },
+  {
+    "word": "exiguo",
+    "synonyms": [
+      "insuficiente",
+      "escaso",
+      "miserable",
+      "reducido"
+    ],
+    "hint": "Muy escaso o insuficiente en cantidad."
+  },
+  {
+    "word": "eximio",
+    "synonyms": [
+      "ilustre",
+      "insigne",
+      "excelente",
+      "notable"
+    ],
+    "hint": "Muy ilustre y destacado en un campo determinado."
+  },
+  {
+    "word": "exorcizar",
+    "synonyms": [
+      "conjurar",
+      "expulsar",
+      "ahuyentar",
+      "liberar"
+    ],
+    "hint": "Expulsar demonios o influencias malignas mediante ritos."
+  },
+  {
+    "word": "exordio",
+    "synonyms": [
+      "preámbulo",
+      "introducción",
+      "prefacio",
+      "proemio"
+    ],
+    "hint": "Introducción o inicio formal de un discurso."
+  },
+  {
+    "word": "expedición",
+    "synonyms": [
+      "viaje",
+      "cruzada",
+      "marcha",
+      "envío"
+    ],
+    "hint": "Excursión o viaje organizado con un fin específico."
+  },
+  {
+    "word": "expeditivo",
+    "synonyms": [
+      "rápido",
+      "efaz",
+      "diligente",
+      "resuelto"
+    ],
+    "hint": "Que resuelve los problemas con rapidez y eficacia."
+  },
+  {
+    "word": "expedito",
+    "synonyms": [
+      "despejado",
+      "libre",
+      "pronto",
+      "ágil"
+    ],
+    "hint": "Libre de todo obstáculo o pronto para actuar."
+  },
+  {
+    "word": "expiar",
+    "synonyms": [
+      "pagar",
+      "purgar",
+      "reparar",
+      "compensar"
+    ],
+    "hint": "Pagar por las culpas o faltas cometidas."
+  },
+  {
+    "word": "expirar",
+    "synonyms": [
+      "morir",
+      "caducar",
+      "terminar",
+      "fallecer"
+    ],
+    "hint": "Acabarse un plazo de tiempo o morir una persona."
+  },
+  {
+    "word": "expuesto",
+    "synonyms": [
+      "arriesgado",
+      "exhibido",
+      "peligroso",
+      "vulnerable"
+    ],
+    "hint": "Puesto a la vista o sujeto a recibir daños."
+  },
+  {
+    "word": "expurgo",
+    "synonyms": [
+      "limpieza",
+      "depuración",
+      "purificación",
+      "selección"
+    ],
+    "hint": "Eliminación de partes inservibles o prohibidas de una obra."
+  },
+  {
+    "word": "exterminio",
+    "synonyms": [
+      "aniquilación",
+      "destrucción",
+      "genocidio",
+      "masacre"
+    ],
+    "hint": "Destrucción o eliminación total de seres o cosas."
+  },
+  {
+    "word": "extravagante",
+    "synonyms": [
+      "excéntrico",
+      "raro",
+      "estrambótico",
+      "singular"
+    ],
+    "hint": "Fuera de lo común o excesivamente original."
+  },
+  {
+    "word": "faccioso",
+    "synonyms": [
+      "rebelde",
+      "sedicioso",
+      "subversivo",
+      "Insurrecto"
+    ],
+    "hint": "Que se rebela o perturba la tranquilidad pública."
+  },
+  {
+    "word": "facundia",
+    "synonyms": [
+      "elocuencia",
+      "fluidez",
+      "locuacidad",
+      "oratoria"
+    ],
+    "hint": "Facilidad y abundancia para hablar de forma fluida."
+  },
+  {
+    "word": "falaz",
+    "synonyms": [
+      "engañoso",
+      "falso",
+      "falso",
+      "captioso",
+      "mentiroso"
+    ],
+    "hint": "Que utiliza mentiras o falacias para engañar."
+  },
+  {
+    "word": "fanfarrón",
+    "synonyms": [
+      "presuntuoso",
+      "bravucón",
+      "fantoche",
+      "chulo"
+    ],
+    "hint": "Que presume de valiente o importante sin serlo."
+  },
+  {
+    "word": "fantoche",
+    "synonyms": [
+      "títere",
+      "mamarracho",
+      "muñeco",
+      "persona ridícula"
+    ],
+    "hint": "Persona de figura ridícula o manipulada por otros."
+  },
+  {
+    "word": "fatua",
+    "synonyms": [
+      "presuntuosa",
+      "engreída",
+      "vanidosa",
+      "fatuo"
+    ],
+    "hint": "Persona llena de vanidad infundada o ridícula."
+  },
+  {
+    "word": "fatuo",
+    "synonyms": [
+      "presuntuoso",
+      "engreído",
+      "vanidoso",
+      "necio"
+    ],
+    "hint": "Lleno de vanidad absurda y falta de entendimiento."
+  },
+  {
+    "word": "fecundo",
+    "synonyms": [
+      "fértil",
+      "prolífico",
+      "abundante",
+      "producente"
+    ],
+    "hint": "Capaz de producir o crear abundantemente."
+  },
+  {
+    "word": "felón",
+    "synonyms": [
+      "traidor",
+      "desleal",
+      "falso",
+      "infiel"
+    ],
+    "hint": "Que comete felonía o traición a quien debe lealtad."
+  },
+  {
+    "word": "feraz",
+    "synonyms": [
+      "fértil",
+      "fecundo",
+      "abundante",
+      "ubérrimo"
+    ],
+    "hint": "Terreno muy fértil que produce mucho fruto."
+  },
+  {
+    "word": "feroz",
+    "synonyms": [
+      "fiero",
+      "salvaje",
+      "cruel",
+      "encarnizado"
+    ],
+    "hint": "Que muestra fiereza o agresividad extrema."
+  },
+  {
+    "word": "filantropía",
+    "synonyms": [
+      "altruismo",
+      "generosidad",
+      "caridad",
+      "humanitarismo"
+    ],
+    "hint": "Amor a la humanidad mediante la ayuda desinteresada."
+  },
+  {
+    "word": "filántropo",
+    "synonyms": [
+      "altruista",
+      "benefactor",
+      "caritativo",
+      "bienhechor"
+    ],
+    "hint": "Persona que dedica recursos a ayudar a los demás."
+  },
+  {
+    "word": "fiscalizar",
+    "synonyms": [
+      "supervisar",
+      "inspeccionar",
+      "vigilar",
+      "controlar"
+    ],
+    "hint": "Inspeccionar o controlar las acciones de otros."
+  },
+  {
+    "word": "flanquear",
+    "synonyms": [
+      "rodear",
+      "escoltar",
+      "bordear",
+      "proteger"
+    ],
+    "hint": "Colocarse a los lados de una persona o lugar."
+  },
+  {
+    "word": "flemático",
+    "synonyms": [
+      "impasible",
+      "tranquilo",
+      "calmado",
+      "sereno"
+    ],
+    "hint": "Que mantiene la calma y la lentitud ante cualquier situación."
+  },
+  {
+    "word": "fluir",
+    "synonyms": [
+      "correr",
+      "emanar",
+      "circular",
+      "brotar"
+    ],
+    "hint": "Moverse de forma continua como un líquido o pensamiento."
+  },
+  {
+    "word": "flébil",
+    "synonyms": [
+      "lamentable",
+      "lloroso",
+      "triste",
+      "luctuoso"
+    ],
+    "hint": "Digno de ser llorado o sumamente triste."
+  },
+  {
+    "word": "fonda",
+    "synonyms": [
+      "posada",
+      "hostal",
+      "taberna",
+      "albergue"
+    ],
+    "hint": "Establecimiento público donde se da comida y hospedaje."
+  },
+  {
+    "word": "forjar",
+    "synonyms": [
+      "moldear",
+      "crear",
+      "fabricar",
+      "construir"
+    ],
+    "hint": "Dar forma al metal o construir un futuro/carácter."
+  },
+  {
+    "word": "fragor",
+    "synonyms": [
+      "estruendo",
+      "ruido",
+      "clamor",
+      "estrépito"
+    ],
+    "hint": "Ruido resonante o estruendoso."
+  },
+  {
+    "word": "fraternal",
+    "synonyms": [
+      "hermanable",
+      "cariñoso",
+      "afectuoso",
+      "solidario"
+    ],
+    "hint": "Perteneciente a los hermanos o caracterizado por el afecto mutuo."
+  },
+  {
+    "word": "frontispicio",
+    "synonyms": [
+      "fachada",
+      "portada",
+      "frente"
+    ],
+    "hint": "Parte delantera o fachada principal de un edificio."
+  },
+  {
+    "word": "frugal",
+    "synonyms": [
+      "moderado",
+      "parco",
+      "austero",
+      "sencillo"
+    ],
+    "hint": "Moderado en la comida, bebida o estilo de vida."
+  },
+  {
+    "word": "fruición",
+    "synonyms": [
+      "gozo",
+      "placer",
+      "deleite",
+      "satisfacción"
+    ],
+    "hint": "Gozo intenso al disfrutar de algo que se desea."
+  },
+  {
+    "word": "frívolo",
+    "synonyms": [
+      "insustancial",
+      "superficial",
+      "inconsecuente",
+      "ligero"
+    ],
+    "hint": "Que carece de seriedad o profundidad."
+  },
+  {
+    "word": "fugaz",
+    "synonyms": [
+      "pasajero",
+      "breve",
+      "efímero",
+      "rápido"
+    ],
+    "hint": "Que desaparece a la velocidad del rayo."
+  },
+  {
+    "word": "fulgurante",
+    "synonyms": [
+      "brillante",
+      "resplandeciente",
+      "rutilante",
+      "centelleante"
+    ],
+    "hint": "Que fulgura o emite destellos de luz intensa."
+  },
+  {
+    "word": "funesto",
+    "synonyms": [
+      "aciago",
+      "desgraciado",
+      "fatídico",
+      "nefasto"
+    ],
+    "hint": "Que es causa de desastres o grandes penas."
+  },
+  {
+    "word": "fungible",
+    "synonyms": [
+      "consumible",
+      "perecedero",
+      "sustituible"
+    ],
+    "hint": "Que se consume con el uso y se puede reemplazar."
+  },
+  {
+    "word": "furibundo",
+    "synonyms": [
+      "furioso",
+      "colérico",
+      "iracundo",
+      "enfurecido"
+    ],
+    "hint": "Lleno de furia o manifestaciones violentas."
+  },
+  {
+    "word": "fuste",
+    "synonyms": [
+      "entidad",
+      "importancia",
+      "tronco",
+      "valía"
+    ],
+    "hint": "Calibre, altura moral o importancia de una persona o cosa."
+  },
+  {
+    "word": "fárrago",
+    "synonyms": [
+      "cúmulo",
+      "desorden",
+      "mezcolanza",
+      "marimacho"
+    ],
+    "hint": "Conjunto de cosas desordenadas o de escritos oscuros."
+  },
+  {
+    "word": "fúlgido",
+    "synonyms": [
+      "brillante",
+      "resplandeciente",
+      "radiante",
+      "luminoso"
+    ],
+    "hint": "Que brilla de forma resplandeciente."
+  },
+  {
+    "word": "fútil",
+    "synonyms": [
+      "insignificante",
+      "inútil",
+      "vano",
+      "superfluo"
+    ],
+    "hint": "De muy poco o ningún valor o importancia."
+  },
+  {
+    "word": "galimatías",
+    "synonyms": [
+      "jerigonza",
+      "enredo",
+      "confusión",
+      "embrollo"
+    ],
+    "hint": "Lenguaje confuso y difícil de comprender."
+  },
+  {
+    "word": "gañán",
+    "synonyms": [
+      "labriego",
+      "paleto",
+      "tosco",
+      "bruto"
+    ],
+    "hint": "Mozo de labranza o persona tosca."
+  },
+  {
+    "word": "genocidio",
+    "synonyms": [
+      "masacre",
+      "exterminio",
+      "matanza",
+      "holocausto"
+    ],
+    "hint": "Aniquilación deliberada de un grupo humano o étnico."
+  },
+  {
+    "word": "gleba",
+    "synonyms": [
+      "tierra",
+      "terruño",
+      "campo",
+      "suelo"
+    ],
+    "hint": "Tierra arable o pedazo de tierra con hierba."
+  },
+  {
+    "word": "grandilocuente",
+    "synonyms": [
+      "pomposo",
+      "ampuloso",
+      "retórico",
+      "afectado"
+    ],
+    "hint": "Estilo que habla con un tono elevado y pretencioso."
+  },
+  {
+    "word": "greguería",
+    "synonyms": [
+      "metáfora",
+      "agudeza",
+      "ocurrencia",
+      "poema breve"
+    ],
+    "hint": "Composición metafórica y agudo pensamiento lírico."
+  },
+  {
+    "word": "grácil",
+    "synonyms": [
+      "esbelto",
+      "delicado",
+      "sutil",
+      "ligero"
+    ],
+    "hint": "Delgado, esbelto y de movimientos finos."
+  },
+  {
+    "word": "guarecer",
+    "synonyms": [
+      "proteger",
+      "cobijar",
+      "refugiar",
+      "amparar"
+    ],
+    "hint": "Acoger a alguien para ponerlo a salvo de un riesgo."
+  },
+  {
+    "word": "hato",
+    "synonyms": [
+      "rebaño",
+      "manada",
+      "equipaje",
+      "bulto"
+    ],
+    "hint": "Grupo de ganado o porción de ropas y objetos personales."
+  },
+  {
+    "word": "hediondo",
+    "synonyms": [
+      "fétido",
+      "apestoso",
+      "repugnante",
+      "maloliente"
+    ],
+    "hint": "Que despide un olor muy desagradable."
+  },
+  {
+    "word": "hegemonía",
+    "synonyms": [
+      "supremacía",
+      "dominación",
+      "predominio",
+      "liderazgo"
+    ],
+    "hint": "Supremacía que un estado o grupo ejerce sobre otros."
+  },
+  {
+    "word": "hender",
+    "synonyms": [
+      "rajar",
+      "grieta",
+      "cortar",
+      "atravesar"
+    ],
+    "hint": "Abrir o rajar un cuerpo sólido sin dividirlo por completo."
+  },
+  {
+    "word": "hercúleo",
+    "synonyms": [
+      "vigoroso",
+      "robusto",
+      "musculoso",
+      "atlántico"
+    ],
+    "hint": "Poseedor de una fuerza o corpulencia propia de Hércules."
+  },
+  {
+    "word": "hermética",
+    "synonyms": [
+      "inviolable",
+      "cerrada",
+      "impenetrable",
+      "secreta"
+    ],
+    "hint": "Que cierra de tal modo que no deja pasar aire o información."
+  },
+  {
+    "word": "hermético",
+    "synonyms": [
+      "impenetrable",
+      "cerrado",
+      "inviolable",
+      "reservado"
+    ],
+    "hint": "Que cierra por completo o persona inaccesible."
+  },
+  {
+    "word": "heroica",
+    "synonyms": [
+      "épica",
+      "valerosa",
+      "extraordinaria",
+      "grandiosa"
+    ],
+    "hint": "Acción que requiere un valor y esfuerzo fuera de lo común."
+  },
+  {
+    "word": "herrumbroso",
+    "synonyms": [
+      "oxidado",
+      "carcomido",
+      "envejecido",
+      "viejo"
+    ],
+    "hint": "Cubierto de herrumbre u óxido."
+  },
+  {
+    "word": "hibridación",
+    "synonyms": [
+      "mezcla",
+      "cruce",
+      "fusión",
+      "combinación"
+    ],
+    "hint": "Proceso de cruce de dos especies o elementos distintos."
+  },
+  {
+    "word": "hilarante",
+    "synonyms": [
+      "chistoso",
+      "comiquísimo",
+      "divertido",
+      "graciosísimo"
+    ],
+    "hint": "Que inspira alegría o produce ganas de reír a carcajadas."
+  },
+  {
+    "word": "hilaridad",
+    "synonyms": [
+      "carcajada",
+      "risa",
+      "regocijo",
+      "júbilo"
+    ],
+    "hint": "Risa sonora provocada por lo que se dice o hace."
+  },
+  {
+    "word": "hipocondriaco",
+    "synonyms": [
+      "aprensivo",
+      "obsesionado",
+      "maníaco"
+    ],
+    "hint": "Persona que se preocupa en exceso por su salud sintiendo males ficticios."
+  },
+  {
+    "word": "hipócrita",
+    "synonyms": [
+      "falso",
+      "solapado",
+      "doble",
+      "farsante"
+    ],
+    "hint": "Que actúa fingiendo sentimientos o cualidades que no tiene."
+  },
+  {
+    "word": "histérico",
+    "synonyms": [
+      "nervioso",
+      "frenético",
+      "fuera de sí",
+      "exaltado"
+    ],
+    "hint": "Afectado por una agitación nerviosa o descontrol del ánimo."
+  },
+  {
+    "word": "holocausto",
+    "synonyms": [
+      "genocidio",
+      "matanza",
+      "sacrificio",
+      "hecatombe"
+    ],
+    "hint": "Gran desastre con pérdida masiva de vidas humanas."
+  },
+  {
+    "word": "hospitalario",
+    "synonyms": [
+      "acogedor",
+      "servicial",
+      "amable",
+      "generoso"
+    ],
+    "hint": "Que recibe a los visitantes con amabilidad y atención."
+  },
+  {
+    "word": "hostigar",
+    "synonyms": [
+      "acosar",
+      "molestar",
+      "perseguir",
+      "importunar"
+    ],
+    "hint": "Molestar a alguien de manera insistente."
+  },
+  {
+    "word": "huraño",
+    "synonyms": [
+      "arisco",
+      "intratable",
+      "esquivo",
+      "misántropo"
+    ],
+    "hint": "Que huye de la gente o del trato social."
+  },
+  {
+    "word": "idiocia",
+    "synonyms": [
+      "necedad",
+      "torpeza",
+      "estupidez",
+      "ignorancia"
+    ],
+    "hint": "Falta absoluta de inteligencia o sensatez."
+  },
+  {
+    "word": "idílico",
+    "synonyms": [
+      "bucólico",
+      "maravilloso",
+      "perfecto",
+      "pastoril"
+    ],
+    "hint": "Ideal o tan hermoso que parece un sueño o poema."
+  },
+  {
+    "word": "ignaro",
+    "synonyms": [
+      "ignorante",
+      "indocto",
+      "inculto",
+      "desconocedor"
+    ],
+    "hint": "Que carece de conocimientos sobre una materia."
+  },
+  {
+    "word": "ignominia",
+    "synonyms": [
+      "deshonra",
+      "oprobio",
+      "infamia",
+      "afrenta"
+    ],
+    "hint": "Ofensa o circunstancia que produce deshonra pública."
+  },
+  {
+    "word": "ignoto",
+    "synonyms": [
+      "desconocido",
+      "secreto",
+      "inexplorado",
+      "oculto"
+    ],
+    "hint": "Que no se conoce o nunca ha sido explorado."
+  },
+  {
+    "word": "ilusorio",
+    "synonyms": [
+      "irreal",
+      "ficticio",
+      "falso",
+      "quimérico"
+    ],
+    "hint": "Engañoso o incapaz de realizarse."
+  },
+  {
+    "word": "ilustre",
+    "synonyms": [
+      "insigne",
+      "famoso",
+      "egregio",
+      "distinguido"
+    ],
+    "hint": "Persona muy famosa y respetada por su trayectoria."
+  },
+  {
+    "word": "impasible",
+    "synonyms": [
+      "imperturbable",
+      "flemático",
+      "insensible",
+      "sereno"
+    ],
+    "hint": "Incapaz de padecer o de alterar su ánimo."
+  },
+  {
+    "word": "impecable",
+    "synonyms": [
+      "perfecto",
+      "intachable",
+      "irreprochable",
+      "limpio"
+    ],
+    "hint": "Que no tiene fallos, faltas ni imperfecciones."
+  },
+  {
+    "word": "imperecedero",
+    "synonyms": [
+      "inmortal",
+      "eterno",
+      "duradero",
+      "infinito"
+    ],
+    "hint": "Que no se destruye ni pierde vigencia con el tiempo."
+  },
+  {
+    "word": "impetrar",
+    "synonyms": [
+      "suplicar",
+      "solicitar",
+      "implorar",
+      "rogar"
+    ],
+    "hint": "Conseguir algo a fuerza de ruegos o súplicas."
+  },
+  {
+    "word": "implacable",
+    "synonyms": [
+      "inclemente",
+      "inexorable",
+      "riguroso",
+      "cruel"
+    ],
+    "hint": "Que no se puede aplacar ni perdonar."
+  },
+  {
+    "word": "implorar",
+    "synonyms": [
+      "suplicar",
+      "rogar",
+      "clamar",
+      "pedir"
+    ],
+    "hint": "Pedir algo con ruegos fervientes y humildad."
+  },
+  {
+    "word": "impostor",
+    "synonyms": [
+      "suplantador",
+      "farsante",
+      "embaucador",
+      "falso"
+    ],
+    "hint": "Persona que se hace pasar por quien no es."
+  },
+  {
+    "word": "imprecación",
+    "synonyms": [
+      "maldición",
+      "anatema",
+      "juramento",
+      "vituperio"
+    ],
+    "hint": "Expresión con la que se desea el mal a alguien."
+  },
+  {
+    "word": "imprecisión",
+    "synonyms": [
+      "vaguedad",
+      "ambigüedad",
+      "duda",
+      "inexactitud"
+    ],
+    "hint": "Falta de claridad o exactitud en un mensaje."
+  },
+  {
+    "word": "improperio",
+    "synonyms": [
+      "insulto",
+      "injuria",
+      "ofensa",
+      "agravio"
+    ],
+    "hint": "Injuriosa palabra o dicho lanzado a alguien."
+  },
+  {
+    "word": "inane",
+    "synonyms": [
+      "inútil",
+      "vano",
+      "vacío",
+      "insignificante"
+    ],
+    "hint": "Sin contenido, fruto ni importancia alguna."
+  },
+  {
+    "word": "incauto",
+    "synonyms": [
+      "ingenuo",
+      "inocente",
+      "crédulo",
+      "desprevenido"
+    ],
+    "hint": "Que no prevé el peligro o actúa sin cautela."
+  },
+  {
+    "word": "incipiente",
+    "synonyms": [
+      "naciente",
+      "inicial",
+      "empezado",
+      "comienzo"
+    ],
+    "hint": "Que está empezando a manifestarse."
+  },
+  {
+    "word": "incitar",
+    "synonyms": [
+      "estimular",
+      "provocar",
+      "instigar",
+      "animar"
+    ],
+    "hint": "Mover a alguien a ejecutar una acción."
+  },
+  {
+    "word": "inconcebible",
+    "synonyms": [
+      "increíble",
+      "inaudito",
+      "extraordinario",
+      "inimaginable"
+    ],
+    "hint": "Imposible de imaginar o de comprender."
+  },
+  {
+    "word": "inconexo",
+    "synonyms": [
+      "discontinuo",
+      "desarticulado",
+      "descosido",
+      "incoherente"
+    ],
+    "hint": "Que carece de unión o coherencia con otra cosa."
+  },
+  {
+    "word": "inconsistencia",
+    "synonyms": [
+      "incoherencia",
+      "fragilidad",
+      "inestabilidad"
+    ],
+    "hint": "Falta de firmeza, solidez o lógica en un argumento."
+  },
+  {
+    "word": "indeseable",
+    "synonyms": [
+      "rechazable",
+      "desagradable",
+      "nocivo",
+      "perjudicial"
+    ],
+    "hint": "Que no es digno de ser deseado o causa rechazo."
+  },
+  {
+    "word": "indisciplina",
+    "synonyms": [
+      "rebeldía",
+      "desobediencia",
+      "desorden",
+      "desacatamiento"
+    ],
+    "hint": "Falta de obediencia a las reglas fijadas."
+  },
+  {
+    "word": "indocto",
+    "synonyms": [
+      "inculto",
+      "ignorante",
+      "ignaro",
+      "inexperto"
+    ],
+    "hint": "Que carece de instrucción o conocimientos."
+  },
+  {
+    "word": "inefable",
+    "synonyms": [
+      "indescripblable",
+      "Inenarrable",
+      "sublime",
+      "maravilloso"
+    ],
+    "hint": "Tan grande o maravilloso que no se puede explicar con palabras."
+  },
+  {
+    "word": "inepto",
+    "synonyms": [
+      "incompetente",
+      "inútil",
+      "incapaz",
+      "torpe"
+    ],
+    "hint": "Que carece de la habilidad necesaria para una función."
+  },
+  {
+    "word": "inescrutable",
+    "synonyms": [
+      "misterioso",
+      "incomprensible",
+      "impenetrable",
+      "enigmático"
+    ],
+    "hint": "Que no se puede llegar a saber o averiguar."
+  },
+  {
+    "word": "infamar",
+    "synonyms": [
+      "deshonrar",
+      "calumniar",
+      "difamar",
+      "descreditar"
+    ],
+    "hint": "Quitar la honra o la buena reputación a alguien."
+  },
+  {
+    "word": "infame",
+    "synonyms": [
+      "vil",
+      "abominable",
+      "despreciable",
+      "miserable"
+    ],
+    "hint": "Persona de pésima reputación o acto deshonroso."
+  },
+  {
+    "word": "inferir",
+    "synonyms": [
+      "deducir",
+      "concluir",
+      "colgir",
+      "derivar"
+    ],
+    "hint": "Extraer una consecuencia a partir de datos o premisas."
+  },
+  {
+    "word": "influencia",
+    "synonyms": [
+      "ascendiente",
+      "poder",
+      "prestigio",
+      "peso"
+    ],
+    "hint": "Poder o autoridad para modificar el comportamiento ajeno."
+  },
+  {
+    "word": "influyente",
+    "synonyms": [
+      "poderoso",
+      "prestigioso",
+      "notable",
+      "destacado"
+    ],
+    "hint": "Que goza de gran poder o predicamento sobre otros."
+  },
+  {
+    "word": "infundio",
+    "synonyms": [
+      "mentira",
+      "calumnia",
+      "patraña",
+      "bulo"
+    ],
+    "hint": "Noticia falsa ideada para causar daño."
+  },
+  {
+    "word": "infundir",
+    "synonyms": [
+      "transmitir",
+      "inspirar",
+      "inculcar",
+      "comunicar"
+    ],
+    "hint": "Causar en el ánimo un sentimiento o pasión."
+  },
+  {
+    "word": "ingenioso",
+    "synonyms": [
+      "agudo",
+      "perspicaz",
+      "habilidoso",
+      "inventivo"
+    ],
+    "hint": "Con gran capacidad para inventar o solucionar cosas."
+  },
+  {
+    "word": "ingente",
+    "synonyms": [
+      "colosal",
+      "enorme",
+      "gigantesco",
+      "monumental"
+    ],
+    "hint": "Muy grande o extenso en dimensiones o alcance."
+  },
+  {
+    "word": "ingenuo",
+    "synonyms": [
+      "inocente",
+      "cándido",
+      "crédulo",
+      "simple"
+    ],
+    "hint": "Sin malicia ni picardía en la forma de actuar."
+  },
+  {
+    "word": "ingobernable",
+    "synonyms": [
+      "indómita",
+      "incontrolable",
+      "rebelde",
+      "díscola"
+    ],
+    "hint": "Que no se puede sujetar ni dirigir fácilmente."
+  },
+  {
+    "word": "ingratitud",
+    "synonyms": [
+      "desagradecimiento",
+      "deslealtad",
+      "olvido"
+    ],
+    "hint": "Falta de agradecimiento a los favores recibidos."
+  },
+  {
+    "word": "ingrato",
+    "synonyms": [
+      "desagradecido",
+      "desleal",
+      "amargo",
+      "desabrido"
+    ],
+    "hint": "Persona que olvida o no reconoce los bienes recibidos."
+  },
+  {
+    "word": "inopinado",
+    "synonyms": [
+      "imprevisto",
+      "inesperado",
+      "súbito",
+      "sorpresivo"
+    ],
+    "hint": "Ocurrido sin haber sido pensado ni planeado."
+  },
+  {
+    "word": "inquina",
+    "synonyms": [
+      "antipatía",
+      "odio",
+      "rencor",
+      "aversión",
+      "tirria"
+    ],
+    "hint": "Mala voluntad o aborrecimiento hacia alguien."
+  },
+  {
+    "word": "inquirir",
+    "synonyms": [
+      "indagar",
+      "investigar",
+      "preguntar",
+      "escudriñar"
+    ],
+    "hint": "Examinar cuidadosamente para averiguar la verdad."
+  },
+  {
+    "word": "inquisitivo",
+    "synonyms": [
+      "curioso",
+      "indagador",
+      "preguntón",
+      "meticuloso"
+    ],
+    "hint": "Que muestra gran inclinación a averiguar detalles."
+  },
+  {
+    "word": "insigne",
+    "synonyms": [
+      "famoso",
+      "ilustre",
+      "egregio",
+      "célebre"
+    ],
+    "hint": "Muy destacado y digno de aprecio público."
+  },
+  {
+    "word": "insinuación",
+    "synonyms": [
+      "indirecta",
+      "sugerencia",
+      "alusión",
+      "aviso"
+    ],
+    "hint": "Manera disimulada de dar a entender algo."
+  },
+  {
+    "word": "insinuar",
+    "synonyms": [
+      "sugerir",
+      "dar a entender",
+      "aludir",
+      "deslizar"
+    ],
+    "hint": "Dejar caer una idea sin decirlo de forma explícita."
+  },
+  {
+    "word": "inspirar",
+    "synonyms": [
+      "inculcar",
+      "infundir",
+      "estimular",
+      "motivar"
+    ],
+    "hint": "Suscitar una idea o sentimiento en alguien."
+  },
+  {
+    "word": "instigar",
+    "synonyms": [
+      "incitar",
+      "provocar",
+      "azuzar",
+      "animar"
+    ],
+    "hint": "Persuadir o azuzar a alguien a hacer algo negativo."
+  },
+  {
+    "word": "interfecto",
+    "synonyms": [
+      "difunto",
+      "víctima",
+      "muerto",
+      "occiso"
+    ],
+    "hint": "Persona que ha sido muerta violentamente."
+  },
+  {
+    "word": "interino",
+    "synonyms": [
+      "provisional",
+      "temporal",
+      "transitorio",
+      "sustituto"
+    ],
+    "hint": "Que ocupa un cargo temporalmente en sustitución de otro."
+  },
+  {
+    "word": "introito",
+    "synonyms": [
+      "introducción",
+      "preámbulo",
+      "inicio",
+      "entrada"
+    ],
+    "hint": "Comienzo o preámbulo de una obra u oración."
+  },
+  {
+    "word": "introspección",
+    "synonyms": [
+      "reflexión",
+      "autoexamen",
+      "meditación",
+      "mirada interior"
+    ],
+    "hint": "Examen atento de los propios sentimientos o ideas."
+  },
+  {
+    "word": "invectiva",
+    "synonyms": [
+      "diatriba",
+      "sermón",
+      "vituperio",
+      "insulto"
+    ],
+    "hint": "Discurso duro o conjunto de acusaciones violentas."
+  },
+  {
+    "word": "iracundo",
+    "synonyms": [
+      "colérico",
+      "furioso",
+      "irritable",
+      "agresivo"
+    ],
+    "hint": "Propenso a dejarse llevar por la ira."
+  },
+  {
+    "word": "irritar",
+    "synonyms": [
+      "exasperar",
+      "enojar",
+      "provocar",
+      "inflamar"
+    ],
+    "hint": "Frenar la paciencia o alterar la piel/ánimo."
+  },
+  {
+    "word": "irrumpir",
+    "synonyms": [
+      "entrar con fuerza",
+      "invadir",
+      "aparecer",
+      "penetrar"
+    ],
+    "hint": "Entrar de forma violenta o impetuosa en un lugar."
+  },
+  {
+    "word": "irrupción",
+    "synonyms": [
+      "invasión",
+      "entrada",
+      "aparición",
+      "asalto"
+    ],
+    "hint": "Entrada violenta e inesperada de algo o alguien."
+  },
+  {
+    "word": "jerigonza",
+    "synonyms": [
+      "galimatías",
+      "jerga",
+      "lenguaje oscuro"
+    ],
+    "hint": "Lenguaje de difícil comprensión o jerga de un grupo."
+  },
+  {
+    "word": "lacerado",
+    "synonyms": [
+      "herido",
+      "dañado",
+      "desgarrado",
+      "dolido"
+    ],
+    "hint": "Que padece de grandes heridas o sufrimientos."
+  },
+  {
+    "word": "lacerante",
+    "synonyms": [
+      "doloroso",
+      "hiriente",
+      "conmovedor",
+      "agudo"
+    ],
+    "hint": "Que produce un dolor físico o emocional muy intenso."
+  },
+  {
+    "word": "lacónico",
+    "synonyms": [
+      "conciso",
+      "breve",
+      "parco",
+      "sucinto"
+    ],
+    "hint": "Que se expresa usando las palabras estrictamente necesarias."
+  },
+  {
+    "word": "lascivia",
+    "synonyms": [
+      "sensualidad",
+      "lubricidad",
+      "lujuria",
+      "lascivia"
+    ],
+    "hint": "Propensión a los placeres sexuales."
+  },
+  {
+    "word": "laudable",
+    "synonyms": [
+      "encomiable",
+      "elogioso",
+      "digno de alabanza"
+    ],
+    "hint": "Que merece ser alabado por sus méritos."
+  },
+  {
+    "word": "laxo",
+    "synonyms": [
+      "flojo",
+      "relajado",
+      "tolerante",
+      "desaprensivo"
+    ],
+    "hint": "Sin la tirantez o rigor exigibles."
+  },
+  {
+    "word": "leal",
+    "synonyms": [
+      "fiel",
+      "noble",
+      "sincero",
+      "honrado"
+    ],
+    "hint": "Que guarda fidelidad y no traiciona a sus semejantes."
+  },
+  {
+    "word": "lerdo",
+    "synonyms": [
+      "torpe",
+      "tonto",
+      "lento",
+      "zoquete"
+    ],
+    "hint": "Lento para comprender o realizar acciones."
+  },
+  {
+    "word": "letanía",
+    "synonyms": [
+      "enumeración",
+      "lista",
+      "ruego",
+      "repetida"
+    ],
+    "hint": "Lista o sucesión pesada y repetitiva de cosas."
+  },
+  {
+    "word": "libelo",
+    "synonyms": [
+      "pasquín",
+      "escrito difamatorio",
+      "calumnia"
+    ],
+    "hint": "Escrito en que se denigra o difama a personas."
+  },
+  {
+    "word": "liberalidad",
+    "synonyms": [
+      "generosidad",
+      "desprendimiento",
+      "magnanimidad"
+    ],
+    "hint": "Inclinación a dar los propios bienes sin mezquindad."
+  },
+  {
+    "word": "libido",
+    "synonyms": [
+      "deseo",
+      "impulso",
+      "sensualidad",
+      "petición"
+    ],
+    "hint": "Deseo o impulso de carácter sexual."
+  },
+  {
+    "word": "lid",
+    "synonyms": [
+      "combate",
+      "pelea",
+      "disputa",
+      "contienda"
+    ],
+    "hint": "Lucha, batalla o enfrentamiento entre dos partes."
+  },
+  {
+    "word": "ligereza",
+    "synonyms": [
+      "frivolidad",
+      "Inconstancia",
+      "rapidez",
+      "agilidad"
+    ],
+    "hint": "Falta de seriedad o rapidez en los movimientos."
+  },
+  {
+    "word": "lobreguez",
+    "synonyms": [
+      "oscuridad",
+      "tinieblas",
+      "tristeza",
+      "luto"
+    ],
+    "hint": "Cualidad de estar oscuro, triste o tenebroso."
+  },
+  {
+    "word": "locuaz",
+    "synonyms": [
+      "hablador",
+      "paranchín",
+      "facundo",
+      "comunicativo"
+    ],
+    "hint": "Que habla mucho o con mucha facilidad."
+  },
+  {
+    "word": "luctuoso",
+    "synonyms": [
+      "triste",
+      "lamentable",
+      "funesto",
+      "doloroso"
+    ],
+    "hint": "Que causa gran tristeza o está relacionado con el luto."
+  },
+  {
+    "word": "lugareño",
+    "synonyms": [
+      "autóctono",
+      "local",
+      "paisano",
+      "vecino"
+    ],
+    "hint": "Perteneciente o nativo de un lugar determinado."
+  },
+  {
+    "word": "lumbrera",
+    "synonyms": [
+      "genio",
+      "sabio",
+      "talento",
+      "guía"
+    ],
+    "hint": "Persona de una inteligencia o conocimiento extraordinarios."
+  },
+  {
+    "word": "lustre",
+    "synonyms": [
+      "brillo",
+      "esplendor",
+      "prestigio",
+      "gloria"
+    ],
+    "hint": "Brillo de una superficie o prestigio alcanzado."
+  },
+  {
+    "word": "lóbrego",
+    "synonyms": [
+      "oscuro",
+      "tenebroso",
+      "sombrío",
+      "triste"
+    ],
+    "hint": "Oscuro, de aspecto fúnebre o triste."
+  },
+  {
+    "word": "lúgubre",
+    "synonyms": [
+      "fúnebre",
+      "triste",
+      "sombrío",
+      "lamentable"
+    ],
+    "hint": "Que inspira profunda tristeza o melancolía."
+  },
+  {
+    "word": "magrear",
+    "synonyms": [
+      "sobar",
+      "manosear",
+      "tocetear"
+    ],
+    "hint": "Manosear con frecuencia o persistencia a alguien."
+  },
+  {
+    "word": "maledicencia",
+    "synonyms": [
+      "difamación",
+      "calumnia",
+      "chisme",
+      "murmuración"
+    ],
+    "hint": "Hábito de hablar mal de los demás a sus espaldas."
+  },
+  {
+    "word": "manirroto",
+    "synonyms": [
+      "despilfarrador",
+      "derrochador",
+      "gastador"
+    ],
+    "hint": "Que gasta el dinero sin medida ni control."
+  },
+  {
+    "word": "maravillar",
+    "synonyms": [
+      "asombrar",
+      "fascinar",
+      "deslumbrar",
+      "cautivar"
+    ],
+    "hint": "Causar admiración o asombro extremo."
+  },
+  {
+    "word": "marbete",
+    "synonyms": [
+      "etiqueta",
+      "rótulo",
+      "sello",
+      "marca"
+    ],
+    "hint": "Etiqueta o cédula que se pega a un objeto para identificarlo."
+  },
+  {
+    "word": "marchamo",
+    "synonyms": [
+      "sello",
+      "marca",
+      "distintivo",
+      "señal"
+    ],
+    "hint": "Marca o señal que certifica la autenticidad de algo."
+  },
+  {
+    "word": "marchitar",
+    "synonyms": [
+      "secar",
+      "agostar",
+      "debilitar",
+      "ajarse"
+    ],
+    "hint": "Perder el frescor, vigor o belleza de una planta o rostro."
+  },
+  {
+    "word": "medrar",
+    "synonyms": [
+      "prosperar",
+      "crecer",
+      "progreso",
+      "mejorar"
+    ],
+    "hint": "Mejorar la posición económica o social."
+  },
+  {
+    "word": "melifluo",
+    "synonyms": [
+      "dulzón",
+      "suave",
+      "empalagoso",
+      "afectado"
+    ],
+    "hint": "Que habla de forma excesivamente dulce o empalagosa."
+  },
+  {
+    "word": "melindroso",
+    "synonyms": [
+      "delicado",
+      "finolis",
+      "escrupuloso",
+      "remilgado"
+    ],
+    "hint": "Que muestra excesiva delicadeza o escrúpulos."
+  },
+  {
+    "word": "melómano",
+    "synonyms": [
+      "melófilo",
+      "aficionado a la música",
+      "apasionado"
+    ],
+    "hint": "Persona fanática o apasionada por la música."
+  },
+  {
+    "word": "mendacidad",
+    "synonyms": [
+      "falsedad",
+      "mentira",
+      "engaño",
+      "hipocresía"
+    ],
+    "hint": "Hábito o cualidad de decir mentiras."
+  },
+  {
+    "word": "mendaz",
+    "synonyms": [
+      "mentiroso",
+      "falso",
+      "falaz",
+      "engañoso"
+    ],
+    "hint": "Persona propensa a decir mentiras."
+  },
+  {
+    "word": "mentecato",
+    "synonyms": [
+      "tonto",
+      "necio",
+      "fatuo",
+      "imbécil"
+    ],
+    "hint": "Falto de juicio, tonto o escaso de entendimiento."
+  },
+  {
+    "word": "mentiroso",
+    "synonyms": [
+      "falso",
+      "embustero",
+      "mendaz",
+      "farsante"
+    ],
+    "hint": "Que dice cosas falsas con intención de engañar."
+  },
+  {
+    "word": "mentor",
+    "synonyms": [
+      "guía",
+      "tutor",
+      "asesor",
+      "consejero"
+    ],
+    "hint": "Persona que orienta o aconseja a otra en su desarrollo."
+  },
+  {
+    "word": "mero",
+    "synonyms": [
+      "puro",
+      "simple",
+      "único",
+      "exclusivo"
+    ],
+    "hint": "Insignificante, simple o sin mezcla de otra cosa."
+  },
+  {
+    "word": "mezcolanza",
+    "synonyms": [
+      "batiburrillo",
+      "pastiche",
+      "farrago",
+      "mezcla"
+    ],
+    "hint": "Mezcla extraña o desordenada de varias cosas."
+  },
+  {
+    "word": "mezquindad",
+    "synonyms": [
+      "tacañería",
+      "ruindad",
+      "miseria",
+      "avaricia"
+    ],
+    "hint": "Cualidad de tacaño o falta de nobleza moral."
+  },
+  {
+    "word": "mezquino",
+    "synonyms": [
+      "tacaño",
+      "ruin",
+      "miserable",
+      "cicatero"
+    ],
+    "hint": "Que escatima en exceso o tiene sentimientos viles."
+  },
+  {
+    "word": "misantropía",
+    "synonyms": [
+      "aversión",
+      "hostilidad",
+      "aislamiento",
+      "hurañía"
+    ],
+    "hint": "Aversión o rechazo al trato con el género humano."
+  },
+  {
+    "word": "modular",
+    "synonyms": [
+      "articular",
+      "entonar",
+      "graduar",
+      "variar"
+    ],
+    "hint": "Ajustar o variar el tono de la voz o sonido."
+  },
+  {
+    "word": "molondro",
+    "synonyms": [
+      "perezoso",
+      "perezoso",
+      "torpe",
+      "zote"
+    ],
+    "hint": "Persona torpe, apática o muy perezosa."
+  },
+  {
+    "word": "monocorde",
+    "synonyms": [
+      "monótono",
+      "uniforme",
+      "aburrido",
+      "repetitivo"
+    ],
+    "hint": "Que mantiene siempre el mismo tono sin variaciones."
+  },
+  {
+    "word": "mordacidad",
+    "synonyms": [
+      "sarcasmo",
+      "ironía",
+      "incisividad",
+      "agudeza"
+    ],
+    "hint": "Cualidad de criticar de forma acida o hiriente."
+  },
+  {
+    "word": "mugriento",
+    "synonyms": [
+      "sucio",
+      "roñoso",
+      "zarrapastroso",
+      "desaseado"
+    ],
+    "hint": "Cubierto de mugre o suciedad acumulada."
+  },
+  {
+    "word": "muladar",
+    "synonyms": [
+      "basurero",
+      "estercolero",
+      "vertedero",
+      "inmundicia"
+    ],
+    "hint": "Lugar donde se amontona la basura o estiércol."
+  },
+  {
+    "word": "mácula",
+    "synonyms": [
+      "mancha",
+      "deshonra",
+      "estigma",
+      "defecto"
+    ],
+    "hint": "Mancha física o deshonra en la reputación."
+  },
+  {
+    "word": "nepotismo",
+    "synonyms": [
+      "favoritismo",
+      "amiguismo",
+      "enchufismo"
+    ],
+    "hint": "Preferencia concedida a parientes para empleos públicos."
+  },
+  {
+    "word": "neófito",
+    "synonyms": [
+      "novato",
+      "principiante",
+      "bisoño",
+      "iniciado"
+    ],
+    "hint": "Persona convertida recientemente a una causa o disciplina."
+  },
+  {
+    "word": "nimbo",
+    "synonyms": [
+      "aureola",
+      "halo",
+      "nube",
+      "resplandor"
+    ],
+    "hint": "Luz o nube luminosa que rodea la cabeza de figuras sagradas."
+  },
+  {
+    "word": "notación",
+    "synonyms": [
+      "sistema",
+      "signos",
+      "anotación",
+      "símbolos"
+    ],
+    "hint": "Conjunto de signos convencionales usados en una disciplina."
+  },
+  {
+    "word": "novato",
+    "synonyms": [
+      "principiante",
+      "inexperto",
+      "bisoño",
+      "neófito"
+    ],
+    "hint": "Nuevo en un oficio, actividad o colectivo."
+  },
+  {
+    "word": "novicio",
+    "synonyms": [
+      "principiante",
+      "novato",
+      "iniciado"
+    ],
+    "hint": "Persona que se prepara en un convento o inicia algo."
+  },
+  {
+    "word": "obliterar",
+    "synonyms": [
+      "obstruir",
+      "tapar",
+      "anular",
+      "borrar"
+    ],
+    "hint": "Anular o tapar un conducto o paso."
+  },
+  {
+    "word": "obsceno",
+    "synonyms": [
+      "impúdico",
+      "desvergonzado",
+      "indecente",
+      "lascivo"
+    ],
+    "hint": "Ofensivo al pudor o a la moral pública."
+  },
+  {
+    "word": "obviar",
+    "synonyms": [
+      "evitar",
+      "omitir",
+      "esquivar",
+      "eliminar"
+    ],
+    "hint": "Evitar un obstáculo o pasar por alto algo."
+  },
+  {
+    "word": "odre",
+    "synonyms": [
+      "pellejo",
+      "vasija",
+      "recipiente",
+      "cuero"
+    ],
+    "hint": "Odrina o cuero cosido usado para guardar líquidos."
+  },
+  {
+    "word": "ominoso",
+    "synonyms": [
+      "aciago",
+      "funesto",
+      "abominable",
+      "reprobable"
+    ],
+    "hint": "Que anuncia desgracias o merece profunda repulsa."
+  },
+  {
+    "word": "opimo",
+    "synonyms": [
+      "abundante",
+      "copioso",
+      "fértil",
+      "rico"
+    ],
+    "hint": "Rico, muy abundante o de calidad superior."
+  },
+  {
+    "word": "oprobio",
+    "synonyms": [
+      "ignominia",
+      "deshonra",
+      "afrenta",
+      "infamia"
+    ],
+    "hint": "Deshonra pública de gran magnitud."
+  },
+  {
+    "word": "opulento",
+    "synonyms": [
+      "rico",
+      "adinerado",
+      "ostentoso",
+      "abundante"
+    ],
+    "hint": "Poseedor de gran riqueza o abundancia."
+  },
+  {
+    "word": "opúsculo",
+    "synonyms": [
+      "folleto",
+      "tratado",
+      "obra breve",
+      "compendio"
+    ],
+    "hint": "Obra científica o literaria de escasa extensión."
+  },
+  {
+    "word": "orbe",
+    "synonyms": [
+      "mundo",
+      "globo",
+      "esfera",
+      "universo"
+    ],
+    "hint": "Esfera celeste o mundo en su totalidad."
+  },
+  {
+    "word": "orfeón",
+    "synonyms": [
+      "coro",
+      "agrupación",
+      "coral"
+    ],
+    "hint": "Sociedad lírica o coro de cantores."
+  },
+  {
+    "word": "oriundo",
+    "synonyms": [
+      "originario",
+      "procedente",
+      "nativo",
+      "autóctono"
+    ],
+    "hint": "Que tiene su origen en un determinado lugar."
+  },
+  {
+    "word": "oropel",
+    "synonyms": [
+      "brillo falso",
+      "oropel",
+      "fantasía",
+      "apariencia"
+    ],
+    "hint": "Cosa de poco valor que aparenta gran brillantez."
+  },
+  {
+    "word": "osado",
+    "synonyms": [
+      "atrevido",
+      "audaz",
+      "intrépido",
+      "valiente"
+    ],
+    "hint": "Que actúa con atrevimiento o falta de temor."
+  },
+  {
+    "word": "ostentoso",
+    "synonyms": [
+      "fastuoso",
+      "presuntuoso",
+      "lujoso",
+      "recargado"
+    ],
+    "hint": "Que muestra lujo o riqueza con ganas de destacar."
+  },
+  {
+    "word": "pacato",
+    "synonyms": [
+      "apocado",
+      "miedoso",
+      "tranquilo",
+      "mojigato"
+    ],
+    "hint": "Poco animoso, de condición tranquila o vergonzosa."
+  },
+  {
+    "word": "paladín",
+    "synonyms": [
+      "defensor",
+      "caballero",
+      "campeón",
+      "abanderado"
+    ],
+    "hint": "Defensor destacado de una causa o persona."
+  },
+  {
+    "word": "palamesa",
+    "synonyms": [
+      "paliza",
+      "zurra",
+      "castigo"
+    ],
+    "hint": "Serie de golpes o vapuleo severo."
+  },
+  {
+    "word": "paliza",
+    "synonyms": [
+      "zurra",
+      "vapuleo",
+      "derrota",
+      "palamesa"
+    ],
+    "hint": "Serie de golpes propinados a alguien o derrota aplastante."
+  },
+  {
+    "word": "panacea",
+    "synonyms": [
+      "remedio",
+      "solución",
+      "curalotodo",
+      "fórmula"
+    ],
+    "hint": "Remedio o solución propuesta para todos los males."
+  },
+  {
+    "word": "pandemónium",
+    "synonyms": [
+      "alboroto",
+      "caos",
+      "confusión",
+      "griterío"
+    ],
+    "hint": "Lugar de gran confusión, ruido o desorden."
+  },
+  {
+    "word": "panoplia",
+    "synonyms": [
+      "colección",
+      "repertorio",
+      "conjunto",
+      "armadura"
+    ],
+    "hint": "Colección de armas o repertorio amplio de cosas."
+  },
+  {
+    "word": "paradigmático",
+    "synonyms": [
+      "ejemplar",
+      "modélico",
+      "representativo",
+      "patrón"
+    ],
+    "hint": "Que sirve como modelo o ejemplo perfecto."
+  },
+  {
+    "word": "paradoja",
+    "synonyms": [
+      "contradicción",
+      "enigma",
+      "ambigüedad",
+      "misterio"
+    ],
+    "hint": "Idea extraña opuesta al sentido común pero plausible."
+  },
+  {
+    "word": "pardal",
+    "synonyms": [
+      "astuto",
+      "ladino",
+      "gorrión",
+      "aldeano"
+    ],
+    "hint": "Persona astuta, maliciosa o pájaro común."
+  },
+  {
+    "word": "paria",
+    "synonyms": [
+      "marginado",
+      "excluido",
+      "desheredado",
+      "miserable"
+    ],
+    "hint": "Persona excluida de las ventajas de la sociedad."
+  },
+  {
+    "word": "partisano",
+    "synonyms": [
+      "guerrillero",
+      "combatiente",
+      "defensor",
+      "adepto"
+    ],
+    "hint": "Miembro de una fuerza civil que combate al invasor."
+  },
+  {
+    "word": "parábola",
+    "synonyms": [
+      "alegoría",
+      "ejemplo",
+      "fábula",
+      "relato moral"
+    ],
+    "hint": "Narración que encierra una enseñanza moral o didáctica."
+  },
+  {
+    "word": "pasquín",
+    "synonyms": [
+      "libelo",
+      "cartel",
+      "sátira",
+      "anónimo"
+    ],
+    "hint": "Escrito anónimo fijado en un lugar público con sátiras."
+  },
+  {
+    "word": "patidifusa",
+    "synonyms": [
+      "estupefacta",
+      "sorprendida",
+      "atónita",
+      "pasmada"
+    ],
+    "hint": "Sorprendida de tal modo que se queda sin reacción."
+  },
+  {
+    "word": "patochada",
+    "synonyms": [
+      "disparate",
+      "patería",
+      "tontería",
+      "despropósito"
+    ],
+    "hint": "Dicho o hecho tonto o fuera de lugar."
+  },
+  {
+    "word": "patético",
+    "synonyms": [
+      "conmovedor",
+      "dramático",
+      "penoso",
+      "lamentable"
+    ],
+    "hint": "Que mueve a melancolía o despierta piedad/pena."
+  },
+  {
+    "word": "paulatino",
+    "synonyms": [
+      "gradual",
+      "progresivo",
+      "lento",
+      "continuo"
+    ],
+    "hint": "Que se produce de forma despacio o por pasos."
+  },
+  {
+    "word": "pauta",
+    "synonyms": [
+      "guía",
+      "norma",
+      "regla",
+      "modelo",
+      "patrón"
+    ],
+    "hint": "Norma o modelo que sirve para orientar una acción."
+  },
+  {
+    "word": "pavoroso",
+    "synonyms": [
+      "espantoso",
+      "terrorífico",
+      "horrendo",
+      "escalofriante"
+    ],
+    "hint": "Que inspira gran pavor o espanto."
+  },
+  {
+    "word": "pecuniaria",
+    "synonyms": [
+      "monetaria",
+      "económica",
+      "financiera"
+    ],
+    "hint": "Relativo al dinero en efectivo."
+  },
+  {
+    "word": "pedante",
+    "synonyms": [
+      "engreído",
+      "sabelotodo",
+      "presuntuoso",
+      "afectado"
+    ],
+    "hint": "Que hace alarde inoportuno de erudición."
+  },
+  {
+    "word": "pejiguero",
+    "synonyms": [
+      "molesto",
+      "importuno",
+      "pesado",
+      "Fastidioso"
+    ],
+    "hint": "Asunto o persona que causa molestia constante."
+  },
+  {
+    "word": "pendenciero",
+    "synonyms": [
+      "brucón",
+      "peleón",
+      "agresivo",
+      "querelloso"
+    ],
+    "hint": "Propenso a provocar riñas o peleas."
+  },
+  {
+    "word": "pendolista",
+    "synonyms": [
+      "escribano",
+      "copista",
+      "redactor",
+      "calígrafo"
+    ],
+    "hint": "Persona de excelente caligrafía o escribiente."
+  },
+  {
+    "word": "penumbra",
+    "synonyms": [
+      "oscuridad",
+      "sombra",
+      "penumbra",
+      "crepúsculo"
+    ],
+    "hint": "Sombra débil entre la luz y la oscuridad absoluta."
+  },
+  {
+    "word": "perecedero",
+    "synonyms": [
+      "pasajero",
+      "caduco",
+      "efímero",
+      "mortal"
+    ],
+    "hint": "Destinado a destruirse o caducar con el tiempo."
+  },
+  {
+    "word": "pergeñar",
+    "synonyms": [
+      "bocetar",
+      "diseñar",
+      "esbozar",
+      "trazar"
+    ],
+    "hint": "Trazar o idear una obra sin terminarla de perfeccionar."
+  },
+  {
+    "word": "perogrullada",
+    "synonyms": [
+      "obviedad",
+      "evidencia",
+      "verdad de perogrullo"
+    ],
+    "hint": "Verdad tan evidente que resulta tonto decirla."
+  },
+  {
+    "word": "perplejidad",
+    "synonyms": [
+      "desconcierto",
+      "asombro",
+      "duda",
+      "vacilación"
+    ],
+    "hint": "Estado de duda o asombro que impide decidir."
+  },
+  {
+    "word": "perspicaz",
+    "synonyms": [
+      "agudo",
+      "sagaz",
+      "lucido",
+      "observador"
+    ],
+    "hint": "Capaz de percatarse de cosas que pasan desapercibidas."
+  },
+  {
+    "word": "persuasivo",
+    "synonyms": [
+      "convincente",
+      "elocuente",
+      "seductor",
+      "eficaz"
+    ],
+    "hint": "Con gran poder para convencer a otros."
+  },
+  {
+    "word": "pertrechar",
+    "synonyms": [
+      "equipar",
+      "abastecer",
+      "armar",
+      "proveer"
+    ],
+    "hint": "Suministrar lo necesario para una empresa o combate."
+  },
+  {
+    "word": "perverso",
+    "synonyms": [
+      "malvado",
+      "depravado",
+      "infame",
+      "cruel"
+    ],
+    "hint": "Persona sumamente mala que se deleita en el mal."
+  },
+  {
+    "word": "perífrasis",
+    "synonyms": [
+      "rodeo",
+      "circunloquio",
+      "frase hecha"
+    ],
+    "hint": "Expresión que utiliza más palabras de las necesarias."
+  },
+  {
+    "word": "petardo",
+    "synonyms": [
+      "cohete",
+      "bodrio",
+      "pesado",
+      "farsa"
+    ],
+    "hint": "Explosivo o persona/cosa sumamente aburrida."
+  },
+  {
+    "word": "petrificado",
+    "synonyms": [
+      "paralizado",
+      "atónito",
+      "pasmado",
+      "inmóvil"
+    ],
+    "hint": "Quedar inmóvil por efecto del terror o la sorpresa."
+  },
+  {
+    "word": "petulante",
+    "synonyms": [
+      "engreído",
+      "presuntuoso",
+      "pedante",
+      "insolente"
+    ],
+    "hint": "Que demuestra una descarada seguridad en sí mismo."
+  },
+  {
+    "word": "pigmeo",
+    "synonyms": [
+      "diminuto",
+      "insignificante",
+      "enano",
+      "pequeño"
+    ],
+    "hint": "De estatura o valor extremadamente pequeño."
+  },
+  {
+    "word": "pingajo",
+    "synonyms": [
+      "harapo",
+      "guiñapo",
+      "trapo",
+      "pingajo"
+    ],
+    "hint": "Jirón de ropa sucia o persona sin valor moral."
+  },
+  {
+    "word": "plausible",
+    "synonyms": [
+      "admisible",
+      "creíble",
+      "laudable",
+      "justificado"
+    ],
+    "hint": "Digno de ser admitido, creído o alabado."
+  },
+  {
+    "word": "plebeyo",
+    "synonyms": [
+      "popular",
+      "vulgar",
+      "común",
+      "ordinario"
+    ],
+    "hint": "Perteneciente al pueblo llano o sin nobleza."
+  },
+  {
+    "word": "plebiscito",
+    "synonyms": [
+      "referéndum",
+      "votación",
+      "consulta",
+      "sufragio"
+    ],
+    "hint": "Consulta popular para votar una ley o medida."
+  },
+  {
+    "word": "pleonasmo",
+    "synonyms": [
+      "redundancia",
+      "demasía",
+      "repetición"
+    ],
+    "hint": "Uso de palabras innecesarias para la comprensión."
+  },
+  {
+    "word": "plétora",
+    "synonyms": [
+      "abundancia",
+      "exceso",
+      "sobra",
+      "superávit"
+    ],
+    "hint": "Exceso de sangre u abundancia de algo positivo."
+  },
+  {
+    "word": "pléyade",
+    "synonyms": [
+      "grupo ilustre",
+      "constelación",
+      "conjunto destacado"
+    ],
+    "hint": "Grupo de personas famosas o destacadas en una época."
+  },
+  {
+    "word": "plúmbeo",
+    "synonyms": [
+      "pesado",
+      "aburrido",
+      "plomizo",
+      "gris"
+    ],
+    "hint": "Semejante al plomo o excesivamente pesado y aburrido."
+  },
+  {
+    "word": "polichinela",
+    "synonyms": [
+      "títere",
+      "fantoche",
+      "bufón",
+      "muñeco"
+    ],
+    "hint": "Personaje ridículo o títere sin voluntad propia."
+  },
+  {
+    "word": "porfiar",
+    "synonyms": [
+      "insistir",
+      "obstinarse",
+      "disputar",
+      "perseverar"
+    ],
+    "hint": "Insistir con terquedad en una postura o meta."
+  },
+  {
+    "word": "postinero",
+    "synonyms": [
+      "elegante",
+      "presuntuoso",
+      "ostentoso",
+      "distinguido"
+    ],
+    "hint": "Que muestra presunción de elegancia o lujo."
+  },
+  {
+    "word": "precario",
+    "synonyms": [
+      "inestable",
+      "inseguro",
+      "insuficiente",
+      "escogido"
+    ],
+    "hint": "Sin estabilidad, duración ni recursos suficientes."
+  },
+  {
+    "word": "preceptor",
+    "synonyms": [
+      "maestro",
+      "tutor",
+      "instructor",
+      "ayo"
+    ],
+    "hint": "Persona encargada de la educación privada de alguien."
+  },
+  {
+    "word": "preclaro",
+    "synonyms": [
+      "ilustre",
+      "insigne",
+      "famoso",
+      "sobresaliente"
+    ],
+    "hint": "Digno de admiración por sus grandes virtudes."
+  },
+  {
+    "word": "predisposición",
+    "synonyms": [
+      "inclinación",
+      "propensión",
+      "tendencia",
+      "ánimo"
+    ],
+    "hint": "Disposición previa del ánimo hacia algo."
+  },
+  {
+    "word": "preeminencia",
+    "synonyms": [
+      "supremacía",
+      "prioridad",
+      "ventaja",
+      "superioridad"
+    ],
+    "hint": "Privilegio, exención o superioridad sobre otros."
+  },
+  {
+    "word": "preeminente",
+    "synonyms": [
+      "superior",
+      "destacado",
+      "principal",
+      "sobresaliente"
+    ],
+    "hint": "Que goza de preeminencia o preferencia."
+  },
+  {
+    "word": "prefacio",
+    "synonyms": [
+      "prólogo",
+      "introducción",
+      "preámbulo",
+      "exordio"
+    ],
+    "hint": "Texto introductorio situado al inicio de un libro."
+  },
+  {
+    "word": "preliminar",
+    "synonyms": [
+      "previo",
+      "introductorio",
+      "preparatorio",
+      "inicial"
+    ],
+    "hint": "Que sirve de preparación para el asunto principal."
+  },
+  {
+    "word": "premonición",
+    "synonyms": [
+      "presentimiento",
+      "corazonada",
+      "presagio",
+      "augurio"
+    ],
+    "hint": "Sensación previa de que algo va a suceder."
+  },
+  {
+    "word": "premonitorio",
+    "synonyms": [
+      "profético",
+      "indicativo",
+      "presagiador"
+    ],
+    "hint": "Que contiene una premonición o anuncio futuro."
+  },
+  {
+    "word": "presbítero",
+    "synonyms": [
+      "sacerdote",
+      "cura",
+      "clérigo",
+      "párroco"
+    ],
+    "hint": "Sacerdote ordenado que celebra la misa."
+  },
+  {
+    "word": "preservar",
+    "synonyms": [
+      "proteger",
+      "conservar",
+      "resguardar",
+      "defender"
+    ],
+    "hint": "Proteger algo de un daño o deterioro posible."
+  },
+  {
+    "word": "preterición",
+    "synonyms": [
+      "omisión",
+      "olvido",
+      "descarte",
+      "exclusión"
+    ],
+    "hint": "Omisión de nombrar a una persona u objeto."
+  },
+  {
+    "word": "preterir",
+    "synonyms": [
+      "omitir",
+      "posponer",
+      "relegar",
+      "olvidar"
+    ],
+    "hint": "Hacer caso omiso de algo o dejar a alguien de lado."
+  },
+  {
+    "word": "probidad",
+    "synonyms": [
+      "honradez",
+      "rectitud",
+      "integridad",
+      "virtud"
+    ],
+    "hint": "Integridad y honradez intachable en la conducta."
+  },
+  {
+    "word": "procaz",
+    "synonyms": [
+      "descarado",
+      "insolente",
+      "atrevido",
+      "soez"
+    ],
+    "hint": "Descarado o atrevido en el modo de hablar o actuar."
+  },
+  {
+    "word": "prodigioso",
+    "synonyms": [
+      "maravilloso",
+      "extraordinario",
+      "asombroso",
+      "singurar"
+    ],
+    "hint": "Que causa admiración por ser fuera de lo común."
+  },
+  {
+    "word": "proemio",
+    "synonyms": [
+      "prólogo",
+      "introducción",
+      "preámbulo",
+      "exordio"
+    ],
+    "hint": "Discurso o texto que sirve de cabecera a una obra."
+  },
+  {
+    "word": "profecía",
+    "synonyms": [
+      "predicción",
+      "augurio",
+      "pronóstico",
+      "presagio"
+    ],
+    "hint": "Anuncio inspirado de hechos que ocurrirán en el futuro."
+  },
+  {
+    "word": "profundidad",
+    "synonyms": [
+      "hondura",
+      "penetración",
+      "amplitud",
+      "complejidad"
+    ],
+    "hint": "Distancia desde la superficie al fondo o agudeza mental."
+  },
+  {
+    "word": "prohijar",
+    "synonyms": [
+      "adoptar",
+      "acoger",
+      "patrocinar",
+      "asumir"
+    ],
+    "hint": "Adoptar por hijo o asumir como propia una idea."
+  },
+  {
+    "word": "prole",
+    "synonyms": [
+      "descendencia",
+      "hijos",
+      "familia",
+      "sucesión"
+    ],
+    "hint": "Conjunto de hijos o descendientes de una persona."
+  },
+  {
+    "word": "proliferar",
+    "synonyms": [
+      "multiplicarse",
+      "crecer",
+      "abundar",
+      "reproducirse"
+    ],
+    "hint": "Multiplicarse con rapidez una forma de vida o fenómeno."
+  },
+  {
+    "word": "prolífica",
+    "synonyms": [
+      "fecunda",
+      "fructífera",
+      "creativa",
+      "abundante"
+    ],
+    "hint": "Que produce una gran cantidad de obras o descendencia."
+  },
+  {
+    "word": "propender",
+    "synonyms": [
+      "inclinarse",
+      "tender",
+      "orientarse",
+      "simpatizar"
+    ],
+    "hint": "Tener inclinación o tendencia natural hacia algo."
+  },
+  {
+    "word": "propensión",
+    "synonyms": [
+      "tendencia",
+      "inclinación",
+      "predisposición",
+      "afición"
+    ],
+    "hint": "Tendencia natural a hacer o preferir algo."
+  },
+  {
+    "word": "propincuidad",
+    "synonyms": [
+      "proximidad",
+      "cercanía",
+      "vecindad",
+      "afinidad"
+    ],
+    "hint": "Cercanía en el espacio, tiempo o parentesco."
+  },
+  {
+    "word": "propósito",
+    "synonyms": [
+      "intención",
+      "meta",
+      "objetivo",
+      "designio",
+      "fin"
+    ],
+    "hint": "Ánimo u objetivo que se pretende alcanzar."
+  },
+  {
+    "word": "prosecución",
+    "synonyms": [
+      "continuación",
+      "seguimiento",
+      "desarrollo",
+      "empeño"
+    ],
+    "hint": "Acción de seguir adelante con un fin o proyecto."
+  },
+  {
+    "word": "prospección",
+    "synonyms": [
+      "exploración",
+      "estudio",
+      "sondeo",
+      "búsqueda"
+    ],
+    "hint": "Exploración del terreno o previsión de posibilidades futuras."
+  },
+  {
+    "word": "prosperar",
+    "synonyms": [
+      "medrar",
+      "florecer",
+      "progresar",
+      "desarrollarse"
+    ],
+    "hint": "Mejorar la suerte, economía o éxito de algo."
+  },
+  {
+    "word": "prosélito",
+    "synonyms": [
+      "partidario",
+      "seguidor",
+      "adepto",
+      "convertido"
+    ],
+    "hint": "Persona ganada para una causa, religión o doctrina."
+  },
+  {
+    "word": "provecto",
+    "synonyms": [
+      "anciano",
+      "viejo",
+      "experimentado",
+      "avanzado"
+    ],
+    "hint": "Persona entrada en años o muy avanzada en desarrollo."
+  },
+  {
+    "word": "proverbio",
+    "synonyms": [
+      "refrán",
+      "aforismo",
+      "máxima",
+      "sentencia"
+    ],
+    "hint": "Frase de origen popular que expresa un consejo moral."
+  },
+  {
+    "word": "providencial",
+    "synonyms": [
+      "milagroso",
+      "oportuno",
+      "salvador",
+      "afortunado"
+    ],
+    "hint": "Que sucede como por intervención divina justa a tiempo."
+  },
+  {
+    "word": "prurito",
+    "synonyms": [
+      "picazón",
+      "deseo",
+      "afán",
+      "inquietud"
+    ],
+    "hint": "Deseo constante y a veces obsesivo de hacer algo perfecto."
+  },
+  {
+    "word": "prócer",
+    "synonyms": [
+      "héroe",
+      "prohombre",
+      "patricio",
+      "insigne"
+    ],
+    "hint": "Persona de alta dignidad o relevancia en la patria."
+  },
+  {
+    "word": "pródigo",
+    "synonyms": [
+      "despilfarrador",
+      "generoso",
+      "abundante",
+      "derrochador"
+    ],
+    "hint": "Que gasta con exceso o que da con gran abundancia."
+  },
+  {
+    "word": "pujante",
+    "synonyms": [
+      "vigoroso",
+      "fuerte",
+      "potente",
+      "dinámico"
+    ],
+    "hint": "Que posee un empuje o fuerza de crecimiento notable."
+  },
+  {
+    "word": "pujanza",
+    "synonyms": [
+      "fuerza",
+      "vigor",
+      "empuje",
+      "vitalidad"
+    ],
+    "hint": "Fuerza y vigor con que se inicia o desarrolla algo."
+  },
+  {
+    "word": "punitivo",
+    "synonyms": [
+      "sancionador",
+      "penal",
+      "castigador",
+      "corrector"
+    ],
+    "hint": "Perteneciente o relativo al castigo o sanción legal."
+  },
+  {
+    "word": "pusilánime",
+    "synonyms": [
+      "cobarde",
+      "miedoso",
+      "temeroso",
+      "apocado"
+    ],
+    "hint": "Falto de valor y ánimo para afrontar dificultades."
+  },
+  {
+    "word": "pío",
+    "synonyms": [
+      "devoto",
+      "religioso",
+      "benigno",
+      "misericordioso"
+    ],
+    "hint": "Devoto o inclinado a la piedad y religión."
+  },
+  {
+    "word": "querencia",
+    "synonyms": [
+      "tendencia",
+      "afecto",
+      "inclinación",
+      "apego"
+    ],
+    "hint": "Inclinación o afecto hacia un lugar o persona."
+  },
+  {
+    "word": "raigambre",
+    "synonyms": [
+      "arraigo",
+      "tradición",
+      "raíz",
+      "origen"
+    ],
+    "hint": "Conjunto de raíces o antecedentes de una costumbre."
+  },
+  {
+    "word": "raro",
+    "synonyms": [
+      "extraño",
+      "singular",
+      "escaso",
+      "inusual"
+    ],
+    "hint": "Poco común o fuera de lo ordinario."
+  },
+  {
+    "word": "reaccionario",
+    "synonyms": [
+      "conservador",
+      "retrógrado",
+      "tradicionalista"
+    ],
+    "hint": "Que se opone a las innovaciones políticas o sociales."
+  },
+  {
+    "word": "reajuste",
+    "synonyms": [
+      "modificación",
+      "adaptación",
+      "reestructuración"
+    ],
+    "hint": "Nuevo ajuste hecho para adaptar algo a condiciones cambiantes."
+  },
+  {
+    "word": "rebaba",
+    "synonyms": [
+      "saliente",
+      "exceso",
+      "borde",
+      "sobrante"
+    ],
+    "hint": "Porción de materia sobrante que sobresale en un borde."
+  },
+  {
+    "word": "recabar",
+    "synonyms": [
+      "recolectar",
+      "solicitar",
+      "conseguir",
+      "reunir"
+    ],
+    "hint": "Pedir o reunir datos, apoyos o fondos."
+  },
+  {
+    "word": "recio",
+    "synonyms": [
+      "fuerte",
+      "robusto",
+      "vigoroso",
+      "duro"
+    ],
+    "hint": "Fuerte, estricto o resistente a las adversidades."
+  },
+  {
+    "word": "recua",
+    "synonyms": [
+      "caravana",
+      "hilera",
+      "multitud",
+      "grupo"
+    ],
+    "hint": "Conjunto de animales de carga o sucesión de personas."
+  },
+  {
+    "word": "redención",
+    "synonyms": [
+      "salvación",
+      "liberación",
+      "rescate",
+      "perdon"
+    ],
+    "hint": "Librar a alguien de una mala situación o culpa."
+  },
+  {
+    "word": "redimir",
+    "synonyms": [
+      "liberar",
+      "salvar",
+      "rescatar",
+      "expiar"
+    ],
+    "hint": "Librar de la esclavitud, obligación o castigo."
+  },
+  {
+    "word": "refacción",
+    "synonyms": [
+      "reparación",
+      "alimento",
+      "restauración",
+      "refrigerio"
+    ],
+    "hint": "Reparación de un desperfecto o comida ligera."
+  },
+  {
+    "word": "refrendar",
+    "synonyms": [
+      "confirmar",
+      "ratificar",
+      "aprobar",
+      "firmar"
+    ],
+    "hint": "Autorizar o dar validez a un documento o hecho."
+  },
+  {
+    "word": "regurgitar",
+    "synonyms": [
+      "devolver",
+      "expulsar",
+      "vomitar",
+      "retornar"
+    ],
+    "hint": "Expulsar por la boca sustancias sin haberlas digerido."
+  },
+  {
+    "word": "reiterativo",
+    "synonyms": [
+      "repetitivo",
+      "insistente",
+      "redundante",
+      "frecuente"
+    ],
+    "hint": "Que se repite una y otra vez de forma constante."
+  },
+  {
+    "word": "remedo",
+    "synonyms": [
+      "imitación",
+      "copia",
+      "farsa",
+      "simulacro"
+    ],
+    "hint": "Imitación tosca o burda de una persona u objeto."
+  },
+  {
+    "word": "remembranza",
+    "synonyms": [
+      "recuerdo",
+      "reminiscencia",
+      "memoria",
+      "evocación"
+    ],
+    "hint": "Memoria de un hecho pasado que acude al ánimo."
+  },
+  {
+    "word": "reminiscencia",
+    "synonyms": [
+      "recuerdo",
+      "evocación",
+      "memoria",
+      "huella"
+    ],
+    "hint": "Recuerdo de algo casi olvidado o parecido entre cosas."
+  },
+  {
+    "word": "remoce",
+    "synonyms": [
+      "renovación",
+      "modernización",
+      "reforma"
+    ],
+    "hint": "Acción de dar un aspecto más nuevo o joven a algo."
+  },
+  {
+    "word": "remozar",
+    "synonyms": [
+      "renovar",
+      "rejuvenecer",
+      "modernizar",
+      "arreglar"
+    ],
+    "hint": "Dar un aspecto nuevo, joven o moderno a algo viejo."
+  },
+  {
+    "word": "renombre",
+    "synonyms": [
+      "fama",
+      "reputación",
+      "prestigio",
+      "notoriedad"
+    ],
+    "hint": "Fama o buena reputación alcanzada por méritos."
+  },
+  {
+    "word": "renuencia",
+    "synonyms": [
+      "repugnancia",
+      "resistencia",
+      "oposición",
+      "rechazo"
+    ],
+    "hint": "Resistencia a hacer o aceptar una cosa."
+  },
+  {
+    "word": "repliegue",
+    "synonyms": [
+      "retirada",
+      "retroceso",
+      "refugio",
+      "doblez"
+    ],
+    "hint": "Acción de retirar las tropas o recogerse en sí mismo."
+  },
+  {
+    "word": "reprender",
+    "synonyms": [
+      "reprochar",
+      "amonestar",
+      "regañar",
+      "censurar"
+    ],
+    "hint": "Expresar desaprobación a alguien por una falta."
+  },
+  {
+    "word": "reprobable",
+    "synonyms": [
+      "censurable",
+      "criticable",
+      "condenable",
+      "despreciable"
+    ],
+    "hint": "Que merece ser criticado o desaprobado."
+  },
+  {
+    "word": "reputación",
+    "synonyms": [
+      "fama",
+      "renombre",
+      "prestigio",
+      "crédito"
+    ],
+    "hint": "Opinión que se tiene de alguien o algo en la sociedad."
+  },
+  {
+    "word": "requiebro",
+    "synonyms": [
+      "piropo",
+      "elogio",
+      "halago",
+      "cortejo"
+    ],
+    "hint": "Expresión elogiosa o piropo dirigido a alguien."
+  },
+  {
+    "word": "resentido",
+    "synonyms": [
+      "dolido",
+      "despechado",
+      "amargado",
+      "rencoroso"
+    ],
+    "hint": "Que guarda sentimiento de pesar por un agravio."
+  },
+  {
+    "word": "restañar",
+    "synonyms": [
+      "curar",
+      "detener",
+      "cicatrizar",
+      "reparar"
+    ],
+    "hint": "Detener el hemorragia o reparar un daño moral."
+  },
+  {
+    "word": "retranca",
+    "synonyms": [
+      "ironía",
+      "malicia",
+      "reserva",
+      "subterfugio"
+    ],
+    "hint": "Intención disimulada o socarronería al decir algo."
+  },
+  {
+    "word": "retrechero",
+    "synonyms": [
+      "halagador",
+      "zalamero",
+      "simulativo",
+      "mañoso"
+    ],
+    "hint": "Que usa de halagos y zalamerías para evadir o conseguir algo."
+  },
+  {
+    "word": "retruécano",
+    "synonyms": [
+      "juego de palabras",
+      "conmutación",
+      "trocadilho"
+    ],
+    "hint": "Inversión de los términos de una frase para cambiar el sentido."
+  },
+  {
+    "word": "reverberación",
+    "synonyms": [
+      "reflejo",
+      "resplandor",
+      "eco",
+      "resonancia"
+    ],
+    "hint": "Reflejo de la luz o persistencia de un sonido."
+  },
+  {
+    "word": "ripio",
+    "synonyms": [
+      "sobrante",
+      "cascote",
+      "relleno",
+      "palabreria"
+    ],
+    "hint": "Palabras inútiles usadas para rellenar un escrito."
+  },
+  {
+    "word": "rudimento",
+    "synonyms": [
+      "base",
+      "fundamento",
+      "iniciación",
+      "noción"
+    ],
+    "hint": "Primeros estudios o principios de una ciencia o arte."
+  },
+  {
+    "word": "rudo",
+    "synonyms": [
+      "tosco",
+      "áspero",
+      "grosero",
+      "viguroso"
+    ],
+    "hint": "Sin pulimento, duro de modales o de inteligencia torpe."
+  },
+  {
+    "word": "ruin",
+    "synonyms": [
+      "vil",
+      "mezquino",
+      "despreciable",
+      "infame"
+    ],
+    "hint": "Malo, tacaño o de bajos sentimientos morales."
+  },
+  {
+    "word": "rumboso",
+    "synonyms": [
+      "generoso",
+      "magnánimo",
+      "espléndido",
+      "festejero"
+    ],
+    "hint": "Generoso al dar o de andar garboso y brillante."
+  },
+  {
+    "word": "rutilante",
+    "synonyms": [
+      "brillante",
+      "resplandeciente",
+      "fulgurante",
+      "fúlgido"
+    ],
+    "hint": "Que brilla de forma intensa y viva."
+  },
+  {
+    "word": "réprobo",
+    "synonyms": [
+      "condenado",
+      "maldito",
+      "perverso",
+      "infame"
+    ],
+    "hint": "Persona apartada de la salvación o rechazada por su conducta."
+  },
+  {
+    "word": "sagacidad",
+    "synonyms": [
+      "astucia",
+      "perspicacia",
+      "lucidez",
+      "penetración"
+    ],
+    "hint": "Habilidad para percibir las cosas con rapidez y acierto."
   },
   {
     "word": "sagaz",
-    "synonyms": ["astuto", "perspicaz", "inteligente", "agudo", "sutil"],
-    "hint": "Que tiene facilidad para comprender las cosas con agudeza."
+    "synonyms": [
+      "astuto",
+      "perspicaz",
+      "lucido",
+      "agudo"
+    ],
+    "hint": "Persona capaz de prever y actuar con gran astucia."
   },
   {
-    "word": "altruista",
-    "synonyms": ["generoso", "desinteresado", "filántropo", "caritativo"],
-    "hint": "Persona que procura el bien de los demás aun a costa del propio."
+    "word": "salaz",
+    "synonyms": [
+      "lascivo",
+      "lujurioso",
+      "sensual",
+      "impúdico"
+    ],
+    "hint": "Inclinado a los placeres carnales en exceso."
   },
   {
-    "word": "abrumar",
-    "synonyms": ["agobiar", "atribular", "agotar", "oprimir", "saturar"],
-    "hint": "Causar gran molestia, peso o fatiga emocional o mental."
+    "word": "sarcasmo",
+    "synonyms": [
+      "ironía",
+      "burla",
+      "mordacidad",
+      "sátira"
+    ],
+    "hint": "Burla cruenta e hiriente con que se ofende."
   },
   {
-    "word": "adular",
-    "synonyms": ["halagar", "lisonjear", "alabar", "cortejar"],
-    "hint": "Alabar excesivamente a alguien para ganar su favor."
+    "word": "sedentario",
+    "synonyms": [
+      "inactivo",
+      "fijo",
+      "asentado",
+      "quieto"
+    ],
+    "hint": "Poco dado al movimiento o propio de un lugar fijo."
   },
   {
-    "word": "Afligido",
-    "synonyms": ["apesadumbrado", "triste", "apenado", "desconsolado", "afligida"],
-    "hint": "Que siente o muestra aflicción, tristeza o sufrimiento."
+    "word": "segregar",
+    "synonyms": [
+      "separar",
+      "marginar",
+      "expulsar",
+      "secretar"
+    ],
+    "hint": "Apartar algo de un todo o producir un fluido orgánico."
   },
   {
-    "word": "Aletargado",
-    "synonyms": ["adormecido", "letárgico", "somnoliento", "inactivo", "pasivo"],
-    "hint": "Estado de cansancio o inactividad profunda."
+    "word": "servil",
+    "synonyms": [
+      "rastrero",
+      "adulador",
+      "sumiso",
+      "bajo"
+    ],
+    "hint": "Que muestra una obediencia excesiva o rastrera."
   },
   {
-    "word": "Anhelar",
-    "synonyms": ["desear", "ambicionar", "ansiar", "codiciar", "aspirar"],
-    "hint": "Tener un deseo vehemente o intenso de conseguir algo."
+    "word": "sesgo",
+    "synonyms": [
+      "orientación",
+      "desviación",
+      "prejuicio",
+      "matiz"
+    ],
+    "hint": "Orientación o desviación hacia una dirección concreta."
   },
   {
-    "word": "Apatía",
-    "synonyms": ["indiferencia", "desinterés", "desgana", "desidia", "desánimo"],
-    "hint": "Falta de emoción, interés o entusiasmo por las cosas."
+    "word": "señal",
+    "synonyms": [
+      "indicio",
+      "marca",
+      "huella",
+      "símbolo"
+    ],
+    "hint": "Rastro o marca que comunica una información."
   },
   {
-    "word": "Averso",
-    "synonyms": ["reacio", "contrario", "opuesto", "restringido", "desfavorable"],
-    "hint": "Que muestra inclinación opuesta o rechazo hacia algo."
+    "word": "sibilino",
+    "synonyms": [
+      "misterioso",
+      "enigmático",
+      "oscuro",
+      "profético"
+    ],
+    "hint": "Que encierra un significado oscuro o profético."
   },
   {
-    "word": "Bélico",
-    "synonyms": ["guerrero", "marcial", "combativo", "belicoso"],
-    "hint": "Relacionado directamente con la guerra o el combate."
+    "word": "simposio",
+    "synonyms": [
+      "congreso",
+      "reunión",
+      "conferencia",
+      "foro"
+    ],
+    "hint": "Reunión de expertos para tratar un tema específico."
   },
   {
-    "word": "Cándido",
-    "synonyms": ["ingenuo", "inocente", "bonachón", "ingenuidad", "crédulo"],
-    "hint": "Sin malicia, muy confiado o fácil de engañar."
+    "word": "sinecura",
+    "synonyms": [
+      "chollo",
+      "empleo lucrativo",
+      "ganga",
+      "componenda"
+    ],
+    "hint": "Empleo o cargo bien pagado que exige muy poco trabajo."
   },
   {
-    "word": "Celeridad",
-    "synonyms": ["rapidez", "prontitud", "velocidad", "agilidad", "presteza"],
-    "hint": "Prontitud y rapidez en el movimiento o la ejecución de algo."
+    "word": "sinodal",
+    "synonyms": [
+      "examinador",
+      "eclesiástico",
+      "asambleario"
+    ],
+    "hint": "Perteneciente al sínodo o miembro de un tribunal."
   },
   {
-    "word": "Censurar",
-    "synonyms": ["reprobar", "criticar", "condenar", "juzgar", "reprochar"],
-    "hint": "Formar juicio negativo sobre algo o prohibir su difusión."
+    "word": "sobrecogedor",
+    "synonyms": [
+      "impresionante",
+      "estremecedor",
+      "conmovedor",
+      "imponente"
+    ],
+    "hint": "Que emociona o asusta intensamente."
   },
   {
-    "word": "Certeza",
-    "synonyms": ["seguridad", "convicción", "certezas", "claridad", "evidencia"],
-    "hint": "Conocimiento seguro y claro de que algo es cierto."
+    "word": "sofisma",
+    "synonyms": [
+      "falacia",
+      "argucia",
+      "engaño",
+      "sutileza"
+    ],
+    "hint": "Argumento falso que parece verdadero."
   },
   {
-    "word": "Codicia",
-    "synonyms": ["avaricia", "ambición", "ansia", "avidez"],
-    "hint": "Deseo excesivo de riquezas u otros bienes."
+    "word": "soliloquia",
+    "synonyms": [
+      "monólogo",
+      "meditación",
+      "discurso a solas"
+    ],
+    "hint": "Reflexión o discurso que realiza una persona a solas."
   },
   {
-    "word": "Concidiar",
-    "synonyms": ["pacificar", "reconciliar", "armonizar", "acordar"],
-    "hint": "Poner de acuerdo a dos partes en desacuerdo."
+    "word": "solitario",
+    "synonyms": [
+      "aislado",
+      "solo",
+      "recluso",
+      "desierto"
+    ],
+    "hint": "Que vive sin compañía o lugar deshabitado."
   },
   {
-    "word": "Consternación",
-    "synonyms": ["abatimiento", "desolación", "pesadumbre", "sorpresa", "pánico"],
-    "hint": "Sentimiento de gran abatimiento o estupefacción."
+    "word": "sollozar",
+    "synonyms": [
+      "llorar",
+      "gemir",
+      "suspirar"
+    ],
+    "hint": "Llorar con entrecortados ahogos de aire."
   },
   {
-    "word": "Cordura",
-    "synonyms": ["juicio", "sensatez", "prudencia", "razón", "equidad"],
-    "hint": "Buen juicio y capacidad de actuar reflexivamente."
+    "word": "solícito",
+    "synonyms": [
+      "atento",
+      "diligente",
+      "servicial",
+      "afable"
+    ],
+    "hint": "Que actúa con diligencia, rapidez y amabilidad."
   },
   {
-    "word": "Debilitar",
-    "synonyms": ["atenuar", "mermar", "desgastar", "minar", "disminuir"],
-    "hint": "Quitar la fuerza o vigor a algo o alguien."
+    "word": "sombrío",
+    "synonyms": [
+      "oscuro",
+      "lóbrego",
+      "triste",
+      "pesimista"
+    ],
+    "hint": "Lugar de poca luz o estado de ánimo melancólico."
   },
   {
-    "word": "Decadencia",
-    "synonyms": ["declive", "degradación", "deterioro", "caída", "ruina"],
-    "hint": "Pérdida paulatina de la fuerza, valor o importancia."
+    "word": "somero",
+    "synonyms": [
+      "superficial",
+      "ligero",
+      "breve",
+      "sencillo"
+    ],
+    "hint": "Hecho casi en la superficie o de forma rápida y ligera."
   },
   {
-    "word": "Desdén",
-    "synonyms": ["desprecio", "indiferencia", "menosprecio", "desatención"],
-    "hint": "Actitud de indiferencia o desprecio hacia una persona o cosa."
+    "word": "sortilegio",
+    "synonyms": [
+      "hechizo",
+      "encantamiento",
+      "magia",
+      "embrujo"
+    ],
+    "hint": "Adivinación o práctica mágica para someter la voluntad."
   },
   {
-    "word": "Diligente",
-    "synonyms": ["trabajador", "eficiente", "solícito", "atento", "activo"],
-    "hint": "Que hace las cosas con prisa, cuidado y eficiencia."
+    "word": "sosegado",
+    "synonyms": [
+      "tranquilo",
+      "pacífico",
+      "sereno",
+      "calmado"
+    ],
+    "hint": "Que goza de sosiego y paz física o mental."
   },
   {
-    "word": "Dogmático",
-    "synonyms": ["intransigente", "autoritario", "inflexible", "categórico"],
-    "hint": "Que afirma sus opiniones como verdades irrefutables."
+    "word": "sosiego",
+    "synonyms": [
+      "tranquilidad",
+      "paz",
+      "calma",
+      "reposo"
+    ],
+    "hint": "Estado de tranquilidad y quietud."
   },
   {
-    "word": "Elocuente",
-    "synonyms": ["expresivo", "persuasivo", "convincente", "expresiva"],
-    "hint": "Que habla o se expresa de forma eficaz para persuadir."
+    "word": "soslayar",
+    "synonyms": [
+      "evitar",
+      "esquivar",
+      "pasar por alto",
+      "obviar"
+    ],
+    "hint": "Pasar por alto una dificultad con astucia."
   },
   {
-    "word": "Emular",
-    "synonyms": ["imitar", "igualar", "copiar", "seguir", "reproducir"],
-    "hint": "Imitar las acciones de alguien intentando igualarlo o superarlo."
+    "word": "subestimar",
+    "synonyms": [
+      "desvalorizar",
+      "menospreciar",
+      "desestimar"
+    ],
+    "hint": "Dar a algo o alguien menor valor del que realmente tiene."
   },
   {
-    "word": "Enigma",
-    "synonyms": ["misterio", "incógnita", "secreto", "acertijo", "rompecabezas"],
-    "hint": "Cosa o declaración que resulta difícil de entender o interpretar."
+    "word": "sublimar",
+    "synonyms": [
+      "engrandecer",
+      "exaltar",
+      "purificar",
+      "idealizar"
+    ],
+    "hint": "Engrandecer un impulso o pensamiento hacia un nivel superior."
   },
   {
-    "word": "Equitativo",
-    "synonyms": ["justo", "imparcial", "neutral", "equilibrado"],
-    "hint": "Que actúa con justicia e imparcialidad."
+    "word": "sublime",
+    "synonyms": [
+      "excelso",
+      "grandioso",
+      "magnífico",
+      "sublime"
+    ],
+    "hint": "De extraordinaria belleza, grandeza o eminencia moral."
   },
   {
-    "word": "Esmagado",
-    "synonyms": ["aplastado", "magullado", "comprimido", "destrozado"],
-    "hint": "Cosa o elemento que ha sufrido una compresión violenta."
+    "word": "subordinado",
+    "synonyms": [
+      "dependiente",
+      "súbdito",
+      "inferior",
+      "secundario"
+    ],
+    "hint": "Sujeto a la orden o mando de un superior."
   },
   {
-    "word": "Esporádico",
-    "synonyms": ["ocasional", "discontinuo", "aislado", "intermitente"],
-    "hint": "Que ocurre con poca frecuencia o sin regularidad."
+    "word": "subterfugio",
+    "synonyms": [
+      "excusa",
+      "rodeo",
+      "artimaña",
+      "evasiva"
+    ],
+    "hint": "Evasiva o pretexto ingenioso para eludir un compromiso."
   },
   {
-    "word": "Fervor",
-    "synonyms": ["entusiasmo", "pasión", "devoción", "ardor", "vehemencia"],
-    "hint": "Sentimiento intenso de entusiasmo o devoción hacia algo."
+    "word": "subvenir",
+    "synonyms": [
+      "costear",
+      "financiar",
+      "socorrer",
+      "auxiliar"
+    ],
+    "hint": "Aportar ayuda económica para cubrir una necesidad."
   },
   {
-    "word": "Furtivo",
-    "synonyms": ["secreto", "oculto", "clandestino", "sigiloso", "discreto"],
-    "hint": "Que se hace a escondidas o tratando de no ser visto."
+    "word": "sugestionar",
+    "synonyms": [
+      "influenciar",
+      "obsesionar",
+      "fascinar",
+      "persuadir"
+    ],
+    "hint": "Fijar una idea en la mente de alguien influyendo en su voluntad."
   },
   {
-    "word": "Hostil",
-    "synonyms": ["enemigo", "desfavorable", "agresivo", "antagónico", "adverso"],
-    "hint": "Que muestra enemistad, rechazo o agresión."
+    "word": "sugestivo",
+    "synonyms": [
+      "atractivo",
+      "evocador",
+      "seductor",
+      "tentador"
+    ],
+    "hint": "Que estimula la imaginación o resulta muy atractivo."
   },
   {
-    "word": "Ilícito",
-    "synonyms": ["ilegal", "prohibido", "indebido", "ilegítimo", "fraudulento"],
-    "hint": "Que no está permitido por la ley o la moral."
+    "word": "superchería",
+    "synonyms": [
+      "engaño",
+      "fraude",
+      "falsedad",
+      "embuste"
+    ],
+    "hint": "Engaño o mentira elaborada con intención fraudulenta."
   },
   {
-    "word": "Impetuoso",
-    "synonyms": ["impulsivo", "vehemente", "violento", "precipitado", "ardiente"],
-    "hint": "Que actúa de forma violenta, rápida o sin pensar."
+    "word": "suplantación",
+    "synonyms": [
+      "impostura",
+      "usurpación",
+      "sustitución",
+      "falsificación"
+    ],
+    "hint": "Ocupar con engaño la identidad o puesto de otra persona."
   },
   {
-    "word": "Indulgente",
-    "synonyms": ["tolerante", "comprensivo", "clemente", "benevolente", "perdonador"],
-    "hint": "Inclinado a perdonar o conceder gracia con facilidad."
+    "word": "supremacía",
+    "synonyms": [
+      "hegemonía",
+      "predominio",
+      "superioridad",
+      "liderazgo"
+    ],
+    "hint": "Grado supremo de poder, autoridad o cualidad."
   },
   {
-    "word": "Insolente",
-    "synonyms": ["descarado", "irrespetuoso", "malhablado", "atrevido", "soberbio"],
-    "hint": "Que falta al respeto a los demás con arrogancia."
+    "word": "sátrapa",
+    "synonyms": [
+      "tirano",
+      "déspota",
+      "gobernador",
+      "soberbio"
+    ],
+    "hint": "Gobernante antiguo o persona que vive en la ostentación y el abuso."
   },
   {
-    "word": "Lúcido",
-    "synonyms": ["claro", "despierto", "perspicaz", "razonable", "coherente"],
-    "hint": "Que mantiene la claridad mental y el buen juicio."
+    "word": "sólido",
+    "synonyms": [
+      "consistente",
+      "firme",
+      "robusto",
+      "fundado"
+    ],
+    "hint": "Consistente, firme y bien argumentado."
   },
   {
-    "word": "Magnánimo",
-    "synonyms": ["generoso", "noble", "altruista", "desinteresado", "clemente"],
-    "hint": "Persona de gran corazón, benévola y dada al perdón."
+    "word": "sórdido",
+    "synonyms": [
+      "miserable",
+      "sucio",
+      "mezquino",
+      "indecente"
+    ],
+    "hint": "Que padece de gran suciedad o bajeza moral."
   },
   {
-    "word": "Nocivo",
-    "synonyms": ["dañino", "perjudicial", "perjudicial", "tóxico", "nicioso"],
-    "hint": "Que causa daño, perjuicio o deterioro a la salud o a las cosas."
+    "word": "súbita",
+    "synonyms": [
+      "repentina",
+      "imprevista",
+      "inesperada",
+      "brusca"
+    ],
+    "hint": "Que sucede de forma imprevista y rápida."
   },
   {
-    "word": "Plausible",
-    "synonyms": ["creíble", "admisible", "razonable", "posible", "probable"],
-    "hint": "Que merece ser aplaudido o que parece razonable y creíble."
+    "word": "taciturno",
+    "synonyms": [
+      "callado",
+      "silencioso",
+      "reservado",
+      "triste"
+    ],
+    "hint": "Persona callada, melancólica o poco dada a hablar."
   },
   {
-    "word": "Sosegado",
-    "synonyms": ["tranquilo", "calmado", "pacífico", "reposado", "sereno"],
-    "hint": "Que se encuentra libre de turbación o alteración."
+    "word": "taimado",
+    "synonyms": [
+      "astuto",
+      "bellaco",
+      "solapado",
+      "ladino"
+    ],
+    "hint": "Astuto, disimulado y hábil para engañar."
   },
   {
-    "word": "Tácito",
-    "synonyms": ["implícito", "sobreentendido", "callado", "silencioso"],
-    "hint": "Que no se expresa formalmente pero se da por entendido."
+    "word": "talla",
+    "synonyms": [
+      "estatura",
+      "altura",
+      "calibre",
+      "escultura"
+    ],
+    "hint": "Estatura de una persona o nivel de prestigio/categoría."
+  },
+  {
+    "word": "talud",
+    "synonyms": [
+      "pendiente",
+      "inclinación",
+      "rampa",
+      "desnivel"
+    ],
+    "hint": "Inclinación del paramento de un muro o terreno."
+  },
+  {
+    "word": "tautología",
+    "synonyms": [
+      "redundancia",
+      "repetición",
+      "pleonasmo"
+    ],
+    "hint": "Repetición inútil de un mismo pensamiento con distintas palabras."
+  },
+  {
+    "word": "telúrico",
+    "synonyms": [
+      "terrestre",
+      "geológico",
+      "sísmico"
+    ],
+    "hint": "Perteneciente a la Tierra o a sus fuerzas profundas."
+  },
+  {
+    "word": "temperamento",
+    "synonyms": [
+      "carácter",
+      "índole",
+      "personalidad",
+      "genio"
+    ],
+    "hint": "Carácter o manera de ser natural de una persona."
+  },
+  {
+    "word": "templanza",
+    "synonyms": [
+      "sobriedad",
+      "moderación",
+      "mesura",
+      "continencia"
+    ],
+    "hint": "Virtud de moderar las pasiones y apetitos."
+  },
+  {
+    "word": "tenaz",
+    "synonyms": [
+      "firme",
+      "perseverante",
+      "constante",
+      "resistente"
+    ],
+    "hint": "Firme y constante en el empeño hasta conseguir la meta."
+  },
+  {
+    "word": "tenebroso",
+    "synonyms": [
+      "oscuro",
+      "lóbrego",
+      "misterioso",
+      "siniestro"
+    ],
+    "hint": "Oscuro, sombrío o cargado de intenciones ocultas."
+  },
+  {
+    "word": "tesón",
+    "synonyms": [
+      "perseverancia",
+      "firmeza",
+      "constancia",
+      "empeño"
+    ],
+    "hint": "Decisión y constancia inflexibles en una tarea."
+  },
+  {
+    "word": "timorato",
+    "synonyms": [
+      "miedoso",
+      "temeroso",
+      "apocado",
+      "vacilante"
+    ],
+    "hint": "Persona excesivamente timorata o temorosa de cometer faltas."
+  },
+  {
+    "word": "tiquismiquis",
+    "synonyms": [
+      "reparos",
+      "escrupuloso",
+      "remilgos",
+      "manías"
+    ],
+    "hint": "Escrupulosidad o melindres ridículos por tonterías."
+  },
+  {
+    "word": "tirano",
+    "synonyms": [
+      "déspota",
+      "dictador",
+      "opresor",
+      "autócrata"
+    ],
+    "hint": "Gobernante que ejerce el poder de forma absoluta y cruel."
+  },
+  {
+    "word": "titán",
+    "synonyms": [
+      "coloso",
+      "gigante",
+      "fuerza",
+      "poderoso"
+    ],
+    "hint": "Persona de excepcional fuerza física o intelectual."
+  },
+  {
+    "word": "torturar",
+    "synonyms": [
+      "atormentar",
+      "martirizar",
+      "afligir",
+      "castigar"
+    ],
+    "hint": "Causar sufrimiento físico o emocional intenso."
+  },
+  {
+    "word": "trabucar",
+    "synonyms": [
+      "trastornar",
+      "trabar",
+      "confundir",
+      "equivocar"
+    ],
+    "hint": "Trastornar el orden de las palabras o ideas al hablar."
+  },
+  {
+    "word": "trampantojo",
+    "synonyms": [
+      "trampa",
+      "engaño",
+      "ilusión",
+      "artimaña"
+    ],
+    "hint": "Trampa u trampa visual con que se engaña a alguien."
+  },
+  {
+    "word": "trance",
+    "synonyms": [
+      "situación crítica",
+      "aprieto",
+      "éxtasis",
+      "momento"
+    ],
+    "hint": "Momento crítico o estado de aislamiento mental."
+  },
+  {
+    "word": "transitorio",
+    "synonyms": [
+      "pasajero",
+      "temporal",
+      "fugaz",
+      "efímero"
+    ],
+    "hint": "Que dura un tiempo limitado y no es definitivo."
+  },
+  {
+    "word": "tremolina",
+    "synonyms": [
+      "alboroto",
+      "riña",
+      "confusión",
+      "griterío"
+    ],
+    "hint": "Alboroto, riña o conmoción ruidosa."
+  },
+  {
+    "word": "trivialidad",
+    "synonyms": [
+      "insignificancia",
+      "banalidad",
+      "futilidad"
+    ],
+    "hint": "Falta de importancia o sustancia en lo que se dice."
+  },
+  {
+    "word": "triza",
+    "synonyms": [
+      "pedazo",
+      "fragmento",
+      "astilla",
+      "aniquilación"
+    ],
+    "hint": "Pedazo diminuto de una cosa rota."
+  },
+  {
+    "word": "truculento",
+    "synonyms": [
+      "dramático",
+      "macabro",
+      "atroz",
+      "cruel"
+    ],
+    "hint": "Que sobrecoge o asusta por su morbo o crueldad."
+  },
+  {
+    "word": "tullido",
+    "synonyms": [
+      "paralítico",
+      "impedido",
+      "lisiado",
+      "mutilado"
+    ],
+    "hint": "Que ha perdido el uso de los miembros del cuerpo."
+  },
+  {
+    "word": "turbar",
+    "synonyms": [
+      "alterar",
+      "desconcertar",
+      "conmocionar",
+      "inquietar"
+    ],
+    "hint": "Alterar la calma, quietud o estado mental de alguien."
+  },
+  {
+    "word": "turbarse",
+    "synonyms": [
+      "desconcertarse",
+      "cortarse",
+      "confundirse"
+    ],
+    "hint": "Aturdirse o perder la compostura."
+  },
+  {
+    "word": "turbio",
+    "synonyms": [
+      "borroso",
+      "confuso",
+      "sospechoso",
+      "oscuro"
+    ],
+    "hint": "Que carece de claridad o de honestidad evidente."
+  },
+  {
+    "word": "turgente",
+    "synonyms": [
+      "hinchado",
+      "abultado",
+      "firme",
+      "consistente"
+    ],
+    "hint": "Abultado, firme y elevado por la presión interna."
+  },
+  {
+    "word": "tártaro",
+    "synonyms": [
+      "averno",
+      "infierno",
+      "abismo"
+    ],
+    "hint": "Lugar de castigos en la mitología clásica."
+  },
+  {
+    "word": "títere",
+    "synonyms": [
+      "muñeco",
+      "fantoche",
+      "polichinela",
+      "marioneta"
+    ],
+    "hint": "Muñeco movido por hilos o persona manipulada por otra."
+  },
+  {
+    "word": "tópico",
+    "synonyms": [
+      "cliché",
+      "estereotipo",
+      "lugar común",
+      "frase hecha"
+    ],
+    "hint": "Idea o expresión repetida con demasiada frecuencia."
+  },
+  {
+    "word": "tórrido",
+    "synonyms": [
+      "abrasador",
+      "caluroso",
+      "canicular",
+      "ardiente"
+    ],
+    "hint": "Sumamente caluroso o apasionado."
+  },
+  {
+    "word": "tótem",
+    "synonyms": [
+      "símbolo",
+      "emblema",
+      "protector",
+      "figura"
+    ],
+    "hint": "Objeto o animal tomado como símbolo protector."
+  },
+  {
+    "word": "ubérrimo",
+    "synonyms": [
+      "feracísimo",
+      "abundante",
+      "fecundo",
+      "fértil"
+    ],
+    "hint": "Extremadamente fértil u abundante en recursos."
+  },
+  {
+    "word": "ufano",
+    "synonyms": [
+      "orgulloso",
+      "engreído",
+      "satisfecho",
+      "contento"
+    ],
+    "hint": "Satisfecho de sí mismo con una punta de vanidad."
+  },
+  {
+    "word": "urbanidad",
+    "synonyms": [
+      "cortesía",
+      "buenos modales",
+      "educación",
+      "civismo"
+    ],
+    "hint": "Comportamiento correcto y atento en la sociedad."
+  },
+  {
+    "word": "urdir",
+    "synonyms": [
+      "tramar",
+      "confabular",
+      "maquinar",
+      "tejer"
+    ],
+    "hint": "Preparar en secreto un plan o complot."
+  },
+  {
+    "word": "vacilante",
+    "synonyms": [
+      "dudoso",
+      "inseguro",
+      "inestable",
+      "titubeante"
+    ],
+    "hint": "Que muestra duda o falta de firmeza al actuar."
+  },
+  {
+    "word": "vanidad",
+    "synonyms": [
+      "engreimiento",
+      "frivolidad",
+      "presunción",
+      "orgullo"
+    ],
+    "hint": "Orgullo basado en cualidades superficiales."
+  },
+  {
+    "word": "vate",
+    "synonyms": [
+      "poeta",
+      "bardo",
+      "adivino",
+      "profeta"
+    ],
+    "hint": "Poeta con capacidad para adivinar o inspirarse."
+  },
+  {
+    "word": "vehemencia",
+    "synonyms": [
+      "fuerza",
+      "impetuosidad",
+      "pasión",
+      "ardor"
+    ],
+    "hint": "Fuerza y pasión intensa al actuar o hablar."
+  },
+  {
+    "word": "veleidad",
+    "synonyms": [
+      "capricho",
+      "Inconstancia",
+      "deseo",
+      "volubilidad"
+    ],
+    "hint": "Deseo o cambio de opinión de corta duración."
+  },
+  {
+    "word": "veleidoso",
+    "synonyms": [
+      "inconstante",
+      "caprichoso",
+      "cambiante",
+      "voluble"
+    ],
+    "hint": "Propenso a cambiar de idea o afecto caprichosamente."
+  },
+  {
+    "word": "verdugo",
+    "synonyms": [
+      "ejecutor",
+      "castigador",
+      "opresor",
+      "tirano"
+    ],
+    "hint": "Persona encargada de ejecutar las penas de muerte o torturar."
+  },
+  {
+    "word": "vernáculo",
+    "synonyms": [
+      "autóctono",
+      "nativo",
+      "local",
+      "propio"
+    ],
+    "hint": "Lengua o costumbre propia del lugar o país de origen."
+  },
+  {
+    "word": "versátil",
+    "synonyms": [
+      "adaptable",
+      "flexible",
+      "polifacético",
+      "inconstante"
+    ],
+    "hint": "Capaz de adaptarse con facilidad a diversas funciones."
+  },
+  {
+    "word": "vetusta",
+    "synonyms": [
+      "vieja",
+      "antigua",
+      "arcaica",
+      "anciana"
+    ],
+    "hint": "Que es sumamente vieja o antigua."
+  },
+  {
+    "word": "vetusto",
+    "synonyms": [
+      "viejo",
+      "antiguo",
+      "arcaico",
+      "decrépito"
+    ],
+    "hint": "Extremadamente viejo o de tiempos remotos."
+  },
+  {
+    "word": "virago",
+    "synonyms": [
+      "marimacho",
+      "mujer varonil",
+      "fuerte"
+    ],
+    "hint": "Mujer de corpulencia, fuerza o ademanes considerados varoniles."
+  },
+  {
+    "word": "virtualidad",
+    "synonyms": [
+      "potencialidad",
+      "posibilidad",
+      "capacidad",
+      "efecto"
+    ],
+    "hint": "Capacidad implícita para producir un efecto determinado."
+  },
+  {
+    "word": "viscoso",
+    "synonyms": [
+      "pegajoso",
+      "denso",
+      "glutinoso",
+      "pastoso"
+    ],
+    "hint": "Sustancia espesa y pegajosa que fluye con dificultad."
+  },
+  {
+    "word": "vitorear",
+    "synonyms": [
+      "ovacionar",
+      "aplaudir",
+      "aclamar",
+      "felicitar"
+    ],
+    "hint": "Lanzar vítores o aplausos en honor a alguien."
+  },
+  {
+    "word": "vituperio",
+    "synonyms": [
+      "insulto",
+      "infamia",
+      "censura",
+      "reproche"
+    ],
+    "hint": "Acción o dicho con que se censura o insulta a alguien."
+  },
+  {
+    "word": "vocinglero",
+    "synonyms": [
+      "hablador",
+      "ruidoso",
+      "vociferante",
+      "chismoso"
+    ],
+    "hint": "Que habla mucho y a voces destempladas."
+  },
+  {
+    "word": "vodevil",
+    "synonyms": [
+      "comedia",
+      "farsa",
+      "enredo",
+      "espectáculo"
+    ],
+    "hint": "Comedia ligera basada en enredos y canciones."
+  },
+  {
+    "word": "volubilidad",
+    "synonyms": [
+      "inconstancia",
+      "veleidad",
+      "cambio",
+      "inestabilidad"
+    ],
+    "hint": "Carácter voluble o propensión a cambiar fácilmente."
+  },
+  {
+    "word": "voluble",
+    "synonyms": [
+      "inconstante",
+      "cambiante",
+      "veleidoso",
+      "caprichoso"
+    ],
+    "hint": "Que cambia fácilmente de humor o parecer."
+  },
+  {
+    "word": "yermo",
+    "synonyms": [
+      "desierto",
+      "deshabitado",
+      "infértil",
+      "baldío"
+    ],
+    "hint": "Terreno inhabitado o incapaz de dar fruto."
+  },
+  {
+    "word": "zahurda",
+    "synonyms": [
+      "pocilga",
+      "tugurio",
+      "estercolero",
+      "cuchitril"
+    ],
+    "hint": "Lugar sucio o vivienda miserable."
+  },
+  {
+    "word": "zalamero",
+    "synonyms": [
+      "halagador",
+      "cariñoso",
+      "adulador",
+      "retrechero"
+    ],
+    "hint": "Que hace demostraciones de cariño empalagosas para lograr algo."
+  },
+  {
+    "word": "zarria",
+    "synonyms": [
+      "barro",
+      "suciedad",
+      "harapo",
+      "trapo"
+    ],
+    "hint": "Barro adherido a la ropa o prenda sucia."
+  },
+  {
+    "word": "zote",
+    "synonyms": [
+      "torpe",
+      "necio",
+      "ignorante",
+      "zoquete"
+    ],
+    "hint": "Persona torpe e ignorante."
+  },
+  {
+    "word": "zozobra",
+    "synonyms": [
+      "angustia",
+      "intranquilidad",
+      "inquietud",
+      "peligro"
+    ],
+    "hint": "Inquietud o estado de alarma del ánimo."
+  },
+  {
+    "word": "ácrata",
+    "synonyms": [
+      "anarquista",
+      "antiatutoritario",
+      "libre"
+    ],
+    "hint": "Partidario de la abolición de toda autoridad."
+  },
+  {
+    "word": "ágape",
+    "synonyms": [
+      "banquete",
+      "festín",
+      "comida",
+      "homenaje"
+    ],
+    "hint": "Comida fraterna de caracter de celebración."
+  },
+  {
+    "word": "álgido",
+    "synonyms": [
+      "crítico",
+      "culminante",
+      "gélido",
+      "decisivo"
+    ],
+    "hint": "Momento culminante o de mayor importancia de un proceso."
+  },
+  {
+    "word": "ávido",
+    "synonyms": [
+      "ansioso",
+      "codicioso",
+      "deseoso",
+      "voraz"
+    ],
+    "hint": "Que desea algo con gran afán o codicia."
+  },
+  {
+    "word": "égida",
+    "synonyms": [
+      "protección",
+      "amparo",
+      "escudo",
+      "defensa"
+    ],
+    "hint": "Protección o amparo ejercido por una autoridad."
+  },
+  {
+    "word": "épica",
+    "synonyms": [
+      "heroica",
+      "gesta",
+      "poesía heroica",
+      "hazaña"
+    ],
+    "hint": "Relativo a las hazañas heroicas o de gran magnitud."
+  },
+  {
+    "word": "ímprobo",
+    "synonyms": [
+      "arduo",
+      "fatigoso",
+      "extenuante",
+      "difícil"
+    ],
+    "hint": "Trabajo o esfuerzo enorme, continuo y extenuante."
+  },
+  {
+    "word": "ínclito",
+    "synonyms": [
+      "ilustre",
+      "insigne",
+      "famoso",
+      "egregio"
+    ],
+    "hint": "Ilustre, afamado y muy respetado."
+  },
+  {
+    "word": "ósculo",
+    "synonyms": [
+      "beso",
+      "muesca",
+      "saludo"
+    ],
+    "hint": "Beso de respeto, afecto o reconciliación."
   }
 ]
