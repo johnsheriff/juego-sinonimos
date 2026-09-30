@@ -209,13 +209,24 @@
       document.getElementById('btn-rendirse').disabled = false;
     }
 
-    function pedirPista() {
+   function pedirPista() {
       if (!pistaUsada) {
         pistaUsada = true;
         const datos = obtenerDatosPregunta(bateria[indiceActual]);
         document.getElementById('pista-texto').textContent = datos.pista;
         document.getElementById('pista-container').classList.remove('oculto');
         document.getElementById('btn-pista').disabled = true;
+
+        // Mantener la caja de texto activa y enfocarla
+        const inputRespuesta = document.getElementById('respuesta-input');
+        inputRespuesta.disabled = false;
+        inputRespuesta.focus();
+
+        // Si ya había escrito algo (p. ej. "cruel"), lo selecciona entero
+        // para que se borre automáticamente al pulsar cualquier nueva letra
+        if (inputRespuesta.value.length > 0) {
+          inputRespuesta.select();
+        }
       }
     }
 
