@@ -144,11 +144,11 @@
       puntuacion = 0;
       indiceActual = 0;
 
-      // Cargar palabras desde el archivo JSON existente sin modificarlo
+      // Cargar palabras desde el archivo JSON existente
       fetch('palabras.json')
         .then(response => response.json())
         .then(data => {
-          // Seleccionar 25 palabras al azar de tu lista (o todas si hay menos de 25)
+          // Seleccionar 25 palabras al azar (o todas si hay menos de 25)
           bateria = data.sort(() => 0.5 - Math.random()).slice(0, 25);
           
           document.getElementById('pantalla-inicio').classList.add('oculto');
@@ -162,7 +162,7 @@
         });
     }
 
-    // Adaptador para leer la respuesta correcta y la pista sin importar la estructura exacta de tu JSON
+    // Adaptador para leer la respuesta correcta y la pista sin importar la estructura exacta del JSON
     function obtenerDatosPregunta(objeto) {
       const palabra = objeto.palabra || objeto.concepto || objeto.pregunta || "Pregunta";
       const respuesta = objeto.respuestaCorrecta || objeto.respuesta || objeto.solucion || "";
@@ -306,6 +306,10 @@
       document.getElementById('pantalla-inicio').classList.remove('oculto');
       mostrarRanking('ranking-lista-inicio');
     }
+  </script>
+
+</body>
+</html>    }
   </script>
 
 </body>
