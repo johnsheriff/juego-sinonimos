@@ -231,13 +231,24 @@
     }
 
     function responder() {
-      const respuestaUsuario = document.getElementById('respuesta-input').value.trim();
+      const input = document.getElementById('respuesta-input');
+      const respuestaUsuario = input.value.trim().toLowerCase();
       if (!respuestaUsuario) return;
 
       const datos = obtenerDatosPregunta(bateria[indiceActual]);
       
-      // Comprobación flexible (insensible a mayúsculas/minúsculas)
-      const esCorrecta = respuestaUsuario.toLowerCase() === datos.respuesta.toLowerCase();
+      // Comprobar si la respuesta coincide con alguna de las opciones válidas
+      let esCorrecta = false;
+      const elementoOriginal = bateria[indiceActual];
+      let opcionesValidas = elementoOriginal.sinonimos || elementoOriginal.sinonimo || elementoOriginal.respuestaCorrecta || elementoOriginal.respuesta || datos.respuesta;
+
+      if (Array.isArray(opcionesValidas)) {
+        esCorrecta = opcionesValidas.some(opt => opt.toString().trim().toLowerCase() === respuestaUsuario);
+      } else if (typeof opcionesValidas === 'string') {
+        // Separa por comas si viene en un solo texto con varias opciones
+        const lista = opcionesValidas.split(',').map(s => s.trim().toLowerCase());
+        esCorrecta = lista.includes(respuestaUsuario);
+      }
 
       bloquearControles();
 
