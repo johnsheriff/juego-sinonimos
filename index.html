@@ -162,23 +162,27 @@
         });
     }
 
-    // Adaptador flexible para detectar las propiedades del JSON
+  // Adaptador flexible para detectar las propiedades del JSON
     function obtenerDatosPregunta(objeto) {
-      if (!objeto) return { palabra: "---", respuesta: "", pista: "" };
+      if (!objeto) return { palabra: "---", respuesta: "Desconocida", pista: "" };
 
-      // Búsqueda de palabra/concepto a mostrar
+      // 1. Obtener la palabra principal
       const palabra = objeto.palabra || objeto.concepto || objeto.pregunta || objeto.word || Object.values(objeto)[0] || "Pregunta";
-      
-      // Búsqueda de respuesta correcta (admite arrays de respuestas o texto simple)
-      let respuesta = objeto.respuestaCorrecta || objeto.respuesta || objeto.sinonimo || objeto.solucion || objeto.synonym || "";
+
+      // 2. Búsqueda de respuesta correcta (soporta arrays, sinonimos en plural y alternativas)
+      let respuesta = objeto.respuestaCorrecta || objeto.respuesta || objeto.sinonimo || objeto.sinonimos || objeto.solucion || objeto.synonym || "";
+
       if (Array.isArray(respuesta)) {
-        respuesta = respuesta[0]; // Toma el primer sinónimo si es una lista
+        respuesta = respuesta.join(", "); // Muestra todas las opciones válidas
+      } else if (!respuesta && Object.keys(objeto).length > 1) {
+        // Si no encuentra una clave estándar, toma el segundo dato del objeto
+        respuesta = Object.values(objeto)[1];
       }
 
-      // Búsqueda de pista o definición
+      // 3. Obtener la pista o definición
       const pista = objeto.pista || objeto.definicion || objeto.ayuda || objeto.hint || "No hay pista disponible para esta palabra.";
 
-      return { palabra, respuesta, pista };
+      return { palabra, respuesta: respuesta || "Sin respuesta definida", pista };
     }
 
     function cargarPregunta() {
