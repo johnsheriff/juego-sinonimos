@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Juego de Palabras</title>
+  <title>El desafío de los sinónimos</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -72,7 +72,7 @@
   <div class="card">
     <!-- PANTALLA INICIAL -->
     <div id="pantalla-inicio">
-      <h1>Juego de Palabras</h1>
+      <h1>El desafío de los sinónimos</h1>
       <p>Introduce tu nombre para comenzar la batería de 25 preguntas:</p>
       <input type="text" id="nombre-jugador" placeholder="Tu nombre o apodo">
       <br>
@@ -144,11 +144,11 @@
       puntuacion = 0;
       indiceActual = 0;
 
-      // Cargar palabras desde el archivo JSON existente
+      // Cargar palabras desde el archivo JSON
       fetch('palabras.json')
         .then(response => response.json())
         .then(data => {
-          // Seleccionar 25 palabras al azar (o todas si hay menos de 25)
+          // Seleccionar 25 palabras al azar (o todas si hay menos)
           bateria = data.sort(() => 0.5 - Math.random()).slice(0, 25);
           
           document.getElementById('pantalla-inicio').classList.add('oculto');
@@ -162,11 +162,22 @@
         });
     }
 
-    // Adaptador para leer la respuesta correcta y la pista sin importar la estructura exacta del JSON
+    // Adaptador flexible para detectar las propiedades del JSON
     function obtenerDatosPregunta(objeto) {
-      const palabra = objeto.palabra || objeto.concepto || objeto.pregunta || "Pregunta";
-      const respuesta = objeto.respuestaCorrecta || objeto.respuesta || objeto.solucion || "";
-      const pista = objeto.pista || objeto.definicion || objeto.ayuda || "No hay pista disponible.";
+      if (!objeto) return { palabra: "---", respuesta: "", pista: "" };
+
+      // Búsqueda de palabra/concepto a mostrar
+      const palabra = objeto.palabra || objeto.concepto || objeto.pregunta || objeto.word || Object.values(objeto)[0] || "Pregunta";
+      
+      // Búsqueda de respuesta correcta (admite arrays de respuestas o texto simple)
+      let respuesta = objeto.respuestaCorrecta || objeto.respuesta || objeto.sinonimo || objeto.solucion || objeto.synonym || "";
+      if (Array.isArray(respuesta)) {
+        respuesta = respuesta[0]; // Toma el primer sinónimo si es una lista
+      }
+
+      // Búsqueda de pista o definición
+      const pista = objeto.pista || objeto.definicion || objeto.ayuda || objeto.hint || "No hay pista disponible para esta palabra.";
+
       return { palabra, respuesta, pista };
     }
 
@@ -209,6 +220,8 @@
       if (!respuestaUsuario) return;
 
       const datos = obtenerDatosPregunta(bateria[indiceActual]);
+      
+      // Comprobación flexible (insensible a mayúsculas/minúsculas)
       const esCorrecta = respuestaUsuario.toLowerCase() === datos.respuesta.toLowerCase();
 
       bloquearControles();
@@ -230,7 +243,6 @@
       const datos = obtenerDatosPregunta(bateria[indiceActual]);
       bloquearControles();
       
-      // Suma 0 y no resta nada
       mostrarFeedback(`Te has rendido. La respuesta correcta era: "${datos.respuesta}"`, "info");
       document.getElementById('btn-siguiente').classList.remove('oculto');
     }
@@ -274,10 +286,7 @@
       let ranking = JSON.parse(localStorage.getItem('ranking_juego')) || [];
       ranking.push({ nombre: nombre, puntos: puntos, fecha: new Date().toLocaleDateString() });
       
-      // Ordenar de mayor a menor puntuación
       ranking.sort((a, b) => b.puntos - a.puntos);
-      
-      // Conservar únicamente los 10 mejores
       ranking = ranking.slice(0, 10);
       
       localStorage.setItem('ranking_juego', JSON.stringify(ranking));
@@ -306,10 +315,6 @@
       document.getElementById('pantalla-inicio').classList.remove('oculto');
       mostrarRanking('ranking-lista-inicio');
     }
-  </script>
-
-</body>
-</html>    }
   </script>
 
 </body>
