@@ -230,7 +230,7 @@
       }
     }
 
-    function responder() {
+   function responder() {
       const input = document.getElementById('respuesta-input');
       const respuestaUsuario = input.value.trim().toLowerCase();
       if (!respuestaUsuario) return;
@@ -245,7 +245,6 @@
       if (Array.isArray(opcionesValidas)) {
         esCorrecta = opcionesValidas.some(opt => opt.toString().trim().toLowerCase() === respuestaUsuario);
       } else if (typeof opcionesValidas === 'string') {
-        // Separa por comas si viene en un solo texto con varias opciones
         const lista = opcionesValidas.split(',').map(s => s.trim().toLowerCase());
         esCorrecta = lista.includes(respuestaUsuario);
       }
@@ -257,11 +256,13 @@
         puntuacion += puntosGanados;
         mostrarFeedback(`¡Correcto! Sumas ${puntosGanados} pt(s).`, "exito");
       } else {
-        puntuacion -= 0.33;
+        puntuacion -= 0.33; // Resta incluso si el marcador está en 0 o ya es negativo
         mostrarFeedback(`Incorrecto. Restas 0.33 pts. La respuesta correcta era: "${datos.respuesta}"`, "error");
       }
 
-      document.getElementById('puntos-actuales').textContent = Math.round(puntuacion * 100) / 100;
+      // Redondeo correcto tanto para positivos como para negativos
+      const puntosRedondeados = (Math.round(puntuacion * 100) / 100).toFixed(2);
+      document.getElementById('puntos-actuales').textContent = puntosRedondeados;
       document.getElementById('btn-siguiente').classList.remove('oculto');
     }
 
